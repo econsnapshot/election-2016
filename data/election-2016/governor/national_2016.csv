@@ -1,0 +1,3589 @@
+State,County,Party,St_FIPS,County_FIPS,Candidate,Percentage,Votes
+de,Kent County,D,10,10001,John Carney,49.68,35954
+de,Kent County,R,10,10001,Colin Bonini,48.05,34777
+de,Kent County,Grn,10,10001,Andrew Groff,1.15,835
+de,Kent County,Lib,10,10001,Sean Goward,1.11,805
+de,New Castle County,D,10,10003,John Carney,66.21,165973
+de,New Castle County,R,10,10003,Colin Bonini,31.05,77837
+de,New Castle County,Grn,10,10003,Andrew Groff,1.54,3884
+de,New Castle County,Lib,10,10003,Sean Goward,1.18,2978
+de,Sussex County,R,10,10005,Colin Bonini,52.79,54235
+de,Sussex County,D,10,10005,John Carney,45.23,46475
+de,Sussex County,Grn,10,10005,Andrew Groff,1.19,1232
+de,Sussex County,Lib,10,10005,Sean Goward,0.77,794
+in,Adams County,R,18,18001,Eric Holcomb,64.42,8403
+in,Adams County,D,18,18001,John Gregg,32.74,4271
+in,Adams County,Lib,18,18001,Rex Bell,2.83,370
+in,Allen County,R,18,18003,Eric Holcomb,54.78,80334
+in,Allen County,D,18,18003,John Gregg,42.16,61823
+in,Allen County,Lib,18,18003,Rex Bell,3.04,4465
+in,Bartholomew County,R,18,18005,Eric Holcomb,59.46,19060
+in,Bartholomew County,D,18,18005,John Gregg,37.03,11869
+in,Bartholomew County,Lib,18,18005,Rex Bell,3.5,1122
+in,Benton County,R,18,18007,Eric Holcomb,63.17,2318
+in,Benton County,D,18,18007,John Gregg,32.73,1201
+in,Benton County,Lib,18,18007,Rex Bell,4.08,150
+in,Blackford County,R,18,18009,Eric Holcomb,56.78,2719
+in,Blackford County,D,18,18009,John Gregg,38.76,1856
+in,Blackford County,Lib,18,18009,Rex Bell,4.44,213
+in,Boone County,R,18,18011,Eric Holcomb,59.94,19269
+in,Boone County,D,18,18011,John Gregg,36.91,11868
+in,Boone County,Lib,18,18011,Rex Bell,3.13,1009
+in,Brown County,R,18,18013,Eric Holcomb,56.36,4487
+in,Brown County,D,18,18013,John Gregg,40.21,3201
+in,Brown County,Lib,18,18013,Rex Bell,3.41,272
+in,Carroll County,R,18,18015,Eric Holcomb,62.16,5381
+in,Carroll County,D,18,18015,John Gregg,33.75,2922
+in,Carroll County,Lib,18,18015,Rex Bell,4.07,353
+in,Cass County,R,18,18017,Eric Holcomb,56.61,8055
+in,Cass County,D,18,18017,John Gregg,39.79,5661
+in,Cass County,Lib,18,18017,Rex Bell,3.59,511
+in,Clark County,R,18,18019,Eric Holcomb,56.51,28420
+in,Clark County,D,18,18019,John Gregg,40.31,20273
+in,Clark County,Lib,18,18019,Rex Bell,3.17,1597
+in,Clay County,R,18,18021,Eric Holcomb,58.41,6457
+in,Clay County,D,18,18021,John Gregg,38.53,4260
+in,Clay County,Lib,18,18021,Rex Bell,3.04,337
+in,Clinton County,R,18,18023,Eric Holcomb,61.06,7125
+in,Clinton County,D,18,18023,John Gregg,35.31,4120
+in,Clinton County,Lib,18,18023,Rex Bell,3.62,423
+in,Crawford County,R,18,18025,Eric Holcomb,53.35,2379
+in,Crawford County,D,18,18025,John Gregg,43.14,1924
+in,Crawford County,Lib,18,18025,Rex Bell,3.49,156
+in,Daviess County,R,18,18027,Eric Holcomb,60.22,6460
+in,Daviess County,D,18,18027,John Gregg,37.74,4049
+in,Daviess County,Lib,18,18027,Rex Bell,2.02,217
+in,DeKalb County,R,18,18033,Eric Holcomb,63.41,10501
+in,DeKalb County,D,18,18033,John Gregg,32.24,5339
+in,DeKalb County,Lib,18,18033,Rex Bell,4.33,718
+in,Dearborn County,R,18,18029,Eric Holcomb,71.54,16604
+in,Dearborn County,D,18,18029,John Gregg,25.57,5936
+in,Dearborn County,Lib,18,18029,Rex Bell,2.88,669
+in,Decatur County,R,18,18031,Eric Holcomb,66.75,7230
+in,Decatur County,D,18,18031,John Gregg,30.38,3291
+in,Decatur County,Lib,18,18031,Rex Bell,2.86,310
+in,Delaware County,D,18,18035,John Gregg,49.72,22136
+in,Delaware County,R,18,18035,Eric Holcomb,46.57,20736
+in,Delaware County,Lib,18,18035,Rex Bell,3.69,1645
+in,Dubois County,R,18,18037,Eric Holcomb,55.51,10821
+in,Dubois County,D,18,18037,John Gregg,41.92,8171
+in,Dubois County,Lib,18,18037,Rex Bell,2.56,499
+in,Elkhart County,R,18,18039,Eric Holcomb,61.01,40107
+in,Elkhart County,D,18,18039,John Gregg,36.05,23697
+in,Elkhart County,Lib,18,18039,Rex Bell,2.92,1925
+in,Fayette County,R,18,18041,Eric Holcomb,59.01,5485
+in,Fayette County,D,18,18041,John Gregg,36.24,3369
+in,Fayette County,Lib,18,18041,Rex Bell,4.74,441
+in,Floyd County,R,18,18043,Eric Holcomb,56.16,20775
+in,Floyd County,D,18,18043,John Gregg,41.01,15171
+in,Floyd County,Lib,18,18043,Rex Bell,2.81,1042
+in,Fountain County,R,18,18045,Eric Holcomb,64.11,4791
+in,Fountain County,D,18,18045,John Gregg,32.17,2404
+in,Fountain County,Lib,18,18045,Rex Bell,3.7,277
+in,Franklin County,R,18,18047,Eric Holcomb,72.54,7791
+in,Franklin County,D,18,18047,John Gregg,25.09,2695
+in,Franklin County,Lib,18,18047,Rex Bell,2.36,254
+in,Fulton County,R,18,18049,Eric Holcomb,61.14,5142
+in,Fulton County,D,18,18049,John Gregg,35.39,2977
+in,Fulton County,Lib,18,18049,Rex Bell,3.46,291
+in,Gibson County,R,18,18051,Eric Holcomb,59.31,9201
+in,Gibson County,D,18,18051,John Gregg,38.47,5968
+in,Gibson County,Lib,18,18051,Rex Bell,2.21,344
+in,Grant County,R,18,18053,Eric Holcomb,59.51,14929
+in,Grant County,D,18,18053,John Gregg,36.98,9277
+in,Grant County,Lib,18,18053,Rex Bell,3.5,878
+in,Greene County,R,18,18055,Eric Holcomb,49.68,6833
+in,Greene County,D,18,18055,John Gregg,48.06,6610
+in,Greene County,Lib,18,18055,Rex Bell,2.24,309
+in,Hamilton County,R,18,18057,Eric Holcomb,58.4,90266
+in,Hamilton County,D,18,18057,John Gregg,38.9,60130
+in,Hamilton County,Lib,18,18057,Rex Bell,2.68,4147
+in,Hancock County,R,18,18059,Eric Holcomb,62.47,22673
+in,Hancock County,D,18,18059,John Gregg,34.02,12346
+in,Hancock County,Lib,18,18059,Rex Bell,3.5,1271
+in,Harrison County,R,18,18061,Eric Holcomb,63.49,11680
+in,Harrison County,D,18,18061,John Gregg,34.23,6297
+in,Harrison County,Lib,18,18061,Rex Bell,2.26,417
+in,Hendricks County,R,18,18063,Eric Holcomb,60.58,45198
+in,Hendricks County,D,18,18063,John Gregg,36.42,27175
+in,Hendricks County,Lib,18,18063,Rex Bell,2.98,2226
+in,Henry County,R,18,18065,Eric Holcomb,53.56,10769
+in,Henry County,D,18,18065,John Gregg,37.55,7551
+in,Henry County,Lib,18,18065,Rex Bell,8.88,1786
+in,Howard County,R,18,18067,Eric Holcomb,53.78,19903
+in,Howard County,D,18,18067,John Gregg,42.72,15812
+in,Howard County,Lib,18,18067,Rex Bell,3.48,1290
+in,Huntington County,R,18,18069,Eric Holcomb,64.23,10092
+in,Huntington County,D,18,18069,John Gregg,31.44,4941
+in,Huntington County,Lib,18,18069,Rex Bell,4.32,679
+in,Jackson County,R,18,18071,Eric Holcomb,65.05,11319
+in,Jackson County,D,18,18071,John Gregg,32.26,5613
+in,Jackson County,Lib,18,18071,Rex Bell,2.67,466
+in,Jasper County,R,18,18073,Eric Holcomb,61.28,8086
+in,Jasper County,D,18,18073,John Gregg,35.84,4730
+in,Jasper County,Lib,18,18073,Rex Bell,2.86,378
+in,Jay County,R,18,18075,Eric Holcomb,58.9,4603
+in,Jay County,D,18,18075,John Gregg,37.56,2935
+in,Jay County,Lib,18,18075,Rex Bell,3.53,276
+in,Jefferson County,R,18,18077,Eric Holcomb,56.74,7498
+in,Jefferson County,D,18,18077,John Gregg,40.64,5371
+in,Jefferson County,Lib,18,18077,Rex Bell,2.6,344
+in,Jennings County,R,18,18079,Eric Holcomb,64.22,7088
+in,Jennings County,D,18,18079,John Gregg,32.69,3608
+in,Jennings County,Lib,18,18079,Rex Bell,3.08,340
+in,Johnson County,R,18,18081,Eric Holcomb,63.64,42465
+in,Johnson County,D,18,18081,John Gregg,33.36,22263
+in,Johnson County,Lib,18,18081,Rex Bell,2.98,1994
+in,Knox County,D,18,18083,John Gregg,55.82,8597
+in,Knox County,R,18,18083,Eric Holcomb,42.27,6511
+in,Knox County,Lib,18,18083,Rex Bell,1.89,292
+in,Kosciusko County,R,18,18085,Eric Holcomb,69.62,22287
+in,Kosciusko County,D,18,18085,John Gregg,26.41,8454
+in,Kosciusko County,Lib,18,18085,Rex Bell,3.95,1267
+in,LaGrange County,R,18,18087,Eric Holcomb,65.7,6315
+in,LaGrange County,D,18,18087,John Gregg,30.7,2951
+in,LaGrange County,Lib,18,18087,Rex Bell,3.58,345
+in,LaPorte County,D,18,18091,John Gregg,54.53,24135
+in,LaPorte County,R,18,18091,Eric Holcomb,41.7,18459
+in,LaPorte County,Lib,18,18091,Rex Bell,3.76,1666
+in,Lake County,D,18,18089,John Gregg,64.67,127460
+in,Lake County,R,18,18089,Eric Holcomb,32.96,64967
+in,Lake County,Lib,18,18089,Rex Bell,2.35,4638
+in,Lawrence County,R,18,18093,Eric Holcomb,62.6,11682
+in,Lawrence County,D,18,18093,John Gregg,34.31,6402
+in,Lawrence County,Lib,18,18093,Rex Bell,3.08,575
+in,Madison County,R,18,18095,Eric Holcomb,51.37,27579
+in,Madison County,D,18,18095,John Gregg,44.78,24041
+in,Madison County,Lib,18,18095,Rex Bell,3.84,2062
+in,Marion County,D,18,18097,John Gregg,62.06,225925
+in,Marion County,R,18,18097,Eric Holcomb,34.99,127384
+in,Marion County,Lib,18,18097,Rex Bell,2.94,10702
+in,Marshall County,R,18,18099,Eric Holcomb,58.77,10479
+in,Marshall County,D,18,18099,John Gregg,37.98,6772
+in,Marshall County,Lib,18,18099,Rex Bell,3.23,577
+in,Martin County,R,18,18101,Eric Holcomb,59.26,2827
+in,Martin County,D,18,18101,John Gregg,38.21,1823
+in,Martin County,Lib,18,18101,Rex Bell,2.51,120
+in,Miami County,R,18,18103,Eric Holcomb,61.13,8094
+in,Miami County,D,18,18103,John Gregg,34.71,4596
+in,Miami County,Lib,18,18103,Rex Bell,4.14,549
+in,Monroe County,D,18,18105,John Gregg,62.49,36303
+in,Monroe County,R,18,18105,Eric Holcomb,34.2,19866
+in,Monroe County,Lib,18,18105,Rex Bell,3.3,1918
+in,Montgomery County,R,18,18107,Eric Holcomb,62.08,9412
+in,Montgomery County,D,18,18107,John Gregg,34.29,5200
+in,Montgomery County,Lib,18,18107,Rex Bell,3.62,549
+in,Morgan County,R,18,18109,Eric Holcomb,66.08,20427
+in,Morgan County,D,18,18109,John Gregg,30.26,9354
+in,Morgan County,Lib,18,18109,Rex Bell,3.64,1128
+in,Newton County,R,18,18111,Eric Holcomb,60.53,3482
+in,Newton County,D,18,18111,John Gregg,35.9,2065
+in,Newton County,Lib,18,18111,Rex Bell,3.56,205
+in,Noble County,R,18,18113,Eric Holcomb,63.01,10475
+in,Noble County,D,18,18113,John Gregg,33.15,5512
+in,Noble County,Lib,18,18113,Rex Bell,3.83,637
+in,Ohio County,R,18,18115,Eric Holcomb,63.08,1805
+in,Ohio County,D,18,18115,John Gregg,34.81,996
+in,Ohio County,Lib,18,18115,Rex Bell,2.09,60
+in,Orange County,R,18,18117,Eric Holcomb,60.12,4826
+in,Orange County,D,18,18117,John Gregg,37.01,2971
+in,Orange County,Lib,18,18117,Rex Bell,2.85,229
+in,Owen County,R,18,18119,Eric Holcomb,59.87,5083
+in,Owen County,D,18,18119,John Gregg,36.19,3073
+in,Owen County,Lib,18,18119,Rex Bell,3.93,334
+in,Parke County,R,18,18121,Eric Holcomb,57.59,3824
+in,Parke County,D,18,18121,John Gregg,39.28,2608
+in,Parke County,Lib,18,18121,Rex Bell,3.11,207
+in,Perry County,D,18,18123,John Gregg,53.21,4222
+in,Perry County,R,18,18123,Eric Holcomb,44.35,3519
+in,Perry County,Lib,18,18123,Rex Bell,2.43,193
+in,Pike County,R,18,18125,Eric Holcomb,52.64,3114
+in,Pike County,D,18,18125,John Gregg,45.15,2671
+in,Pike County,Lib,18,18125,Rex Bell,2.19,130
+in,Porter County,D,18,18127,John Gregg,54.06,41428
+in,Porter County,R,18,18127,Eric Holcomb,42.81,32810
+in,Porter County,Lib,18,18127,Rex Bell,3.11,2389
+in,Posey County,R,18,18129,Eric Holcomb,57.72,7194
+in,Posey County,D,18,18129,John Gregg,40.27,5019
+in,Posey County,Lib,18,18129,Rex Bell,1.99,249
+in,Pulaski County,R,18,18131,Eric Holcomb,57.1,3001
+in,Pulaski County,D,18,18131,John Gregg,39.37,2069
+in,Pulaski County,Lib,18,18131,Rex Bell,3.52,185
+in,Putnam County,R,18,18133,Eric Holcomb,62.14,9094
+in,Putnam County,D,18,18133,John Gregg,34.5,5049
+in,Putnam County,Lib,18,18133,Rex Bell,3.34,490
+in,Randolph County,R,18,18135,Eric Holcomb,59.75,6093
+in,Randolph County,D,18,18135,John Gregg,35.51,3621
+in,Randolph County,Lib,18,18135,Rex Bell,4.72,482
+in,Ripley County,R,18,18137,Eric Holcomb,70.02,8948
+in,Ripley County,D,18,18137,John Gregg,27.7,3540
+in,Ripley County,Lib,18,18137,Rex Bell,2.26,290
+in,Rush County,R,18,18139,Eric Holcomb,61.53,4393
+in,Rush County,D,18,18139,John Gregg,34.17,2440
+in,Rush County,Lib,18,18139,Rex Bell,4.28,306
+in,Scott County,R,18,18143,Eric Holcomb,54.43,4869
+in,Scott County,D,18,18143,John Gregg,42.82,3830
+in,Scott County,Lib,18,18143,Rex Bell,2.73,245
+in,Shelby County,R,18,18145,Eric Holcomb,61.6,10998
+in,Shelby County,D,18,18145,John Gregg,34.51,6162
+in,Shelby County,Lib,18,18145,Rex Bell,3.87,691
+in,Spencer County,R,18,18147,Eric Holcomb,56.39,5511
+in,Spencer County,D,18,18147,John Gregg,41.24,4030
+in,Spencer County,Lib,18,18147,Rex Bell,2.36,231
+in,St. Joseph County,D,18,18141,John Gregg,52.53,57833
+in,St. Joseph County,R,18,18141,Eric Holcomb,44.36,48838
+in,St. Joseph County,Lib,18,18141,Rex Bell,3.1,3418
+in,Starke County,R,18,18149,Eric Holcomb,52.35,4694
+in,Starke County,D,18,18149,John Gregg,43.53,3903
+in,Starke County,Lib,18,18149,Rex Bell,4.1,368
+in,Steuben County,R,18,18151,Eric Holcomb,62.85,9174
+in,Steuben County,D,18,18151,John Gregg,33.66,4914
+in,Steuben County,Lib,18,18151,Rex Bell,3.47,507
+in,Sullivan County,D,18,18153,John Gregg,55.4,4720
+in,Sullivan County,R,18,18153,Eric Holcomb,42.52,3623
+in,Sullivan County,Lib,18,18153,Rex Bell,2.06,176
+in,Switzerland County,R,18,18155,Eric Holcomb,58.85,2116
+in,Switzerland County,D,18,18155,John Gregg,38.35,1379
+in,Switzerland County,Lib,18,18155,Rex Bell,2.78,100
+in,Tippecanoe County,D,18,18157,John Gregg,48.22,30161
+in,Tippecanoe County,R,18,18157,Eric Holcomb,48.1,30083
+in,Tippecanoe County,Lib,18,18157,Rex Bell,3.66,2292
+in,Tipton County,R,18,18159,Eric Holcomb,63.13,4712
+in,Tipton County,D,18,18159,John Gregg,33.39,2492
+in,Tipton County,Lib,18,18159,Rex Bell,3.47,259
+in,Union County,R,18,18161,Eric Holcomb,66.79,2179
+in,Union County,D,18,18161,John Gregg,28.69,936
+in,Union County,Lib,18,18161,Rex Bell,4.5,147
+in,Vanderburgh County,R,18,18163,Eric Holcomb,52.8,38097
+in,Vanderburgh County,D,18,18163,John Gregg,44.57,32163
+in,Vanderburgh County,Lib,18,18163,Rex Bell,2.62,1892
+in,Vermillion County,D,18,18165,John Gregg,48.58,3339
+in,Vermillion County,R,18,18165,Eric Holcomb,47.67,3277
+in,Vermillion County,Lib,18,18165,Rex Bell,3.73,257
+in,Vigo County,D,18,18167,John Gregg,55,21830
+in,Vigo County,R,18,18167,Eric Holcomb,42.23,16762
+in,Vigo County,Lib,18,18167,Rex Bell,2.75,1094
+in,Wabash County,R,18,18169,Eric Holcomb,64.86,8636
+in,Wabash County,D,18,18169,John Gregg,32.01,4262
+in,Wabash County,Lib,18,18169,Rex Bell,3.12,416
+in,Warren County,R,18,18171,Eric Holcomb,64.67,2538
+in,Warren County,D,18,18171,John Gregg,32.11,1260
+in,Warren County,Lib,18,18171,Rex Bell,3.21,126
+in,Warrick County,R,18,18173,Eric Holcomb,59.08,17418
+in,Warrick County,D,18,18173,John Gregg,38.78,11434
+in,Warrick County,Lib,18,18173,Rex Bell,2.12,627
+in,Washington County,R,18,18175,Eric Holcomb,64.96,7292
+in,Washington County,D,18,18175,John Gregg,31.99,3591
+in,Washington County,Lib,18,18175,Rex Bell,3.03,341
+in,Wayne County,R,18,18177,Eric Holcomb,52.43,13472
+in,Wayne County,D,18,18177,John Gregg,37.04,9518
+in,Wayne County,Lib,18,18177,Rex Bell,10.52,2704
+in,Wells County,R,18,18179,Eric Holcomb,66.93,8760
+in,Wells County,D,18,18179,John Gregg,29.79,3900
+in,Wells County,Lib,18,18179,Rex Bell,3.27,428
+in,White County,R,18,18181,Eric Holcomb,60.49,6014
+in,White County,D,18,18181,John Gregg,35.66,3545
+in,White County,Lib,18,18181,Rex Bell,3.84,382
+in,Whitley County,R,18,18183,Eric Holcomb,64.25,9971
+in,Whitley County,D,18,18183,John Gregg,31.79,4933
+in,Whitley County,Lib,18,18183,Rex Bell,3.95,613
+mo,Adair County,R,29,29001,Eric Greitens,56.46,5752
+mo,Adair County,D,29,29001,Chris Koster,40.68,4145
+mo,Adair County,Lib,29,29001,Cisse Spragins,1.29,132
+mo,Adair County,Grn,29,29001,Don Fitz,0.8,82
+mo,Adair County,I,29,29001,Lester Turilli,0.74,76
+mo,Andrew County,R,29,29003,Eric Greitens,63.22,5771
+mo,Andrew County,D,29,29003,Chris Koster,34.79,3176
+mo,Andrew County,Lib,29,29003,Cisse Spragins,1.07,98
+mo,Andrew County,Grn,29,29003,Don Fitz,0.5,46
+mo,Andrew County,I,29,29003,Lester Turilli,0.4,37
+mo,Atchison County,R,29,29005,Eric Greitens,65.22,1746
+mo,Atchison County,D,29,29005,Chris Koster,31.45,842
+mo,Atchison County,Lib,29,29005,Cisse Spragins,2.12,57
+mo,Atchison County,I,29,29005,Lester Turilli,0.85,23
+mo,Atchison County,Grn,29,29005,Don Fitz,0.33,9
+mo,Audrain County,R,29,29007,Eric Greitens,58.07,5831
+mo,Audrain County,D,29,29007,Chris Koster,38.17,3833
+mo,Audrain County,Lib,29,29007,Cisse Spragins,1.58,159
+mo,Audrain County,I,29,29007,Lester Turilli,1.46,147
+mo,Audrain County,Grn,29,29007,Don Fitz,0.69,70
+mo,Barry County,R,29,29009,Eric Greitens,68.09,9942
+mo,Barry County,D,29,29009,Chris Koster,28.49,4161
+mo,Barry County,Lib,29,29009,Cisse Spragins,1.49,219
+mo,Barry County,I,29,29009,Lester Turilli,0.98,144
+mo,Barry County,Grn,29,29009,Don Fitz,0.92,135
+mo,Barton County,R,29,29011,Eric Greitens,77.18,4553
+mo,Barton County,D,29,29011,Chris Koster,20.39,1203
+mo,Barton County,Lib,29,29011,Cisse Spragins,1.16,69
+mo,Barton County,I,29,29011,Lester Turilli,0.84,50
+mo,Barton County,Grn,29,29011,Don Fitz,0.4,24
+mo,Bates County,R,29,29013,Eric Greitens,59.65,4772
+mo,Bates County,D,29,29013,Chris Koster,37.34,2987
+mo,Bates County,Lib,29,29013,Cisse Spragins,1.43,115
+mo,Bates County,I,29,29013,Lester Turilli,0.83,67
+mo,Bates County,Grn,29,29013,Don Fitz,0.72,58
+mo,Benton County,R,29,29015,Eric Greitens,63.4,6043
+mo,Benton County,D,29,29015,Chris Koster,33.55,3198
+mo,Benton County,Lib,29,29015,Cisse Spragins,1.46,140
+mo,Benton County,I,29,29015,Lester Turilli,1.08,103
+mo,Benton County,Grn,29,29015,Don Fitz,0.49,47
+mo,Bollinger County,R,29,29017,Eric Greitens,72.22,4051
+mo,Bollinger County,D,29,29017,Chris Koster,25.24,1416
+mo,Bollinger County,I,29,29017,Lester Turilli,1.12,63
+mo,Bollinger County,Lib,29,29017,Cisse Spragins,0.73,41
+mo,Bollinger County,Grn,29,29017,Don Fitz,0.67,38
+mo,Boone County,D,29,29019,Chris Koster,54.96,45363
+mo,Boone County,R,29,29019,Eric Greitens,41.26,34051
+mo,Boone County,Lib,29,29019,Cisse Spragins,1.87,1549
+mo,Boone County,Grn,29,29019,Don Fitz,1.04,861
+mo,Boone County,I,29,29019,Lester Turilli,0.85,702
+mo,Buchanan County,R,29,29021,Eric Greitens,52.58,18706
+mo,Buchanan County,D,29,29021,Chris Koster,43.93,15628
+mo,Buchanan County,Lib,29,29021,Cisse Spragins,1.93,687
+mo,Buchanan County,Grn,29,29021,Don Fitz,0.79,284
+mo,Buchanan County,I,29,29021,Lester Turilli,0.74,266
+mo,Butler County,R,29,29023,Eric Greitens,73.77,12595
+mo,Butler County,D,29,29023,Chris Koster,23.65,4039
+mo,Butler County,Lib,29,29023,Cisse Spragins,1.25,214
+mo,Butler County,I,29,29023,Lester Turilli,0.77,133
+mo,Butler County,Grn,29,29023,Don Fitz,0.53,91
+mo,Caldwell County,R,29,29025,Eric Greitens,63.11,2726
+mo,Caldwell County,D,29,29025,Chris Koster,33.38,1442
+mo,Caldwell County,Lib,29,29025,Cisse Spragins,1.87,81
+mo,Caldwell County,I,29,29025,Lester Turilli,1.08,47
+mo,Caldwell County,Grn,29,29025,Don Fitz,0.53,23
+mo,Callaway County,R,29,29027,Eric Greitens,57.95,11146
+mo,Callaway County,D,29,29027,Chris Koster,38.15,7338
+mo,Callaway County,Lib,29,29027,Cisse Spragins,1.65,319
+mo,Callaway County,I,29,29027,Lester Turilli,1.36,263
+mo,Callaway County,Grn,29,29027,Don Fitz,0.86,167
+mo,Camden County,R,29,29029,Eric Greitens,67.11,14860
+mo,Camden County,D,29,29029,Chris Koster,29.8,6600
+mo,Camden County,Lib,29,29029,Cisse Spragins,1.48,328
+mo,Camden County,I,29,29029,Lester Turilli,1.01,224
+mo,Camden County,Grn,29,29029,Don Fitz,0.58,130
+mo,Cape Girardeau County,R,29,29031,Eric Greitens,65.69,24141
+mo,Cape Girardeau County,D,29,29031,Chris Koster,31.32,11509
+mo,Cape Girardeau County,Lib,29,29031,Cisse Spragins,1.42,525
+mo,Cape Girardeau County,I,29,29031,Lester Turilli,1.02,376
+mo,Cape Girardeau County,Grn,29,29031,Don Fitz,0.53,195
+mo,Carroll County,R,29,29033,Eric Greitens,65.3,2837
+mo,Carroll County,D,29,29033,Chris Koster,32.04,1392
+mo,Carroll County,Lib,29,29033,Cisse Spragins,1.22,53
+mo,Carroll County,Grn,29,29033,Don Fitz,0.71,31
+mo,Carroll County,I,29,29033,Lester Turilli,0.71,31
+mo,Carter County,R,29,29035,Eric Greitens,73.09,2051
+mo,Carter County,D,29,29035,Chris Koster,23.2,651
+mo,Carter County,I,29,29035,Lester Turilli,1.46,41
+mo,Carter County,Lib,29,29035,Cisse Spragins,1.31,37
+mo,Carter County,Grn,29,29035,Don Fitz,0.92,26
+mo,Cass County,R,29,29037,Eric Greitens,56.02,28487
+mo,Cass County,D,29,29037,Chris Koster,40.65,20670
+mo,Cass County,Lib,29,29037,Cisse Spragins,1.72,875
+mo,Cass County,I,29,29037,Lester Turilli,0.84,429
+mo,Cass County,Grn,29,29037,Don Fitz,0.75,382
+mo,Cedar County,R,29,29039,Eric Greitens,70.28,4414
+mo,Cedar County,D,29,29039,Chris Koster,26.49,1664
+mo,Cedar County,Lib,29,29039,Cisse Spragins,1.49,94
+mo,Cedar County,I,29,29039,Lester Turilli,1.13,71
+mo,Cedar County,Grn,29,29039,Don Fitz,0.58,37
+mo,Chariton County,R,29,29041,Eric Greitens,59.62,2363
+mo,Chariton County,D,29,29041,Chris Koster,38.4,1522
+mo,Chariton County,Lib,29,29041,Cisse Spragins,1.13,45
+mo,Chariton County,I,29,29041,Lester Turilli,0.58,23
+mo,Chariton County,Grn,29,29041,Don Fitz,0.25,10
+mo,Christian County,R,29,29043,Eric Greitens,68.96,28612
+mo,Christian County,D,29,29043,Chris Koster,27.93,11589
+mo,Christian County,Lib,29,29043,Cisse Spragins,1.52,632
+mo,Christian County,I,29,29043,Lester Turilli,1.06,442
+mo,Christian County,Grn,29,29043,Don Fitz,0.5,211
+mo,Clark County,R,29,29045,Eric Greitens,62.34,2053
+mo,Clark County,D,29,29045,Chris Koster,34.74,1144
+mo,Clark County,Lib,29,29045,Cisse Spragins,1.45,48
+mo,Clark County,I,29,29045,Lester Turilli,0.88,29
+mo,Clark County,Grn,29,29045,Don Fitz,0.57,19
+mo,Clay County,R,29,29047,Eric Greitens,48.97,53749
+mo,Clay County,D,29,29047,Chris Koster,47.65,52299
+mo,Clay County,Lib,29,29047,Cisse Spragins,1.88,2073
+mo,Clay County,I,29,29047,Lester Turilli,0.74,822
+mo,Clay County,Grn,29,29047,Don Fitz,0.72,801
+mo,Clinton County,R,29,29049,Eric Greitens,58.94,6021
+mo,Clinton County,D,29,29049,Chris Koster,37.78,3860
+mo,Clinton County,Lib,29,29049,Cisse Spragins,1.66,170
+mo,Clinton County,Grn,29,29049,Don Fitz,0.81,83
+mo,Clinton County,I,29,29049,Lester Turilli,0.79,81
+mo,Cole County,R,29,29051,Eric Greitens,55.57,20864
+mo,Cole County,D,29,29051,Chris Koster,42.09,15802
+mo,Cole County,Lib,29,29051,Cisse Spragins,1.18,444
+mo,Cole County,I,29,29051,Lester Turilli,0.72,272
+mo,Cole County,Grn,29,29051,Don Fitz,0.42,160
+mo,Cooper County,R,29,29053,Eric Greitens,61.88,4957
+mo,Cooper County,D,29,29053,Chris Koster,35.43,2838
+mo,Cooper County,Lib,29,29053,Cisse Spragins,1.48,119
+mo,Cooper County,I,29,29053,Lester Turilli,0.68,55
+mo,Cooper County,Grn,29,29053,Don Fitz,0.51,41
+mo,Crawford County,R,29,29055,Eric Greitens,59.72,5899
+mo,Crawford County,D,29,29055,Chris Koster,29.28,2892
+mo,Crawford County,I,29,29055,Lester Turilli,9.24,913
+mo,Crawford County,Lib,29,29055,Cisse Spragins,1.09,108
+mo,Crawford County,Grn,29,29055,Don Fitz,0.65,65
+mo,Dade County,R,29,29057,Eric Greitens,68.93,2720
+mo,Dade County,D,29,29057,Chris Koster,28.18,1112
+mo,Dade County,Lib,29,29057,Cisse Spragins,1.52,60
+mo,Dade County,I,29,29057,Lester Turilli,0.98,39
+mo,Dade County,Grn,29,29057,Don Fitz,0.38,15
+mo,Dallas County,R,29,29059,Eric Greitens,66.67,4943
+mo,Dallas County,D,29,29059,Chris Koster,29.82,2211
+mo,Dallas County,Lib,29,29059,Cisse Spragins,1.71,127
+mo,Dallas County,I,29,29059,Lester Turilli,1.2,89
+mo,Dallas County,Grn,29,29059,Don Fitz,0.59,44
+mo,Daviess County,R,29,29061,Eric Greitens,61.66,2295
+mo,Daviess County,D,29,29061,Chris Koster,34.9,1299
+mo,Daviess County,Lib,29,29061,Cisse Spragins,1.5,56
+mo,Daviess County,I,29,29061,Lester Turilli,1.23,46
+mo,Daviess County,Grn,29,29061,Don Fitz,0.69,26
+mo,DeKalb County,R,29,29063,Eric Greitens,66.63,3061
+mo,DeKalb County,D,29,29063,Chris Koster,30.75,1413
+mo,DeKalb County,Lib,29,29063,Cisse Spragins,1.24,57
+mo,DeKalb County,Grn,29,29063,Don Fitz,0.69,32
+mo,DeKalb County,I,29,29063,Lester Turilli,0.67,31
+mo,Dent County,R,29,29065,Eric Greitens,73.05,4966
+mo,Dent County,D,29,29065,Chris Koster,24.05,1635
+mo,Dent County,I,29,29065,Lester Turilli,1.27,87
+mo,Dent County,Lib,29,29065,Cisse Spragins,1.07,73
+mo,Dent County,Grn,29,29065,Don Fitz,0.54,37
+mo,Douglas County,R,29,29067,Eric Greitens,72.34,4818
+mo,Douglas County,D,29,29067,Chris Koster,24.12,1607
+mo,Douglas County,I,29,29067,Lester Turilli,1.54,103
+mo,Douglas County,Lib,29,29067,Cisse Spragins,1.44,96
+mo,Douglas County,Grn,29,29067,Don Fitz,0.54,36
+mo,Dunklin County,R,29,29069,Eric Greitens,69.43,7253
+mo,Dunklin County,D,29,29069,Chris Koster,28.85,3014
+mo,Dunklin County,Lib,29,29069,Cisse Spragins,0.8,84
+mo,Dunklin County,I,29,29069,Lester Turilli,0.45,48
+mo,Dunklin County,Grn,29,29069,Don Fitz,0.44,46
+mo,Franklin County,R,29,29071,Eric Greitens,55.98,28059
+mo,Franklin County,D,29,29071,Chris Koster,37.41,18754
+mo,Franklin County,I,29,29071,Lester Turilli,4.76,2389
+mo,Franklin County,Lib,29,29071,Cisse Spragins,1.24,626
+mo,Franklin County,Grn,29,29071,Don Fitz,0.58,291
+mo,Gasconade County,R,29,29073,Eric Greitens,63.04,4681
+mo,Gasconade County,D,29,29073,Chris Koster,32.35,2402
+mo,Gasconade County,I,29,29073,Lester Turilli,3.13,233
+mo,Gasconade County,Lib,29,29073,Cisse Spragins,0.86,64
+mo,Gasconade County,Grn,29,29073,Don Fitz,0.6,45
+mo,Gentry County,R,29,29075,Eric Greitens,64.06,1940
+mo,Gentry County,D,29,29075,Chris Koster,33.35,1010
+mo,Gentry County,Lib,29,29075,Cisse Spragins,1.12,34
+mo,Gentry County,I,29,29075,Lester Turilli,0.75,23
+mo,Gentry County,Grn,29,29075,Don Fitz,0.69,21
+mo,Greene County,R,29,29077,Eric Greitens,56.74,72982
+mo,Greene County,D,29,29077,Chris Koster,39.52,50839
+mo,Greene County,Lib,29,29077,Cisse Spragins,1.84,2371
+mo,Greene County,I,29,29077,Lester Turilli,1.13,1461
+mo,Greene County,Grn,29,29077,Don Fitz,0.74,956
+mo,Grundy County,R,29,29079,Eric Greitens,68.58,3046
+mo,Grundy County,D,29,29079,Chris Koster,28.57,1269
+mo,Grundy County,I,29,29079,Lester Turilli,1.32,59
+mo,Grundy County,Lib,29,29079,Cisse Spragins,1.12,50
+mo,Grundy County,Grn,29,29079,Don Fitz,0.38,17
+mo,Harrison County,R,29,29081,Eric Greitens,67.49,2473
+mo,Harrison County,D,29,29081,Chris Koster,29.5,1081
+mo,Harrison County,I,29,29081,Lester Turilli,1.22,45
+mo,Harrison County,Lib,29,29081,Cisse Spragins,1.09,40
+mo,Harrison County,Grn,29,29081,Don Fitz,0.68,25
+mo,Henry County,R,29,29083,Eric Greitens,59.4,5850
+mo,Henry County,D,29,29083,Chris Koster,37.52,3695
+mo,Henry County,Lib,29,29083,Cisse Spragins,1.52,150
+mo,Henry County,I,29,29083,Lester Turilli,0.8,79
+mo,Henry County,Grn,29,29083,Don Fitz,0.74,73
+mo,Hickory County,R,29,29085,Eric Greitens,62.26,2931
+mo,Hickory County,D,29,29085,Chris Koster,34.16,1608
+mo,Hickory County,Lib,29,29085,Cisse Spragins,1.46,69
+mo,Hickory County,I,29,29085,Lester Turilli,1.16,55
+mo,Hickory County,Grn,29,29085,Don Fitz,0.93,44
+mo,Holt County,R,29,29087,Eric Greitens,64.68,1515
+mo,Holt County,D,29,29087,Chris Koster,32.1,752
+mo,Holt County,I,29,29087,Lester Turilli,1.36,32
+mo,Holt County,Lib,29,29087,Cisse Spragins,1.23,29
+mo,Holt County,Grn,29,29087,Don Fitz,0.59,14
+mo,Howard County,R,29,29089,Eric Greitens,56.51,2727
+mo,Howard County,D,29,29089,Chris Koster,40.2,1940
+mo,Howard County,Lib,29,29089,Cisse Spragins,1.88,91
+mo,Howard County,I,29,29089,Lester Turilli,0.72,35
+mo,Howard County,Grn,29,29089,Don Fitz,0.66,32
+mo,Howell County,R,29,29091,Eric Greitens,70.65,12262
+mo,Howell County,D,29,29091,Chris Koster,25.68,4457
+mo,Howell County,I,29,29091,Lester Turilli,1.45,252
+mo,Howell County,Lib,29,29091,Cisse Spragins,1.36,237
+mo,Howell County,Grn,29,29091,Don Fitz,0.84,146
+mo,Iron County,R,29,29093,Eric Greitens,60.76,2600
+mo,Iron County,D,29,29093,Chris Koster,34.98,1497
+mo,Iron County,I,29,29093,Lester Turilli,1.63,70
+mo,Iron County,Grn,29,29093,Don Fitz,1.42,61
+mo,Iron County,Lib,29,29093,Cisse Spragins,1.19,51
+mo,Jackson County,D,29,29095,Chris Koster,59.67,175380
+mo,Jackson County,R,29,29095,Eric Greitens,36.67,107788
+mo,Jackson County,Lib,29,29095,Cisse Spragins,1.69,4977
+mo,Jackson County,I,29,29095,Lester Turilli,0.99,2925
+mo,Jackson County,Grn,29,29095,Don Fitz,0.95,2801
+mo,Jasper County,R,29,29097,Eric Greitens,69.11,33426
+mo,Jasper County,D,29,29097,Chris Koster,27.35,13231
+mo,Jasper County,Lib,29,29097,Cisse Spragins,1.6,778
+mo,Jasper County,I,29,29097,Lester Turilli,1.01,490
+mo,Jasper County,Grn,29,29097,Don Fitz,0.91,441
+mo,Jefferson County,R,29,29099,Eric Greitens,53.62,56712
+mo,Jefferson County,D,29,29099,Chris Koster,42.73,45200
+mo,Jefferson County,Lib,29,29099,Cisse Spragins,1.53,1619
+mo,Jefferson County,I,29,29099,Lester Turilli,1.33,1415
+mo,Jefferson County,Grn,29,29099,Don Fitz,0.76,813
+mo,Johnson County,R,29,29101,Eric Greitens,56.88,12024
+mo,Johnson County,D,29,29101,Chris Koster,39.37,8323
+mo,Johnson County,Lib,29,29101,Cisse Spragins,1.87,397
+mo,Johnson County,I,29,29101,Lester Turilli,1.02,216
+mo,Johnson County,Grn,29,29101,Don Fitz,0.83,177
+mo,Knox County,R,29,29103,Eric Greitens,61.67,1125
+mo,Knox County,D,29,29103,Chris Koster,36.84,672
+mo,Knox County,I,29,29103,Lester Turilli,0.6,11
+mo,Knox County,Lib,29,29103,Cisse Spragins,0.54,10
+mo,Knox County,Grn,29,29103,Don Fitz,0.32,6
+mo,LaClede County,R,29,29105,Eric Greitens,70.96,11323
+mo,LaClede County,D,29,29105,Chris Koster,25.73,4107
+mo,LaClede County,Lib,29,29105,Cisse Spragins,1.48,237
+mo,LaClede County,I,29,29105,Lester Turilli,1.23,197
+mo,LaClede County,Grn,29,29105,Don Fitz,0.57,92
+mo,Lafayette County,R,29,29107,Eric Greitens,57.85,9158
+mo,Lafayette County,D,29,29107,Chris Koster,38.46,6088
+mo,Lafayette County,Lib,29,29107,Cisse Spragins,1.49,236
+mo,Lafayette County,I,29,29107,Lester Turilli,1.41,224
+mo,Lafayette County,Grn,29,29107,Don Fitz,0.77,123
+mo,Lawrence County,R,29,29109,Eric Greitens,69.33,11559
+mo,Lawrence County,D,29,29109,Chris Koster,26.87,4481
+mo,Lawrence County,I,29,29109,Lester Turilli,1.52,255
+mo,Lawrence County,Lib,29,29109,Cisse Spragins,1.48,247
+mo,Lawrence County,Grn,29,29109,Don Fitz,0.77,129
+mo,Lewis County,R,29,29111,Eric Greitens,63.53,2814
+mo,Lewis County,D,29,29111,Chris Koster,33.64,1490
+mo,Lewis County,Lib,29,29111,Cisse Spragins,1.33,59
+mo,Lewis County,I,29,29111,Lester Turilli,0.9,40
+mo,Lewis County,Grn,29,29111,Don Fitz,0.58,26
+mo,Lincoln County,R,29,29113,Eric Greitens,58.55,14496
+mo,Lincoln County,D,29,29113,Chris Koster,37.67,9328
+mo,Lincoln County,I,29,29113,Lester Turilli,1.66,411
+mo,Lincoln County,Lib,29,29113,Cisse Spragins,1.43,355
+mo,Lincoln County,Grn,29,29113,Don Fitz,0.67,168
+mo,Linn County,R,29,29115,Eric Greitens,61.4,3412
+mo,Linn County,D,29,29115,Chris Koster,35.68,1983
+mo,Linn County,Lib,29,29115,Cisse Spragins,1.38,77
+mo,Linn County,I,29,29115,Lester Turilli,0.79,44
+mo,Linn County,Grn,29,29115,Don Fitz,0.73,41
+mo,Livingston County,R,29,29117,Eric Greitens,66.09,4189
+mo,Livingston County,D,29,29117,Chris Koster,31.42,1992
+mo,Livingston County,Lib,29,29117,Cisse Spragins,1.23,78
+mo,Livingston County,I,29,29117,Lester Turilli,0.69,44
+mo,Livingston County,Grn,29,29117,Don Fitz,0.55,35
+mo,Macon County,R,29,29121,Eric Greitens,66.96,5064
+mo,Macon County,D,29,29121,Chris Koster,30.61,2315
+mo,Macon County,I,29,29121,Lester Turilli,1.08,82
+mo,Macon County,Lib,29,29121,Cisse Spragins,0.79,60
+mo,Macon County,Grn,29,29121,Don Fitz,0.54,41
+mo,Madison County,R,29,29123,Eric Greitens,64.16,3405
+mo,Madison County,D,29,29123,Chris Koster,32.16,1707
+mo,Madison County,Lib,29,29123,Cisse Spragins,1.67,89
+mo,Madison County,Grn,29,29123,Don Fitz,1.07,57
+mo,Madison County,I,29,29123,Lester Turilli,0.92,49
+mo,Maries County,R,29,29125,Eric Greitens,62.66,2825
+mo,Maries County,D,29,29125,Chris Koster,33.47,1509
+mo,Maries County,I,29,29125,Lester Turilli,2.57,116
+mo,Maries County,Lib,29,29125,Cisse Spragins,0.9,41
+mo,Maries County,Grn,29,29125,Don Fitz,0.37,17
+mo,Marion County,R,29,29127,Eric Greitens,65.84,8483
+mo,Marion County,D,29,29127,Chris Koster,31.84,4103
+mo,Marion County,Lib,29,29127,Cisse Spragins,1.15,149
+mo,Marion County,I,29,29127,Lester Turilli,0.63,82
+mo,Marion County,Grn,29,29127,Don Fitz,0.51,66
+mo,McDonald County,R,29,29119,Eric Greitens,72.54,5914
+mo,McDonald County,D,29,29119,Chris Koster,22.73,1853
+mo,McDonald County,Lib,29,29119,Cisse Spragins,2.02,165
+mo,McDonald County,I,29,29119,Lester Turilli,1.71,140
+mo,McDonald County,Grn,29,29119,Don Fitz,0.98,80
+mo,Mercer County,R,29,29129,Eric Greitens,71.57,1224
+mo,Mercer County,D,29,29129,Chris Koster,26.6,455
+mo,Mercer County,Lib,29,29129,Cisse Spragins,0.76,13
+mo,Mercer County,Grn,29,29129,Don Fitz,0.64,11
+mo,Mercer County,I,29,29129,Lester Turilli,0.4,7
+mo,Miller County,R,29,29131,Eric Greitens,69.66,7924
+mo,Miller County,D,29,29131,Chris Koster,27.35,3112
+mo,Miller County,Lib,29,29131,Cisse Spragins,1.29,147
+mo,Miller County,I,29,29131,Lester Turilli,1.13,129
+mo,Miller County,Grn,29,29131,Don Fitz,0.55,63
+mo,Mississippi County,R,29,29133,Eric Greitens,59.08,3004
+mo,Mississippi County,D,29,29133,Chris Koster,38.21,1943
+mo,Mississippi County,Grn,29,29133,Don Fitz,1,51
+mo,Mississippi County,Lib,29,29133,Cisse Spragins,0.94,48
+mo,Mississippi County,I,29,29133,Lester Turilli,0.74,38
+mo,Moniteau County,R,29,29135,Eric Greitens,64.01,4346
+mo,Moniteau County,D,29,29135,Chris Koster,33.25,2258
+mo,Moniteau County,Lib,29,29135,Cisse Spragins,1.17,80
+mo,Moniteau County,I,29,29135,Lester Turilli,0.97,66
+mo,Moniteau County,Grn,29,29135,Don Fitz,0.57,39
+mo,Monroe County,R,29,29137,Eric Greitens,64.44,2659
+mo,Monroe County,D,29,29137,Chris Koster,33.13,1367
+mo,Monroe County,Lib,29,29137,Cisse Spragins,1.42,59
+mo,Monroe County,I,29,29137,Lester Turilli,0.55,23
+mo,Monroe County,Grn,29,29137,Don Fitz,0.43,18
+mo,Montgomery County,R,29,29139,Eric Greitens,60.31,3259
+mo,Montgomery County,D,29,29139,Chris Koster,36.18,1955
+mo,Montgomery County,I,29,29139,Lester Turilli,1.48,80
+mo,Montgomery County,Lib,29,29139,Cisse Spragins,1.27,69
+mo,Montgomery County,Grn,29,29139,Don Fitz,0.74,40
+mo,Morgan County,R,29,29141,Eric Greitens,66.36,5819
+mo,Morgan County,D,29,29141,Chris Koster,30.64,2687
+mo,Morgan County,Lib,29,29141,Cisse Spragins,1.26,111
+mo,Morgan County,I,29,29141,Lester Turilli,0.98,86
+mo,Morgan County,Grn,29,29141,Don Fitz,0.74,65
+mo,New Madrid County,R,29,29143,Eric Greitens,60.28,4392
+mo,New Madrid County,D,29,29143,Chris Koster,37.8,2754
+mo,New Madrid County,Lib,29,29143,Cisse Spragins,0.85,62
+mo,New Madrid County,Grn,29,29143,Don Fitz,0.53,39
+mo,New Madrid County,I,29,29143,Lester Turilli,0.52,38
+mo,Newton County,R,29,29145,Eric Greitens,71.92,19117
+mo,Newton County,D,29,29145,Chris Koster,24.85,6606
+mo,Newton County,Lib,29,29145,Cisse Spragins,1.37,365
+mo,Newton County,I,29,29145,Lester Turilli,1.12,299
+mo,Newton County,Grn,29,29145,Don Fitz,0.72,192
+mo,Nodaway County,R,29,29147,Eric Greitens,61.5,5789
+mo,Nodaway County,D,29,29147,Chris Koster,35.8,3370
+mo,Nodaway County,Lib,29,29147,Cisse Spragins,1.27,120
+mo,Nodaway County,Grn,29,29147,Don Fitz,0.73,69
+mo,Nodaway County,I,29,29147,Lester Turilli,0.67,64
+mo,Oregon County,R,29,29149,Eric Greitens,66.79,3078
+mo,Oregon County,D,29,29149,Chris Koster,30.05,1385
+mo,Oregon County,I,29,29149,Lester Turilli,1.36,63
+mo,Oregon County,Lib,29,29149,Cisse Spragins,1.21,56
+mo,Oregon County,Grn,29,29149,Don Fitz,0.56,26
+mo,Osage County,R,29,29151,Eric Greitens,64.64,4572
+mo,Osage County,D,29,29151,Chris Koster,32.78,2319
+mo,Osage County,I,29,29151,Lester Turilli,1.38,98
+mo,Osage County,Lib,29,29151,Cisse Spragins,0.8,57
+mo,Osage County,Grn,29,29151,Don Fitz,0.38,27
+mo,Ozark County,R,29,29153,Eric Greitens,68.65,3078
+mo,Ozark County,D,29,29153,Chris Koster,27.39,1228
+mo,Ozark County,Lib,29,29153,Cisse Spragins,1.76,79
+mo,Ozark County,I,29,29153,Lester Turilli,1.2,54
+mo,Ozark County,Grn,29,29153,Don Fitz,0.98,44
+mo,Pemiscot County,R,29,29155,Eric Greitens,60.13,3533
+mo,Pemiscot County,D,29,29155,Chris Koster,37.58,2208
+mo,Pemiscot County,Lib,29,29155,Cisse Spragins,0.97,57
+mo,Pemiscot County,Grn,29,29155,Don Fitz,0.73,43
+mo,Pemiscot County,I,29,29155,Lester Turilli,0.57,34
+mo,Perry County,R,29,29157,Eric Greitens,66.42,5724
+mo,Perry County,D,29,29157,Chris Koster,30.91,2664
+mo,Perry County,I,29,29157,Lester Turilli,1.18,102
+mo,Perry County,Lib,29,29157,Cisse Spragins,0.96,83
+mo,Perry County,Grn,29,29157,Don Fitz,0.51,44
+mo,Pettis County,R,29,29159,Eric Greitens,61.96,11138
+mo,Pettis County,D,29,29159,Chris Koster,34.89,6272
+mo,Pettis County,Lib,29,29159,Cisse Spragins,1.51,273
+mo,Pettis County,I,29,29159,Lester Turilli,0.82,148
+mo,Pettis County,Grn,29,29159,Don Fitz,0.79,143
+mo,Phelps County,R,29,29161,Eric Greitens,62.51,11623
+mo,Phelps County,D,29,29161,Chris Koster,33.15,6164
+mo,Phelps County,I,29,29161,Lester Turilli,2.12,395
+mo,Phelps County,Lib,29,29161,Cisse Spragins,1.61,301
+mo,Phelps County,Grn,29,29161,Don Fitz,0.59,110
+mo,Pike County,R,29,29163,Eric Greitens,59.44,4389
+mo,Pike County,D,29,29163,Chris Koster,37.31,2755
+mo,Pike County,I,29,29163,Lester Turilli,1.25,93
+mo,Pike County,Lib,29,29163,Cisse Spragins,1.17,87
+mo,Pike County,Grn,29,29163,Don Fitz,0.79,59
+mo,Platte County,R,29,29165,Eric Greitens,50.64,23804
+mo,Platte County,D,29,29165,Chris Koster,46.2,21716
+mo,Platte County,Lib,29,29165,Cisse Spragins,1.67,788
+mo,Platte County,I,29,29165,Lester Turilli,0.79,376
+mo,Platte County,Grn,29,29165,Don Fitz,0.68,320
+mo,Polk County,R,29,29167,Eric Greitens,66.92,9248
+mo,Polk County,D,29,29167,Chris Koster,30.15,4167
+mo,Polk County,Lib,29,29167,Cisse Spragins,1.57,218
+mo,Polk County,I,29,29167,Lester Turilli,0.91,127
+mo,Polk County,Grn,29,29167,Don Fitz,0.42,59
+mo,Pulaski County,R,29,29169,Eric Greitens,67.5,9048
+mo,Pulaski County,D,29,29169,Chris Koster,28.78,3859
+mo,Pulaski County,Lib,29,29169,Cisse Spragins,1.61,216
+mo,Pulaski County,I,29,29169,Lester Turilli,1.48,199
+mo,Pulaski County,Grn,29,29169,Don Fitz,0.61,82
+mo,Putnam County,R,29,29171,Eric Greitens,73.84,1691
+mo,Putnam County,D,29,29171,Chris Koster,23.88,547
+mo,Putnam County,Lib,29,29171,Cisse Spragins,1.39,32
+mo,Putnam County,Grn,29,29171,Don Fitz,0.56,13
+mo,Putnam County,I,29,29171,Lester Turilli,0.3,7
+mo,Ralls County,R,29,29173,Eric Greitens,64.46,3371
+mo,Ralls County,D,29,29173,Chris Koster,33.71,1763
+mo,Ralls County,Lib,29,29173,Cisse Spragins,0.87,46
+mo,Ralls County,Grn,29,29173,Don Fitz,0.47,25
+mo,Ralls County,I,29,29173,Lester Turilli,0.45,24
+mo,Randolph County,R,29,29175,Eric Greitens,62.76,6505
+mo,Randolph County,D,29,29175,Chris Koster,34.35,3561
+mo,Randolph County,Lib,29,29175,Cisse Spragins,1.64,171
+mo,Randolph County,I,29,29175,Lester Turilli,0.61,64
+mo,Randolph County,Grn,29,29175,Don Fitz,0.6,63
+mo,Ray County,R,29,29177,Eric Greitens,52.54,5687
+mo,Ray County,D,29,29177,Chris Koster,43.56,4715
+mo,Ray County,Lib,29,29177,Cisse Spragins,1.97,214
+mo,Ray County,I,29,29177,Lester Turilli,1.21,131
+mo,Ray County,Grn,29,29177,Don Fitz,0.71,77
+mo,Reynolds County,R,29,29179,Eric Greitens,66.27,1965
+mo,Reynolds County,D,29,29179,Chris Koster,29.61,878
+mo,Reynolds County,Grn,29,29179,Don Fitz,1.72,51
+mo,Reynolds County,Lib,29,29179,Cisse Spragins,1.45,43
+mo,Reynolds County,I,29,29179,Lester Turilli,0.94,28
+mo,Ripley County,R,29,29181,Eric Greitens,73.17,3958
+mo,Ripley County,D,29,29181,Chris Koster,24.21,1310
+mo,Ripley County,Lib,29,29181,Cisse Spragins,1.14,62
+mo,Ripley County,Grn,29,29181,Don Fitz,0.73,40
+mo,Ripley County,I,29,29181,Lester Turilli,0.72,39
+mo,Saline County,R,29,29195,Eric Greitens,53.01,4901
+mo,Saline County,D,29,29195,Chris Koster,43.29,4002
+mo,Saline County,Lib,29,29195,Cisse Spragins,1.56,145
+mo,Saline County,I,29,29195,Lester Turilli,1.16,108
+mo,Saline County,Grn,29,29195,Don Fitz,0.95,88
+mo,Schuyler County,R,29,29197,Eric Greitens,66.26,1259
+mo,Schuyler County,D,29,29197,Chris Koster,31.31,595
+mo,Schuyler County,Lib,29,29197,Cisse Spragins,1.21,23
+mo,Schuyler County,I,29,29197,Lester Turilli,0.63,12
+mo,Schuyler County,Grn,29,29197,Don Fitz,0.57,11
+mo,Scotland County,R,29,29199,Eric Greitens,65.31,1273
+mo,Scotland County,D,29,29199,Chris Koster,31.29,610
+mo,Scotland County,Grn,29,29199,Don Fitz,1.59,31
+mo,Scotland County,Lib,29,29199,Cisse Spragins,1.12,22
+mo,Scotland County,I,29,29199,Lester Turilli,0.66,13
+mo,Scott County,R,29,29201,Eric Greitens,65.98,11322
+mo,Scott County,D,29,29201,Chris Koster,31.54,5412
+mo,Scott County,Lib,29,29201,Cisse Spragins,1.21,209
+mo,Scott County,I,29,29201,Lester Turilli,0.85,147
+mo,Scott County,Grn,29,29201,Don Fitz,0.4,69
+mo,Shannon County,R,29,29203,Eric Greitens,61.34,2365
+mo,Shannon County,D,29,29203,Chris Koster,34.29,1322
+mo,Shannon County,I,29,29203,Lester Turilli,1.99,77
+mo,Shannon County,Lib,29,29203,Cisse Spragins,1.45,56
+mo,Shannon County,Grn,29,29203,Don Fitz,0.9,35
+mo,Shelby County,R,29,29205,Eric Greitens,66.12,2143
+mo,Shelby County,D,29,29205,Chris Koster,31.99,1037
+mo,Shelby County,Lib,29,29205,Cisse Spragins,0.95,31
+mo,Shelby County,Grn,29,29205,Don Fitz,0.46,15
+mo,Shelby County,I,29,29205,Lester Turilli,0.46,15
+mo,St. Charles County,R,29,29183,Eric Greitens,54.51,109084
+mo,St. Charles County,D,29,29183,Chris Koster,42.58,85209
+mo,St. Charles County,Lib,29,29183,Cisse Spragins,1.43,2873
+mo,St. Charles County,I,29,29183,Lester Turilli,0.86,1722
+mo,St. Charles County,Grn,29,29183,Don Fitz,0.59,1200
+mo,St. Clair County,R,29,29185,Eric Greitens,62.86,2927
+mo,St. Clair County,D,29,29185,Chris Koster,33.5,1560
+mo,St. Clair County,I,29,29185,Lester Turilli,1.48,69
+mo,St. Clair County,Lib,29,29185,Cisse Spragins,1.41,66
+mo,St. Clair County,Grn,29,29185,Don Fitz,0.73,34
+mo,St. Francois County,R,29,29187,Eric Greitens,58.5,14432
+mo,St. Francois County,D,29,29187,Chris Koster,38.2,9424
+mo,St. Francois County,Lib,29,29187,Cisse Spragins,1.25,310
+mo,St. Francois County,I,29,29187,Lester Turilli,1.15,285
+mo,St. Francois County,Grn,29,29187,Don Fitz,0.87,216
+mo,St. Louis City County,D,29,,Chris Koster,80.43,102549
+mo,St. Louis City County,R,29,,Eric Greitens,16.32,20813
+mo,St. Louis City County,Lib,29,,Cisse Spragins,1.43,1825
+mo,St. Louis City County,Grn,29,,Don Fitz,1.16,1485
+mo,St. Louis City County,I,29,,Lester Turilli,0.64,823
+mo,St. Louis County County,D,29,,Chris Koster,58.42,295399
+mo,St. Louis County County,R,29,,Eric Greitens,38.81,196280
+mo,St. Louis County County,Lib,29,,Cisse Spragins,1.2,6110
+mo,St. Louis County County,I,29,,Lester Turilli,0.8,4054
+mo,St. Louis County County,Grn,29,,Don Fitz,0.74,3789
+mo,Ste. Genevieve County,R,29,29186,Eric Greitens,50.32,4241
+mo,Ste. Genevieve County,D,29,29186,Chris Koster,47.06,3966
+mo,Ste. Genevieve County,Lib,29,29186,Cisse Spragins,1.12,95
+mo,Ste. Genevieve County,I,29,29186,Lester Turilli,0.88,75
+mo,Ste. Genevieve County,Grn,29,29186,Don Fitz,0.59,50
+mo,Stoddard County,R,29,29207,Eric Greitens,73.85,9790
+mo,Stoddard County,D,29,29207,Chris Koster,23.96,3176
+mo,Stoddard County,Lib,29,29207,Cisse Spragins,0.95,127
+mo,Stoddard County,I,29,29207,Lester Turilli,0.79,105
+mo,Stoddard County,Grn,29,29207,Don Fitz,0.43,57
+mo,Stone County,R,29,29209,Eric Greitens,72.29,11914
+mo,Stone County,D,29,29209,Chris Koster,25.07,4132
+mo,Stone County,Lib,29,29209,Cisse Spragins,1.28,212
+mo,Stone County,I,29,29209,Lester Turilli,0.9,149
+mo,Stone County,Grn,29,29209,Don Fitz,0.44,73
+mo,Sullivan County,R,29,29211,Eric Greitens,66.2,1642
+mo,Sullivan County,D,29,29211,Chris Koster,31.73,787
+mo,Sullivan County,I,29,29211,Lester Turilli,1,25
+mo,Sullivan County,Lib,29,29211,Cisse Spragins,0.64,16
+mo,Sullivan County,Grn,29,29211,Don Fitz,0.4,10
+mo,Taney County,R,29,29213,Eric Greitens,71.05,16552
+mo,Taney County,D,29,29213,Chris Koster,25.66,5978
+mo,Taney County,Lib,29,29213,Cisse Spragins,1.48,347
+mo,Taney County,I,29,29213,Lester Turilli,1.05,246
+mo,Taney County,Grn,29,29213,Don Fitz,0.73,172
+mo,Texas County,R,29,29215,Eric Greitens,69.87,7659
+mo,Texas County,D,29,29215,Chris Koster,26.62,2918
+mo,Texas County,I,29,29215,Lester Turilli,1.66,183
+mo,Texas County,Lib,29,29215,Cisse Spragins,1.36,150
+mo,Texas County,Grn,29,29215,Don Fitz,0.46,51
+mo,Vernon County,R,29,29217,Eric Greitens,66.69,5696
+mo,Vernon County,D,29,29217,Chris Koster,30.63,2616
+mo,Vernon County,Lib,29,29217,Cisse Spragins,1.24,106
+mo,Vernon County,I,29,29217,Lester Turilli,0.83,71
+mo,Vernon County,Grn,29,29217,Don Fitz,0.59,51
+mo,Warren County,R,29,29219,Eric Greitens,57.58,9056
+mo,Warren County,D,29,29219,Chris Koster,38.5,6055
+mo,Warren County,I,29,29219,Lester Turilli,1.81,286
+mo,Warren County,Lib,29,29219,Cisse Spragins,1.48,234
+mo,Warren County,Grn,29,29219,Don Fitz,0.61,96
+mo,Washington County,R,29,29221,Eric Greitens,61.33,5680
+mo,Washington County,D,29,29221,Chris Koster,33.91,3141
+mo,Washington County,I,29,29221,Lester Turilli,2.67,248
+mo,Washington County,Lib,29,29221,Cisse Spragins,1.18,110
+mo,Washington County,Grn,29,29221,Don Fitz,0.88,82
+mo,Wayne County,R,29,29223,Eric Greitens,72.04,4082
+mo,Wayne County,D,29,29223,Chris Koster,25.02,1418
+mo,Wayne County,Lib,29,29223,Cisse Spragins,1.41,80
+mo,Wayne County,I,29,29223,Lester Turilli,0.77,44
+mo,Wayne County,Grn,29,29223,Don Fitz,0.74,42
+mo,Webster County,R,29,29225,Eric Greitens,66.51,11138
+mo,Webster County,D,29,29225,Chris Koster,30.07,5036
+mo,Webster County,I,29,29225,Lester Turilli,1.54,259
+mo,Webster County,Lib,29,29225,Cisse Spragins,1.4,236
+mo,Webster County,Grn,29,29225,Don Fitz,0.45,76
+mo,Worth County,R,29,29227,Eric Greitens,68.78,714
+mo,Worth County,D,29,29227,Chris Koster,28.22,293
+mo,Worth County,Lib,29,29227,Cisse Spragins,1.34,14
+mo,Worth County,I,29,29227,Lester Turilli,1.05,11
+mo,Worth County,Grn,29,29227,Don Fitz,0.57,6
+mo,Wright County,R,29,29229,Eric Greitens,73.93,5990
+mo,Wright County,D,29,29229,Chris Koster,23.41,1897
+mo,Wright County,Lib,29,29229,Cisse Spragins,1.16,94
+mo,Wright County,I,29,29229,Lester Turilli,1.08,88
+mo,Wright County,Grn,29,29229,Don Fitz,0.4,33
+mt,Beaverhead County,R,30,30001,Greg Gianforte,57.46,2790
+mt,Beaverhead County,D,30,30001,Steve Bullock,39.67,1926
+mt,Beaverhead County,Lib,30,30001,Ted Dunlap,2.86,139
+mt,Big Horn County,D,30,30003,Steve Bullock,62.33,2683
+mt,Big Horn County,R,30,30003,Greg Gianforte,34.45,1483
+mt,Big Horn County,Lib,30,30003,Ted Dunlap,3.2,138
+mt,Blaine County,D,30,30005,Steve Bullock,58.41,1610
+mt,Blaine County,R,30,30005,Greg Gianforte,38.96,1074
+mt,Blaine County,Lib,30,30005,Ted Dunlap,2.61,72
+mt,Broadwater County,R,30,30007,Greg Gianforte,57.14,1820
+mt,Broadwater County,D,30,30007,Steve Bullock,39.62,1262
+mt,Broadwater County,Lib,30,30007,Ted Dunlap,3.23,103
+mt,Carbon County,R,30,30009,Greg Gianforte,51.45,3130
+mt,Carbon County,D,30,30009,Steve Bullock,45.42,2763
+mt,Carbon County,Lib,30,30009,Ted Dunlap,3.12,190
+mt,Carter County,R,30,30011,Greg Gianforte,81.84,649
+mt,Carter County,D,30,30011,Steve Bullock,16.14,128
+mt,Carter County,Lib,30,30011,Ted Dunlap,2.01,16
+mt,Cascade County,D,30,30013,Steve Bullock,53.7,18787
+mt,Cascade County,R,30,30013,Greg Gianforte,43.39,15181
+mt,Cascade County,Lib,30,30013,Ted Dunlap,2.89,1014
+mt,Chouteau County,R,30,30015,Greg Gianforte,50.78,1364
+mt,Chouteau County,D,30,30015,Steve Bullock,46.64,1253
+mt,Chouteau County,Lib,30,30015,Ted Dunlap,2.56,69
+mt,Custer County,R,30,30017,Greg Gianforte,57.35,3026
+mt,Custer County,D,30,30017,Steve Bullock,38.87,2051
+mt,Custer County,Lib,30,30017,Ted Dunlap,3.77,199
+mt,Daniels County,R,30,30019,Greg Gianforte,70.51,648
+mt,Daniels County,D,30,30019,Steve Bullock,25.89,238
+mt,Daniels County,Lib,30,30019,Ted Dunlap,3.59,33
+mt,Dawson County,R,30,30021,Greg Gianforte,71.03,3125
+mt,Dawson County,D,30,30021,Steve Bullock,24.36,1072
+mt,Dawson County,Lib,30,30021,Ted Dunlap,4.59,202
+mt,Deer Lodge County,D,30,30023,Steve Bullock,69.6,2998
+mt,Deer Lodge County,R,30,30023,Greg Gianforte,26.28,1132
+mt,Deer Lodge County,Lib,30,30023,Ted Dunlap,4.1,177
+mt,Fallon County,R,30,30025,Greg Gianforte,72.02,1058
+mt,Fallon County,D,30,30025,Steve Bullock,24.98,367
+mt,Fallon County,Lib,30,30025,Ted Dunlap,2.99,44
+mt,Fergus County,R,30,30027,Greg Gianforte,60.68,3628
+mt,Fergus County,D,30,30027,Steve Bullock,36.21,2165
+mt,Fergus County,Lib,30,30027,Ted Dunlap,3.09,185
+mt,Flathead County,R,30,30029,Greg Gianforte,55.59,26254
+mt,Flathead County,D,30,30029,Steve Bullock,40.48,19117
+mt,Flathead County,Lib,30,30029,Ted Dunlap,3.92,1853
+mt,Gallatin County,D,30,30031,Steve Bullock,55.8,30201
+mt,Gallatin County,R,30,30031,Greg Gianforte,40.9,22139
+mt,Gallatin County,Lib,30,30031,Ted Dunlap,3.28,1779
+mt,Garfield County,R,30,30033,Greg Gianforte,82.37,603
+mt,Garfield County,D,30,30033,Steve Bullock,15.57,114
+mt,Garfield County,Lib,30,30033,Ted Dunlap,2.04,15
+mt,Glacier County,D,30,30035,Steve Bullock,72.9,3741
+mt,Glacier County,R,30,30035,Greg Gianforte,24.59,1262
+mt,Glacier County,Lib,30,30035,Ted Dunlap,2.49,128
+mt,Golden Valley County,R,30,30037,Greg Gianforte,62.98,308
+mt,Golden Valley County,D,30,30037,Steve Bullock,33.94,166
+mt,Golden Valley County,Lib,30,30037,Ted Dunlap,3.06,15
+mt,Granite County,R,30,30039,Greg Gianforte,53.63,973
+mt,Granite County,D,30,30039,Steve Bullock,43.32,786
+mt,Granite County,Lib,30,30039,Ted Dunlap,3.03,55
+mt,Hill County,D,30,30041,Steve Bullock,57.29,3779
+mt,Hill County,R,30,30041,Greg Gianforte,39.72,2620
+mt,Hill County,Lib,30,30041,Ted Dunlap,2.98,197
+mt,Jefferson County,R,30,30043,Greg Gianforte,52.17,3536
+mt,Jefferson County,D,30,30043,Steve Bullock,44.9,3043
+mt,Jefferson County,Lib,30,30043,Ted Dunlap,2.92,198
+mt,Judith Basin County,R,30,30045,Greg Gianforte,58.43,717
+mt,Judith Basin County,D,30,30045,Steve Bullock,39.2,481
+mt,Judith Basin County,Lib,30,30045,Ted Dunlap,2.36,29
+mt,Lake County,D,30,30047,Steve Bullock,48.64,6457
+mt,Lake County,R,30,30047,Greg Gianforte,47.49,6304
+mt,Lake County,Lib,30,30047,Ted Dunlap,3.86,513
+mt,Lewis and Clark County,D,30,30049,Steve Bullock,60.08,21098
+mt,Lewis and Clark County,R,30,30049,Greg Gianforte,37.38,13125
+mt,Lewis and Clark County,Lib,30,30049,Ted Dunlap,2.52,888
+mt,Liberty County,R,30,30051,Greg Gianforte,58.52,570
+mt,Liberty County,D,30,30051,Steve Bullock,38.7,377
+mt,Liberty County,Lib,30,30051,Ted Dunlap,2.77,27
+mt,Lincoln County,R,30,30053,Greg Gianforte,60.67,5722
+mt,Lincoln County,D,30,30053,Steve Bullock,35.02,3303
+mt,Lincoln County,Lib,30,30053,Ted Dunlap,4.3,406
+mt,Madison County,R,30,30057,Greg Gianforte,56.26,2731
+mt,Madison County,D,30,30057,Steve Bullock,40.64,1973
+mt,Madison County,Lib,30,30057,Ted Dunlap,3.09,150
+mt,McCone County,R,30,30055,Greg Gianforte,74.48,794
+mt,McCone County,D,30,30055,Steve Bullock,23.26,248
+mt,McCone County,Lib,30,30055,Ted Dunlap,2.25,24
+mt,Meagher County,R,30,30059,Greg Gianforte,60.26,599
+mt,Meagher County,D,30,30059,Steve Bullock,36.61,364
+mt,Meagher County,Lib,30,30059,Ted Dunlap,3.11,31
+mt,Mineral County,R,30,30061,Greg Gianforte,49.44,1063
+mt,Mineral County,D,30,30061,Steve Bullock,40.41,869
+mt,Mineral County,Lib,30,30061,Ted Dunlap,10.13,218
+mt,Missoula County,D,30,30063,Steve Bullock,65.22,38636
+mt,Missoula County,R,30,30063,Greg Gianforte,31.45,18634
+mt,Missoula County,Lib,30,30063,Ted Dunlap,3.31,1962
+mt,Musselshell County,R,30,30065,Greg Gianforte,64.93,1596
+mt,Musselshell County,D,30,30065,Steve Bullock,30.02,738
+mt,Musselshell County,Lib,30,30065,Ted Dunlap,5.04,124
+mt,Park County,D,30,30067,Steve Bullock,53.01,4947
+mt,Park County,R,30,30067,Greg Gianforte,43.4,4050
+mt,Park County,Lib,30,30067,Ted Dunlap,3.57,334
+mt,Petroleum County,R,30,30069,Greg Gianforte,74.46,245
+mt,Petroleum County,D,30,30069,Steve Bullock,22.49,74
+mt,Petroleum County,Lib,30,30069,Ted Dunlap,3.03,10
+mt,Phillips County,R,30,30071,Greg Gianforte,75.89,1684
+mt,Phillips County,D,30,30071,Steve Bullock,22.12,491
+mt,Phillips County,Lib,30,30071,Ted Dunlap,1.98,44
+mt,Pondera County,R,30,30073,Greg Gianforte,50.71,1413
+mt,Pondera County,D,30,30073,Steve Bullock,46.84,1305
+mt,Pondera County,Lib,30,30073,Ted Dunlap,2.44,68
+mt,Powder River County,R,30,30075,Greg Gianforte,73.16,777
+mt,Powder River County,D,30,30075,Steve Bullock,24.1,256
+mt,Powder River County,Lib,30,30075,Ted Dunlap,2.73,29
+mt,Powell County,R,30,30077,Greg Gianforte,57.55,1630
+mt,Powell County,D,30,30077,Steve Bullock,38.77,1098
+mt,Powell County,Lib,30,30077,Ted Dunlap,3.67,104
+mt,Prairie County,R,30,30079,Greg Gianforte,71.42,500
+mt,Prairie County,D,30,30079,Steve Bullock,24.71,173
+mt,Prairie County,Lib,30,30079,Ted Dunlap,3.85,27
+mt,Ravalli County,R,30,30081,Greg Gianforte,55.29,12595
+mt,Ravalli County,D,30,30081,Steve Bullock,41.1,9363
+mt,Ravalli County,Lib,30,30081,Ted Dunlap,3.6,821
+mt,Richland County,R,30,30083,Greg Gianforte,73.65,3562
+mt,Richland County,D,30,30083,Steve Bullock,22.24,1076
+mt,Richland County,Lib,30,30083,Ted Dunlap,4.09,198
+mt,Roosevelt County,D,30,30085,Steve Bullock,54.71,1957
+mt,Roosevelt County,R,30,30085,Greg Gianforte,41.03,1468
+mt,Roosevelt County,Lib,30,30085,Ted Dunlap,4.24,152
+mt,Rosebud County,R,30,30087,Greg Gianforte,57.04,1981
+mt,Rosebud County,D,30,30087,Steve Bullock,40.25,1398
+mt,Rosebud County,Lib,30,30087,Ted Dunlap,2.7,94
+mt,Sanders County,R,30,30089,Greg Gianforte,57.5,3458
+mt,Sanders County,D,30,30089,Steve Bullock,37.5,2255
+mt,Sanders County,Lib,30,30089,Ted Dunlap,4.98,300
+mt,Sheridan County,R,30,30091,Greg Gianforte,54.81,1030
+mt,Sheridan County,D,30,30091,Steve Bullock,41.08,772
+mt,Sheridan County,Lib,30,30091,Ted Dunlap,4.09,77
+mt,Silver Bow County,D,30,30093,Steve Bullock,70.59,11871
+mt,Silver Bow County,R,30,30093,Greg Gianforte,26.38,4437
+mt,Silver Bow County,Lib,30,30093,Ted Dunlap,3.01,507
+mt,Stillwater County,R,30,30095,Greg Gianforte,61.41,3013
+mt,Stillwater County,D,30,30095,Steve Bullock,35.36,1735
+mt,Stillwater County,Lib,30,30095,Ted Dunlap,3.22,158
+mt,Sweet Grass County,R,30,30097,Greg Gianforte,64.41,1372
+mt,Sweet Grass County,D,30,30097,Steve Bullock,32.91,701
+mt,Sweet Grass County,Lib,30,30097,Ted Dunlap,2.67,57
+mt,Teton County,R,30,30099,Greg Gianforte,54.03,1766
+mt,Teton County,D,30,30099,Steve Bullock,43.72,1429
+mt,Teton County,Lib,30,30099,Ted Dunlap,2.23,73
+mt,Toole County,R,30,30101,Greg Gianforte,58.74,1209
+mt,Toole County,D,30,30101,Steve Bullock,38.53,793
+mt,Toole County,Lib,30,30101,Ted Dunlap,2.72,56
+mt,Treasure County,R,30,30103,Greg Gianforte,61.74,276
+mt,Treasure County,D,30,30103,Steve Bullock,35.57,159
+mt,Treasure County,Lib,30,30103,Ted Dunlap,2.68,12
+mt,Valley County,R,30,30105,Greg Gianforte,59.28,2341
+mt,Valley County,D,30,30105,Steve Bullock,37.07,1464
+mt,Valley County,Lib,30,30105,Ted Dunlap,3.64,144
+mt,Wheatland County,R,30,30107,Greg Gianforte,56.59,545
+mt,Wheatland County,D,30,30107,Steve Bullock,41.32,398
+mt,Wheatland County,Lib,30,30107,Ted Dunlap,2.07,20
+mt,Wibaux County,R,30,30109,Greg Gianforte,69.74,378
+mt,Wibaux County,D,30,30109,Steve Bullock,26.38,143
+mt,Wibaux County,Lib,30,30109,Ted Dunlap,3.87,21
+mt,Yellowstone County,R,30,30111,Greg Gianforte,48.66,32692
+mt,Yellowstone County,D,30,30111,Steve Bullock,47.92,32194
+mt,Yellowstone County,Lib,30,30111,Ted Dunlap,3.41,2293
+nc,Alamance County,R,37,37001,Pat McCrory,53.04,36945
+nc,Alamance County,D,37,37001,Roy Cooper,45.13,31436
+nc,Alamance County,Lib,37,37001,Lon Cecil,1.81,1266
+nc,Alexander County,R,37,37003,Pat McCrory,72.48,13191
+nc,Alexander County,D,37,37003,Roy Cooper,25.4,4624
+nc,Alexander County,Lib,37,37003,Lon Cecil,2.1,383
+nc,Alleghany County,R,37,37005,Pat McCrory,67.29,3558
+nc,Alleghany County,D,37,37005,Roy Cooper,30.88,1633
+nc,Alleghany County,Lib,37,37005,Lon Cecil,1.81,96
+nc,Anson County,D,37,37007,Roy Cooper,55.69,5777
+nc,Anson County,R,37,37007,Pat McCrory,43.22,4484
+nc,Anson County,Lib,37,37007,Lon Cecil,1.07,112
+nc,Ashe County,R,37,37009,Pat McCrory,65.82,8783
+nc,Ashe County,D,37,37009,Roy Cooper,32.03,4274
+nc,Ashe County,Lib,37,37009,Lon Cecil,2.13,285
+nc,Avery County,R,37,37011,Pat McCrory,73.56,5954
+nc,Avery County,D,37,37011,Roy Cooper,24.12,1953
+nc,Avery County,Lib,37,37011,Lon Cecil,2.31,187
+nc,Beaufort County,R,37,37013,Pat McCrory,61.48,14542
+nc,Beaufort County,D,37,37013,Roy Cooper,37.16,8790
+nc,Beaufort County,Lib,37,37013,Lon Cecil,1.35,320
+nc,Bertie County,D,37,37015,Roy Cooper,59.56,5562
+nc,Bertie County,R,37,37015,Pat McCrory,39.82,3719
+nc,Bertie County,Lib,37,37015,Lon Cecil,0.61,57
+nc,Bladen County,R,37,37017,Pat McCrory,52.72,8272
+nc,Bladen County,D,37,37017,Roy Cooper,46.06,7227
+nc,Bladen County,Lib,37,37017,Lon Cecil,1.2,189
+nc,Brunswick County,R,37,37019,Pat McCrory,60.28,40477
+nc,Brunswick County,D,37,37019,Roy Cooper,37.4,25112
+nc,Brunswick County,Lib,37,37019,Lon Cecil,2.31,1552
+nc,Buncombe County,D,37,37021,Roy Cooper,59.33,81347
+nc,Buncombe County,R,37,37021,Pat McCrory,37.57,51513
+nc,Buncombe County,Lib,37,37021,Lon Cecil,3.09,4241
+nc,Burke County,R,37,37023,Pat McCrory,63.36,23996
+nc,Burke County,D,37,37023,Roy Cooper,34.37,13020
+nc,Burke County,Lib,37,37023,Lon Cecil,2.25,855
+nc,Cabarrus County,R,37,37025,Pat McCrory,56.62,51960
+nc,Cabarrus County,D,37,37025,Roy Cooper,40.78,37422
+nc,Cabarrus County,Lib,37,37025,Lon Cecil,2.59,2382
+nc,Caldwell County,R,37,37027,Pat McCrory,69.62,25070
+nc,Caldwell County,D,37,37027,Roy Cooper,27.82,10019
+nc,Caldwell County,Lib,37,37027,Lon Cecil,2.54,918
+nc,Camden County,R,37,37029,Pat McCrory,69.62,3392
+nc,Camden County,D,37,37029,Roy Cooper,27.72,1351
+nc,Camden County,Lib,37,37029,Lon Cecil,2.64,129
+nc,Carteret County,R,37,37031,Pat McCrory,69.47,25760
+nc,Carteret County,D,37,37031,Roy Cooper,28.44,10547
+nc,Carteret County,Lib,37,37031,Lon Cecil,2.08,773
+nc,Caswell County,R,37,37033,Pat McCrory,52.7,5506
+nc,Caswell County,D,37,37033,Roy Cooper,45.87,4792
+nc,Caswell County,Lib,37,37033,Lon Cecil,1.41,148
+nc,Catawba County,R,37,37035,Pat McCrory,64.45,46031
+nc,Catawba County,D,37,37035,Roy Cooper,33.02,23582
+nc,Catawba County,Lib,37,37035,Lon Cecil,2.51,1799
+nc,Chatham County,D,37,37037,Roy Cooper,55.41,21971
+nc,Chatham County,R,37,37037,Pat McCrory,42.78,16961
+nc,Chatham County,Lib,37,37037,Lon Cecil,1.8,715
+nc,Cherokee County,R,37,37039,Pat McCrory,70.17,9603
+nc,Cherokee County,D,37,37039,Roy Cooper,26.64,3646
+nc,Cherokee County,Lib,37,37039,Lon Cecil,3.18,436
+nc,Chowan County,R,37,37041,Pat McCrory,57.12,4047
+nc,Chowan County,D,37,37041,Roy Cooper,41.86,2966
+nc,Chowan County,Lib,37,37041,Lon Cecil,1.01,72
+nc,Clay County,R,37,37043,Pat McCrory,68.64,3993
+nc,Clay County,D,37,37043,Roy Cooper,28.77,1674
+nc,Clay County,Lib,37,37043,Lon Cecil,2.57,150
+nc,Cleveland County,R,37,37045,Pat McCrory,62.07,27463
+nc,Cleveland County,D,37,37045,Roy Cooper,36.26,16046
+nc,Cleveland County,Lib,37,37045,Lon Cecil,1.66,735
+nc,Columbus County,R,37,37047,Pat McCrory,58.82,13655
+nc,Columbus County,D,37,37047,Roy Cooper,39.83,9247
+nc,Columbus County,Lib,37,37047,Lon Cecil,1.33,310
+nc,Craven County,R,37,37049,Pat McCrory,59.94,27759
+nc,Craven County,D,37,37049,Roy Cooper,38.15,17669
+nc,Craven County,Lib,37,37049,Lon Cecil,1.9,883
+nc,Cumberland County,D,37,37051,Roy Cooper,55.82,69413
+nc,Cumberland County,R,37,37051,Pat McCrory,41.88,52082
+nc,Cumberland County,Lib,37,37051,Lon Cecil,2.28,2843
+nc,Currituck County,R,37,37053,Pat McCrory,71.57,8764
+nc,Currituck County,D,37,37053,Roy Cooper,25.49,3122
+nc,Currituck County,Lib,37,37053,Lon Cecil,2.92,358
+nc,Dare County,R,37,37055,Pat McCrory,55.54,10544
+nc,Dare County,D,37,37055,Roy Cooper,41.84,7943
+nc,Dare County,Lib,37,37055,Lon Cecil,2.61,496
+nc,Davidson County,R,37,37057,Pat McCrory,68.52,49481
+nc,Davidson County,D,37,37057,Roy Cooper,29.22,21101
+nc,Davidson County,Lib,37,37057,Lon Cecil,2.25,1627
+nc,Davie County,R,37,37059,Pat McCrory,67.95,14619
+nc,Davie County,D,37,37059,Roy Cooper,29.71,6393
+nc,Davie County,Lib,37,37059,Lon Cecil,2.32,500
+nc,Duplin County,R,37,37061,Pat McCrory,59.45,12198
+nc,Duplin County,D,37,37061,Roy Cooper,39.48,8101
+nc,Duplin County,Lib,37,37061,Lon Cecil,1.06,218
+nc,Durham County,D,37,37063,Roy Cooper,78.54,119786
+nc,Durham County,R,37,37063,Pat McCrory,19.78,30180
+nc,Durham County,Lib,37,37063,Lon Cecil,1.67,2548
+nc,Edgecombe County,D,37,37065,Roy Cooper,65.28,16096
+nc,Edgecombe County,R,37,37065,Pat McCrory,33.85,8348
+nc,Edgecombe County,Lib,37,37065,Lon Cecil,0.85,212
+nc,Forsyth County,D,37,37067,Roy Cooper,56.22,97625
+nc,Forsyth County,R,37,37067,Pat McCrory,41.54,72144
+nc,Forsyth County,Lib,37,37067,Lon Cecil,2.23,3874
+nc,Franklin County,R,37,37069,Pat McCrory,52.47,15858
+nc,Franklin County,D,37,37069,Roy Cooper,45.6,13782
+nc,Franklin County,Lib,37,37069,Lon Cecil,1.92,582
+nc,Gaston County,R,37,37071,Pat McCrory,62.63,59703
+nc,Gaston County,D,37,37071,Roy Cooper,35.13,33495
+nc,Gaston County,Lib,37,37071,Lon Cecil,2.23,2128
+nc,Gates County,R,37,37073,Pat McCrory,54.31,2854
+nc,Gates County,D,37,37073,Roy Cooper,44.24,2325
+nc,Gates County,Lib,37,37073,Lon Cecil,1.44,76
+nc,Graham County,R,37,37075,Pat McCrory,68.49,2744
+nc,Graham County,D,37,37075,Roy Cooper,28.33,1135
+nc,Graham County,Lib,37,37075,Lon Cecil,3.17,127
+nc,Granville County,D,37,37077,Roy Cooper,49.56,13439
+nc,Granville County,R,37,37077,Pat McCrory,48.79,13230
+nc,Granville County,Lib,37,37077,Lon Cecil,1.64,445
+nc,Greene County,R,37,37079,Pat McCrory,54.52,4364
+nc,Greene County,D,37,37079,Roy Cooper,44.63,3572
+nc,Greene County,Lib,37,37079,Lon Cecil,0.83,67
+nc,Guilford County,D,37,37081,Roy Cooper,60.87,154386
+nc,Guilford County,R,37,37081,Pat McCrory,37.02,93893
+nc,Guilford County,Lib,37,37081,Lon Cecil,2.1,5340
+nc,Halifax County,D,37,37083,Roy Cooper,63.97,15891
+nc,Halifax County,R,37,37083,Pat McCrory,35.28,8763
+nc,Halifax County,Lib,37,37083,Lon Cecil,0.74,184
+nc,Harnett County,R,37,37085,Pat McCrory,59.3,26802
+nc,Harnett County,D,37,37085,Roy Cooper,38.44,17376
+nc,Harnett County,Lib,37,37085,Lon Cecil,2.24,1014
+nc,Haywood County,R,37,37087,Pat McCrory,54.65,16565
+nc,Haywood County,D,37,37087,Roy Cooper,42.21,12795
+nc,Haywood County,Lib,37,37087,Lon Cecil,3.12,948
+nc,Henderson County,R,37,37089,Pat McCrory,58.28,33352
+nc,Henderson County,D,37,37089,Roy Cooper,38.94,22286
+nc,Henderson County,Lib,37,37089,Lon Cecil,2.76,1580
+nc,Hertford County,D,37,37091,Roy Cooper,66.86,6658
+nc,Hertford County,R,37,37091,Pat McCrory,32.38,3225
+nc,Hertford County,Lib,37,37091,Lon Cecil,0.75,75
+nc,Hoke County,D,37,37093,Roy Cooper,53.84,9569
+nc,Hoke County,R,37,37093,Pat McCrory,43.42,7717
+nc,Hoke County,Lib,37,37093,Lon Cecil,2.72,484
+nc,Hyde County,R,37,37095,Pat McCrory,54.91,1246
+nc,Hyde County,D,37,37095,Roy Cooper,44.02,999
+nc,Hyde County,Lib,37,37095,Lon Cecil,1.05,24
+nc,Iredell County,R,37,37097,Pat McCrory,62.19,50358
+nc,Iredell County,D,37,37097,Roy Cooper,34.88,28244
+nc,Iredell County,Lib,37,37097,Lon Cecil,2.92,2368
+nc,Jackson County,D,37,37099,Roy Cooper,49.48,9038
+nc,Jackson County,R,37,37099,Pat McCrory,47.31,8642
+nc,Jackson County,Lib,37,37099,Lon Cecil,3.2,585
+nc,Johnston County,R,37,37101,Pat McCrory,61.8,52615
+nc,Johnston County,D,37,37101,Roy Cooper,36.36,30960
+nc,Johnston County,Lib,37,37101,Lon Cecil,1.82,1555
+nc,Jones County,R,37,37103,Pat McCrory,58.77,2968
+nc,Jones County,D,37,37103,Roy Cooper,40.07,2024
+nc,Jones County,Lib,37,37103,Lon Cecil,1.14,58
+nc,Lee County,R,37,37105,Pat McCrory,52.25,12930
+nc,Lee County,D,37,37105,Roy Cooper,45.58,11279
+nc,Lee County,Lib,37,37105,Lon Cecil,2.16,536
+nc,Lenoir County,R,37,37107,Pat McCrory,53.37,13606
+nc,Lenoir County,D,37,37107,Roy Cooper,45.58,11620
+nc,Lenoir County,Lib,37,37107,Lon Cecil,1.04,266
+nc,Lincoln County,R,37,37109,Pat McCrory,69.17,27410
+nc,Lincoln County,D,37,37109,Roy Cooper,28.43,11269
+nc,Lincoln County,Lib,37,37109,Lon Cecil,2.38,946
+nc,Macon County,R,37,37113,Pat McCrory,61.15,10635
+nc,Macon County,D,37,37113,Roy Cooper,35.87,6238
+nc,Macon County,Lib,37,37113,Lon Cecil,2.96,516
+nc,Madison County,R,37,37115,Pat McCrory,54.22,6010
+nc,Madison County,D,37,37115,Roy Cooper,42.97,4763
+nc,Madison County,Lib,37,37115,Lon Cecil,2.8,311
+nc,Martin County,R,37,37117,Pat McCrory,50.65,5993
+nc,Martin County,D,37,37117,Roy Cooper,48.59,5749
+nc,Martin County,Lib,37,37117,Lon Cecil,0.74,88
+nc,McDowell County,R,37,37111,Pat McCrory,66.47,13009
+nc,McDowell County,D,37,37111,Roy Cooper,30.62,5993
+nc,McDowell County,Lib,37,37111,Lon Cecil,2.89,567
+nc,Mecklenburg County,D,37,37119,Roy Cooper,63.29,294880
+nc,Mecklenburg County,R,37,37119,Pat McCrory,34.17,159217
+nc,Mecklenburg County,Lib,37,37119,Lon Cecil,2.53,11799
+nc,Mitchell County,R,37,37121,Pat McCrory,72.55,5770
+nc,Mitchell County,D,37,37121,Roy Cooper,24.95,1985
+nc,Mitchell County,Lib,37,37121,Lon Cecil,2.48,198
+nc,Montgomery County,R,37,37123,Pat McCrory,58,6605
+nc,Montgomery County,D,37,37123,Roy Cooper,40.48,4610
+nc,Montgomery County,Lib,37,37123,Lon Cecil,1.5,171
+nc,Moore County,R,37,37125,Pat McCrory,61.33,29470
+nc,Moore County,D,37,37125,Roy Cooper,36.63,17602
+nc,Moore County,Lib,37,37125,Lon Cecil,2.03,978
+nc,Nash County,D,37,37127,Roy Cooper,51.7,24422
+nc,Nash County,R,37,37127,Pat McCrory,47.24,22316
+nc,Nash County,Lib,37,37127,Lon Cecil,1.04,494
+nc,New Hanover County,D,37,37129,Roy Cooper,50.85,55546
+nc,New Hanover County,R,37,37129,Pat McCrory,46.25,50525
+nc,New Hanover County,Lib,37,37129,Lon Cecil,2.89,3159
+nc,Northampton County,D,37,37131,Roy Cooper,62.39,6069
+nc,Northampton County,R,37,37131,Pat McCrory,36.9,3590
+nc,Northampton County,Lib,37,37131,Lon Cecil,0.69,68
+nc,Onslow County,R,37,37133,Pat McCrory,65.18,35971
+nc,Onslow County,D,37,37133,Roy Cooper,31.89,17601
+nc,Onslow County,Lib,37,37133,Lon Cecil,2.91,1609
+nc,Orange County,D,37,37135,Roy Cooper,74.79,60536
+nc,Orange County,R,37,37135,Pat McCrory,23.41,18953
+nc,Orange County,Lib,37,37135,Lon Cecil,1.79,1449
+nc,Pamlico County,R,37,37137,Pat McCrory,62.43,4229
+nc,Pamlico County,D,37,37137,Roy Cooper,36.08,2444
+nc,Pamlico County,Lib,37,37137,Lon Cecil,1.47,100
+nc,Pasquotank County,D,37,37139,Roy Cooper,50.98,8623
+nc,Pasquotank County,R,37,37139,Pat McCrory,47.12,7970
+nc,Pasquotank County,Lib,37,37139,Lon Cecil,1.89,321
+nc,Pender County,R,37,37141,Pat McCrory,60.66,16323
+nc,Pender County,D,37,37141,Roy Cooper,36.86,9920
+nc,Pender County,Lib,37,37141,Lon Cecil,2.46,663
+nc,Perquimans County,R,37,37143,Pat McCrory,63.2,4128
+nc,Perquimans County,D,37,37143,Roy Cooper,35.63,2327
+nc,Perquimans County,Lib,37,37143,Lon Cecil,1.16,76
+nc,Person County,R,37,37145,Pat McCrory,55.33,10707
+nc,Person County,D,37,37145,Roy Cooper,43.11,8342
+nc,Person County,Lib,37,37145,Lon Cecil,1.54,299
+nc,Pitt County,D,37,37147,Roy Cooper,52.3,41080
+nc,Pitt County,R,37,37147,Pat McCrory,46.06,36179
+nc,Pitt County,Lib,37,37147,Lon Cecil,1.63,1283
+nc,Polk County,R,37,37149,Pat McCrory,57.79,6200
+nc,Polk County,D,37,37149,Roy Cooper,39.88,4279
+nc,Polk County,Lib,37,37149,Lon Cecil,2.32,249
+nc,Randolph County,R,37,37151,Pat McCrory,72.29,46131
+nc,Randolph County,D,37,37151,Roy Cooper,25.43,16230
+nc,Randolph County,Lib,37,37151,Lon Cecil,2.26,1447
+nc,Richmond County,R,37,37153,Pat McCrory,51.78,9689
+nc,Richmond County,D,37,37153,Roy Cooper,46.61,8722
+nc,Richmond County,Lib,37,37153,Lon Cecil,1.6,300
+nc,Robeson County,R,37,37155,Pat McCrory,53.24,20840
+nc,Robeson County,D,37,37155,Roy Cooper,45.83,17939
+nc,Robeson County,Lib,37,37155,Lon Cecil,0.92,363
+nc,Rockingham County,R,37,37157,Pat McCrory,59.05,24486
+nc,Rockingham County,D,37,37157,Roy Cooper,38.93,16142
+nc,Rockingham County,Lib,37,37157,Lon Cecil,2,832
+nc,Rowan County,R,37,37159,Pat McCrory,63.74,40422
+nc,Rowan County,D,37,37159,Roy Cooper,33.74,21397
+nc,Rowan County,Lib,37,37159,Lon Cecil,2.51,1598
+nc,Rutherford County,R,37,37161,Pat McCrory,65.77,19519
+nc,Rutherford County,D,37,37161,Roy Cooper,31.79,9436
+nc,Rutherford County,Lib,37,37161,Lon Cecil,2.42,720
+nc,Sampson County,R,37,37163,Pat McCrory,57.98,14860
+nc,Sampson County,D,37,37163,Roy Cooper,41,10508
+nc,Sampson County,Lib,37,37163,Lon Cecil,1,258
+nc,Scotland County,D,37,37165,Roy Cooper,53.98,7314
+nc,Scotland County,R,37,37165,Pat McCrory,44.63,6048
+nc,Scotland County,Lib,37,37165,Lon Cecil,1.38,187
+nc,Stanly County,R,37,37167,Pat McCrory,70.71,20893
+nc,Stanly County,D,37,37167,Roy Cooper,27.28,8062
+nc,Stanly County,Lib,37,37167,Lon Cecil,2,592
+nc,Stokes County,R,37,37169,Pat McCrory,69.97,15602
+nc,Stokes County,D,37,37169,Roy Cooper,27.52,6138
+nc,Stokes County,Lib,37,37169,Lon Cecil,2.5,558
+nc,Surry County,R,37,37171,Pat McCrory,67.96,21560
+nc,Surry County,D,37,37171,Roy Cooper,30.12,9555
+nc,Surry County,Lib,37,37171,Lon Cecil,1.9,605
+nc,Swain County,R,37,37173,Pat McCrory,51.34,3082
+nc,Swain County,D,37,37173,Roy Cooper,44.21,2654
+nc,Swain County,Lib,37,37173,Lon Cecil,4.44,267
+nc,Transylvania County,R,37,37175,Pat McCrory,54,9480
+nc,Transylvania County,D,37,37175,Roy Cooper,43.02,7553
+nc,Transylvania County,Lib,37,37175,Lon Cecil,2.96,521
+nc,Tyrrell County,R,37,37177,Pat McCrory,57.68,980
+nc,Tyrrell County,D,37,37177,Roy Cooper,40.67,691
+nc,Tyrrell County,Lib,37,37177,Lon Cecil,1.64,28
+nc,Union County,R,37,37179,Pat McCrory,63.57,66292
+nc,Union County,D,37,37179,Roy Cooper,34.15,35615
+nc,Union County,Lib,37,37179,Lon Cecil,2.26,2361
+nc,Vance County,D,37,37181,Roy Cooper,61.76,12201
+nc,Vance County,R,37,37181,Pat McCrory,37.22,7354
+nc,Vance County,Lib,37,37181,Lon Cecil,1,198
+nc,Wake County,D,37,37183,Roy Cooper,59.89,310956
+nc,Wake County,R,37,37183,Pat McCrory,37.91,196866
+nc,Wake County,Lib,37,37183,Lon Cecil,2.18,11341
+nc,Warren County,D,37,37185,Roy Cooper,66.3,6726
+nc,Warren County,R,37,37185,Pat McCrory,32.63,3311
+nc,Warren County,Lib,37,37185,Lon Cecil,1.05,107
+nc,Washington County,D,37,37187,Roy Cooper,55.36,3366
+nc,Washington County,R,37,37187,Pat McCrory,43.76,2661
+nc,Washington County,Lib,37,37187,Lon Cecil,0.87,53
+nc,Watauga County,D,37,37189,Roy Cooper,52.62,15436
+nc,Watauga County,R,37,37189,Pat McCrory,43.99,12905
+nc,Watauga County,Lib,37,37189,Lon Cecil,3.37,991
+nc,Wayne County,R,37,37191,Pat McCrory,55.34,27632
+nc,Wayne County,D,37,37191,Roy Cooper,43.31,21624
+nc,Wayne County,Lib,37,37191,Lon Cecil,1.34,672
+nc,Wilkes County,R,37,37193,Pat McCrory,71.44,22118
+nc,Wilkes County,D,37,37193,Roy Cooper,26.58,8231
+nc,Wilkes County,Lib,37,37193,Lon Cecil,1.96,609
+nc,Wilson County,D,37,37195,Roy Cooper,53.83,20323
+nc,Wilson County,R,37,37195,Pat McCrory,45.15,17047
+nc,Wilson County,Lib,37,37195,Lon Cecil,1.01,384
+nc,Yadkin County,R,37,37197,Pat McCrory,75.1,13137
+nc,Yadkin County,D,37,37197,Roy Cooper,22.87,4002
+nc,Yadkin County,Lib,37,37197,Lon Cecil,2.01,353
+nc,Yancey County,R,37,37199,Pat McCrory,58.44,5829
+nc,Yancey County,D,37,37199,Roy Cooper,39.26,3916
+nc,Yancey County,Lib,37,37199,Lon Cecil,2.28,228
+nd,Adams County,R,38,38001,Doug Burgum,86.15,1045
+nd,Adams County,D,38,38001,Marvin Nelson,11.12,135
+nd,Adams County,Lib,38,38001,Marty Riske,2.72,33
+nd,Barnes County,R,38,38003,Doug Burgum,79.2,4210
+nd,Barnes County,D,38,38003,Marvin Nelson,17.25,917
+nd,Barnes County,Lib,38,38003,Marty Riske,3.53,188
+nd,Benson County,R,38,38005,Doug Burgum,55.27,1106
+nd,Benson County,D,38,38005,Marvin Nelson,40.82,817
+nd,Benson County,Lib,38,38005,Marty Riske,3.89,78
+nd,Billings County,R,38,38007,Doug Burgum,88.85,534
+nd,Billings County,D,38,38007,Marvin Nelson,7.65,46
+nd,Billings County,Lib,38,38007,Marty Riske,3.49,21
+nd,Bottineau County,R,38,38009,Doug Burgum,79.88,2756
+nd,Bottineau County,D,38,38009,Marvin Nelson,17.18,593
+nd,Bottineau County,Lib,38,38009,Marty Riske,2.92,101
+nd,Bowman County,R,38,38011,Doug Burgum,88.03,1575
+nd,Bowman County,D,38,38011,Marvin Nelson,9.94,178
+nd,Bowman County,Lib,38,38011,Marty Riske,2.01,36
+nd,Burke County,R,38,38013,Doug Burgum,86.82,890
+nd,Burke County,D,38,38013,Marvin Nelson,11.7,120
+nd,Burke County,Lib,38,38013,Marty Riske,1.46,15
+nd,Burleigh County,R,38,38015,Doug Burgum,79.99,37752
+nd,Burleigh County,D,38,38015,Marvin Nelson,16.55,7812
+nd,Burleigh County,Lib,38,38015,Marty Riske,3.45,1630
+nd,Cass County,R,38,38017,Doug Burgum,71.9,56911
+nd,Cass County,D,38,38017,Marvin Nelson,23.39,18518
+nd,Cass County,Lib,38,38017,Marty Riske,4.69,3714
+nd,Cavalier County,R,38,38019,Doug Burgum,79.52,1596
+nd,Cavalier County,D,38,38019,Marvin Nelson,18.63,374
+nd,Cavalier County,Lib,38,38019,Marty Riske,1.84,37
+nd,Dickey County,R,38,38021,Doug Burgum,80.82,1930
+nd,Dickey County,D,38,38021,Marvin Nelson,16.87,403
+nd,Dickey County,Lib,38,38021,Marty Riske,2.3,55
+nd,Divide County,R,38,38023,Doug Burgum,77.79,932
+nd,Divide County,D,38,38023,Marvin Nelson,19.11,229
+nd,Divide County,Lib,38,38023,Marty Riske,3.08,37
+nd,Dunn County,R,38,38025,Doug Burgum,84.04,1843
+nd,Dunn County,D,38,38025,Marvin Nelson,13.63,299
+nd,Dunn County,Lib,38,38025,Marty Riske,2.32,51
+nd,Eddy County,R,38,38027,Doug Burgum,58.16,716
+nd,Eddy County,D,38,38027,Marvin Nelson,39.56,487
+nd,Eddy County,Lib,38,38027,Marty Riske,2.27,28
+nd,Emmons County,R,38,38029,Doug Burgum,88.09,1732
+nd,Emmons County,D,38,38029,Marvin Nelson,9.4,185
+nd,Emmons County,Lib,38,38029,Marty Riske,2.49,49
+nd,Foster County,R,38,38031,Doug Burgum,80.41,1392
+nd,Foster County,D,38,38031,Marvin Nelson,16.52,286
+nd,Foster County,Lib,38,38031,Marty Riske,3.06,53
+nd,Golden Valley County,R,38,38033,Doug Burgum,83.89,792
+nd,Golden Valley County,D,38,38033,Marvin Nelson,13.34,126
+nd,Golden Valley County,Lib,38,38033,Marty Riske,2.75,26
+nd,Grand Forks County,R,38,38035,Doug Burgum,70.1,20432
+nd,Grand Forks County,D,38,38035,Marvin Nelson,25.31,7378
+nd,Grand Forks County,Lib,38,38035,Marty Riske,4.58,1336
+nd,Grant County,R,38,38037,Doug Burgum,86.7,1200
+nd,Grant County,D,38,38037,Marvin Nelson,11.05,153
+nd,Grant County,Lib,38,38037,Marty Riske,2.23,31
+nd,Griggs County,R,38,38039,Doug Burgum,75.55,961
+nd,Griggs County,D,38,38039,Marvin Nelson,21.85,278
+nd,Griggs County,Lib,38,38039,Marty Riske,2.59,33
+nd,Hettinger County,R,38,38041,Doug Burgum,85.64,1086
+nd,Hettinger County,D,38,38041,Marvin Nelson,11.27,143
+nd,Hettinger County,Lib,38,38041,Marty Riske,3.07,39
+nd,Kidder County,R,38,38043,Doug Burgum,84.19,1161
+nd,Kidder County,D,38,38043,Marvin Nelson,12.9,178
+nd,Kidder County,Lib,38,38043,Marty Riske,2.9,40
+nd,LaMoure County,R,38,38045,Doug Burgum,80.68,1738
+nd,LaMoure County,D,38,38045,Marvin Nelson,17.03,367
+nd,LaMoure County,Lib,38,38045,Marty Riske,2.27,49
+nd,Logan County,R,38,38047,Doug Burgum,88.43,941
+nd,Logan County,D,38,38047,Marvin Nelson,8.92,95
+nd,Logan County,Lib,38,38047,Marty Riske,2.63,28
+nd,McHenry County,R,38,38049,Doug Burgum,82.11,2263
+nd,McHenry County,D,38,38049,Marvin Nelson,15.05,415
+nd,McHenry County,Lib,38,38049,Marty Riske,2.83,78
+nd,McIntosh County,R,38,38051,Doug Burgum,86.04,1246
+nd,McIntosh County,D,38,38051,Marvin Nelson,12.01,174
+nd,McIntosh County,Lib,38,38051,Marty Riske,1.93,28
+nd,McKenzie County,R,38,38053,Doug Burgum,84.8,3880
+nd,McKenzie County,D,38,38053,Marvin Nelson,12.26,561
+nd,McKenzie County,Lib,38,38053,Marty Riske,2.92,134
+nd,McLean County,R,38,38055,Doug Burgum,80.07,4199
+nd,McLean County,D,38,38055,Marvin Nelson,17.33,909
+nd,McLean County,Lib,38,38055,Marty Riske,2.59,136
+nd,Mercer County,R,38,38057,Doug Burgum,85.56,3907
+nd,Mercer County,D,38,38057,Marvin Nelson,12.02,549
+nd,Mercer County,Lib,38,38057,Marty Riske,2.4,110
+nd,Morton County,R,38,38059,Doug Burgum,80.77,12574
+nd,Morton County,D,38,38059,Marvin Nelson,15.46,2407
+nd,Morton County,Lib,38,38059,Marty Riske,3.75,585
+nd,Mountrail County,R,38,38061,Doug Burgum,67.94,2728
+nd,Mountrail County,D,38,38061,Marvin Nelson,27.84,1118
+nd,Mountrail County,Lib,38,38061,Marty Riske,4.2,169
+nd,Nelson County,R,38,38063,Doug Burgum,68.18,1185
+nd,Nelson County,D,38,38063,Marvin Nelson,28.71,499
+nd,Nelson County,Lib,38,38063,Marty Riske,3.1,54
+nd,Oliver County,R,38,38065,Doug Burgum,87.2,886
+nd,Oliver County,D,38,38065,Marvin Nelson,10.33,105
+nd,Oliver County,Lib,38,38065,Marty Riske,2.46,25
+nd,Pembina County,R,38,38067,Doug Burgum,80.57,2551
+nd,Pembina County,D,38,38067,Marvin Nelson,16.2,513
+nd,Pembina County,Lib,38,38067,Marty Riske,3.22,102
+nd,Pierce County,R,38,38069,Doug Burgum,79,1637
+nd,Pierce County,D,38,38069,Marvin Nelson,18.96,393
+nd,Pierce County,Lib,38,38069,Marty Riske,2.02,42
+nd,Ramsey County,R,38,38071,Doug Burgum,75.24,4003
+nd,Ramsey County,D,38,38071,Marvin Nelson,20.88,1111
+nd,Ramsey County,Lib,38,38071,Marty Riske,3.87,206
+nd,Ransom County,R,38,38073,Doug Burgum,73.13,1718
+nd,Ransom County,D,38,38073,Marvin Nelson,23.2,545
+nd,Ransom County,Lib,38,38073,Marty Riske,3.66,86
+nd,Renville County,R,38,38075,Doug Burgum,84.37,1058
+nd,Renville County,D,38,38075,Marvin Nelson,12.75,160
+nd,Renville County,Lib,38,38075,Marty Riske,2.87,36
+nd,Richland County,R,38,38077,Doug Burgum,78.29,5858
+nd,Richland County,D,38,38077,Marvin Nelson,17.8,1332
+nd,Richland County,Lib,38,38077,Marty Riske,3.9,292
+nd,Rolette County,D,38,38079,Marvin Nelson,63.75,2380
+nd,Rolette County,R,38,38079,Doug Burgum,33.02,1233
+nd,Rolette County,Lib,38,38079,Marty Riske,3.21,120
+nd,Sargent County,R,38,38081,Doug Burgum,72.8,1462
+nd,Sargent County,D,38,38081,Marvin Nelson,24.55,493
+nd,Sargent County,Lib,38,38081,Marty Riske,2.63,53
+nd,Sheridan County,R,38,38083,Doug Burgum,86.34,670
+nd,Sheridan County,D,38,38083,Marvin Nelson,11.08,86
+nd,Sheridan County,Lib,38,38083,Marty Riske,2.57,20
+nd,Sioux County,D,38,38085,Marvin Nelson,57.43,684
+nd,Sioux County,R,38,38085,Doug Burgum,36.43,434
+nd,Sioux County,Lib,38,38085,Marty Riske,6.12,73
+nd,Slope County,R,38,38087,Doug Burgum,88,374
+nd,Slope County,D,38,38087,Marvin Nelson,9.64,41
+nd,Slope County,Lib,38,38087,Marty Riske,2.35,10
+nd,Stark County,R,38,38089,Doug Burgum,86.04,10309
+nd,Stark County,D,38,38089,Marvin Nelson,10.86,1302
+nd,Stark County,Lib,38,38089,Marty Riske,3.08,370
+nd,Steele County,R,38,38091,Doug Burgum,74.73,763
+nd,Steele County,D,38,38091,Marvin Nelson,22.62,231
+nd,Steele County,Lib,38,38091,Marty Riske,2.64,27
+nd,Stutsman County,R,38,38093,Doug Burgum,80.68,7935
+nd,Stutsman County,D,38,38093,Marvin Nelson,15.9,1564
+nd,Stutsman County,Lib,38,38093,Marty Riske,3.4,335
+nd,Towner County,R,38,38095,Doug Burgum,72,841
+nd,Towner County,D,38,38095,Marvin Nelson,25.85,302
+nd,Towner County,Lib,38,38095,Marty Riske,2.14,25
+nd,Traill County,R,38,38097,Doug Burgum,76.15,2989
+nd,Traill County,D,38,38097,Marvin Nelson,20.2,793
+nd,Traill County,Lib,38,38097,Marty Riske,3.64,143
+nd,Walsh County,R,38,38099,Doug Burgum,77.29,3609
+nd,Walsh County,D,38,38099,Marvin Nelson,16.85,787
+nd,Walsh County,Lib,38,38099,Marty Riske,5.84,273
+nd,Ward County,R,38,38101,Doug Burgum,78.93,21181
+nd,Ward County,D,38,38101,Marvin Nelson,16.11,4324
+nd,Ward County,Lib,38,38101,Marty Riske,4.94,1328
+nd,Wells County,R,38,38103,Doug Burgum,82.94,1969
+nd,Wells County,D,38,38103,Marvin Nelson,14.91,354
+nd,Wells County,Lib,38,38103,Marty Riske,2.14,51
+nd,Williams County,R,38,38105,Doug Burgum,83.73,10374
+nd,Williams County,D,38,38105,Marvin Nelson,11.64,1443
+nd,Williams County,Lib,38,38105,Marty Riske,4.61,572
+nh,Acworth County,D,33,,Colin Van Ostern,51.45,283
+nh,Acworth County,R,33,,Chris Sununu,44,242
+nh,Acworth County,Lib,33,,Max Abramson,4.54,25
+nh,Albany County,D,33,,Colin Van Ostern,52.53,207
+nh,Albany County,R,33,,Chris Sununu,43.4,171
+nh,Albany County,Lib,33,,Max Abramson,4.06,16
+nh,Alexandria County,R,33,,Chris Sununu,52.78,492
+nh,Alexandria County,D,33,,Colin Van Ostern,41.09,383
+nh,Alexandria County,Lib,33,,Max Abramson,6.11,57
+nh,Allenstown County,R,33,,Chris Sununu,50,1080
+nh,Allenstown County,D,33,,Colin Van Ostern,44.67,965
+nh,Allenstown County,Lib,33,,Max Abramson,5.32,115
+nh,Alstead County,D,33,,Colin Van Ostern,51.66,529
+nh,Alstead County,R,33,,Chris Sununu,45.41,465
+nh,Alstead County,Lib,33,,Max Abramson,2.92,30
+nh,Alton County,R,33,,Chris Sununu,62.52,2166
+nh,Alton County,D,33,,Colin Van Ostern,33.57,1163
+nh,Alton County,Lib,33,,Max Abramson,3.89,135
+nh,Amherst County,R,33,,Chris Sununu,50.62,3751
+nh,Amherst County,D,33,,Colin Van Ostern,45.66,3384
+nh,Amherst County,Lib,33,,Max Abramson,3.71,275
+nh,Andover County,D,33,,Colin Van Ostern,52.05,735
+nh,Andover County,R,33,,Chris Sununu,44.33,626
+nh,Andover County,Lib,33,,Max Abramson,3.61,51
+nh,Antrim County,D,33,,Colin Van Ostern,46.67,695
+nh,Antrim County,R,33,,Chris Sununu,46.13,687
+nh,Antrim County,Lib,33,,Max Abramson,7.18,107
+nh,Ashland County,D,33,,Colin Van Ostern,47.82,517
+nh,Ashland County,R,33,,Chris Sununu,47.45,513
+nh,Ashland County,Lib,33,,Max Abramson,4.71,51
+nh,Atkinson County,R,33,,Chris Sununu,63.11,2775
+nh,Atkinson County,D,33,,Colin Van Ostern,33.29,1464
+nh,Atkinson County,Lib,33,,Max Abramson,3.59,158
+nh,Auburn County,R,33,,Chris Sununu,60.48,2097
+nh,Auburn County,D,33,,Colin Van Ostern,35.56,1233
+nh,Auburn County,Lib,33,,Max Abramson,3.95,137
+nh,Barnstead County,R,33,,Chris Sununu,55.77,1429
+nh,Barnstead County,D,33,,Colin Van Ostern,39.69,1017
+nh,Barnstead County,Lib,33,,Max Abramson,4.52,116
+nh,Barrington County,R,33,,Chris Sununu,48.45,2518
+nh,Barrington County,D,33,,Colin Van Ostern,45.56,2368
+nh,Barrington County,Lib,33,,Max Abramson,5.98,311
+nh,Bartlett County,D,33,,Colin Van Ostern,53.24,1018
+nh,Bartlett County,R,33,,Chris Sununu,43.67,835
+nh,Bartlett County,Lib,33,,Max Abramson,3.08,59
+nh,Bath County,R,33,,Chris Sununu,54.83,295
+nh,Bath County,D,33,,Colin Van Ostern,41.26,222
+nh,Bath County,Lib,33,,Max Abramson,3.9,21
+nh,Bedford County,R,33,,Chris Sununu,59.1,7911
+nh,Bedford County,D,33,,Colin Van Ostern,38,5087
+nh,Bedford County,Lib,33,,Max Abramson,2.88,386
+nh,Belmont County,R,33,,Chris Sununu,56.41,2045
+nh,Belmont County,D,33,,Colin Van Ostern,38.92,1411
+nh,Belmont County,Lib,33,,Max Abramson,4.66,169
+nh,Bennington County,R,33,,Chris Sununu,49.36,386
+nh,Bennington County,D,33,,Colin Van Ostern,43.73,342
+nh,Bennington County,Lib,33,,Max Abramson,6.9,54
+nh,Benton County,R,33,,Chris Sununu,58.15,107
+nh,Benton County,D,33,,Colin Van Ostern,36.95,68
+nh,Benton County,Lib,33,,Max Abramson,4.89,9
+nh,Berlin County,D,33,,Colin Van Ostern,52.84,2054
+nh,Berlin County,R,33,,Chris Sununu,42.16,1639
+nh,Berlin County,Lib,33,,Max Abramson,4.99,194
+nh,Bethlehem County,D,33,,Colin Van Ostern,53.69,762
+nh,Bethlehem County,R,33,,Chris Sununu,39.81,565
+nh,Bethlehem County,Lib,33,,Max Abramson,6.48,92
+nh,Boscawen County,D,33,,Colin Van Ostern,47.88,872
+nh,Boscawen County,R,33,,Chris Sununu,47.66,868
+nh,Boscawen County,Lib,33,,Max Abramson,4.44,81
+nh,Bow County,D,33,,Colin Van Ostern,48.86,2446
+nh,Bow County,R,33,,Chris Sununu,48.18,2412
+nh,Bow County,Lib,33,,Max Abramson,2.95,148
+nh,Bradford County,R,33,,Chris Sununu,48.36,472
+nh,Bradford County,D,33,,Colin Van Ostern,47.23,461
+nh,Bradford County,Lib,33,,Max Abramson,4.4,43
+nh,Brentwood County,R,33,,Chris Sununu,54.14,1371
+nh,Brentwood County,D,33,,Colin Van Ostern,42.18,1068
+nh,Brentwood County,Lib,33,,Max Abramson,3.67,93
+nh,Bridgewater County,D,33,,Colin Van Ostern,50.16,299
+nh,Bridgewater County,R,33,,Chris Sununu,46.14,275
+nh,Bridgewater County,Lib,33,,Max Abramson,3.69,22
+nh,Bristol County,R,33,,Chris Sununu,53.02,859
+nh,Bristol County,D,33,,Colin Van Ostern,40.55,657
+nh,Bristol County,Lib,33,,Max Abramson,6.41,104
+nh,Brookfield County,R,33,,Chris Sununu,58.95,260
+nh,Brookfield County,D,33,,Colin Van Ostern,36.28,160
+nh,Brookfield County,Lib,33,,Max Abramson,4.76,21
+nh,Brookline County,R,33,,Chris Sununu,55.09,1715
+nh,Brookline County,D,33,,Colin Van Ostern,41.43,1290
+nh,Brookline County,Lib,33,,Max Abramson,3.46,108
+nh,Campton County,D,33,,Colin Van Ostern,53.79,1013
+nh,Campton County,R,33,,Chris Sununu,40.62,765
+nh,Campton County,Lib,33,,Max Abramson,5.57,105
+nh,Canaan County,D,33,,Colin Van Ostern,49.97,941
+nh,Canaan County,R,33,,Chris Sununu,45.51,857
+nh,Canaan County,Lib,33,,Max Abramson,4.51,85
+nh,Candia County,R,33,,Chris Sununu,60.32,1539
+nh,Candia County,D,33,,Colin Van Ostern,35.55,907
+nh,Candia County,Lib,33,,Max Abramson,4.11,105
+nh,Canterbury County,D,33,,Colin Van Ostern,54.1,851
+nh,Canterbury County,R,33,,Chris Sununu,42.78,673
+nh,Canterbury County,Lib,33,,Max Abramson,3.11,49
+nh,Carroll County,R,33,33003,Chris Sununu,51.55,248
+nh,Carroll County,D,33,33003,Colin Van Ostern,45.11,217
+nh,Carroll County,Lib,33,33003,Max Abramson,3.32,16
+nh,Center Harbor County,R,33,,Chris Sununu,53.94,383
+nh,Center Harbor County,D,33,,Colin Van Ostern,43.09,306
+nh,Center Harbor County,Lib,33,,Max Abramson,2.95,21
+nh,Charlestown County,D,33,,Colin Van Ostern,48.79,1136
+nh,Charlestown County,R,33,,Chris Sununu,45.96,1070
+nh,Charlestown County,Lib,33,,Max Abramson,5.24,122
+nh,Chatham County,R,33,,Chris Sununu,53.53,106
+nh,Chatham County,D,33,,Colin Van Ostern,39.39,78
+nh,Chatham County,Lib,33,,Max Abramson,7.07,14
+nh,Chester County,R,33,,Chris Sununu,59.71,1755
+nh,Chester County,D,33,,Colin Van Ostern,36.37,1069
+nh,Chester County,Lib,33,,Max Abramson,3.91,115
+nh,Chesterfield County,D,33,,Colin Van Ostern,51.51,1107
+nh,Chesterfield County,R,33,,Chris Sununu,45.46,977
+nh,Chesterfield County,Lib,33,,Max Abramson,3.02,65
+nh,Chichester County,R,33,,Chris Sununu,51.22,813
+nh,Chichester County,D,33,,Colin Van Ostern,44.54,707
+nh,Chichester County,Lib,33,,Max Abramson,4.22,67
+nh,Claremont County,R,33,,Chris Sununu,48.08,2627
+nh,Claremont County,D,33,,Colin Van Ostern,46.75,2554
+nh,Claremont County,Lib,33,,Max Abramson,5.16,282
+nh,Clarksville County,R,33,,Chris Sununu,50.89,85
+nh,Clarksville County,D,33,,Colin Van Ostern,46.7,78
+nh,Clarksville County,Lib,33,,Max Abramson,2.39,4
+nh,Colebrook County,R,33,,Chris Sununu,54.36,542
+nh,Colebrook County,D,33,,Colin Van Ostern,41.02,409
+nh,Colebrook County,Lib,33,,Max Abramson,4.61,46
+nh,Columbia County,R,33,,Chris Sununu,63.06,210
+nh,Columbia County,D,33,,Colin Van Ostern,33.33,111
+nh,Columbia County,Lib,33,,Max Abramson,3.6,12
+nh,Concord County,D,33,,Colin Van Ostern,60.69,13236
+nh,Concord County,R,33,,Chris Sununu,35.61,7766
+nh,Concord County,Lib,33,,Max Abramson,3.69,806
+nh,Conway County,D,33,,Colin Van Ostern,48.46,2508
+nh,Conway County,R,33,,Chris Sununu,46.7,2417
+nh,Conway County,Lib,33,,Max Abramson,4.83,250
+nh,Cornish County,D,33,,Colin Van Ostern,54.07,551
+nh,Cornish County,R,33,,Chris Sununu,42.19,430
+nh,Cornish County,Lib,33,,Max Abramson,3.72,38
+nh,Croydon County,R,33,,Chris Sununu,57.61,242
+nh,Croydon County,D,33,,Colin Van Ostern,35.71,150
+nh,Croydon County,Lib,33,,Max Abramson,6.66,28
+nh,Dalton County,R,33,,Chris Sununu,53.13,263
+nh,Dalton County,D,33,,Colin Van Ostern,38.98,193
+nh,Dalton County,Lib,33,,Max Abramson,7.87,39
+nh,Danbury County,R,33,,Chris Sununu,50.51,341
+nh,Danbury County,D,33,,Colin Van Ostern,43.25,292
+nh,Danbury County,Lib,33,,Max Abramson,6.22,42
+nh,Danville County,R,33,,Chris Sununu,60.81,1501
+nh,Danville County,D,33,,Colin Van Ostern,33.38,824
+nh,Danville County,Lib,33,,Max Abramson,5.79,143
+nh,Deerfield County,R,33,,Chris Sununu,55.04,1559
+nh,Deerfield County,D,33,,Colin Van Ostern,39.79,1127
+nh,Deerfield County,Lib,33,,Max Abramson,5.15,146
+nh,Deering County,R,33,,Chris Sununu,55.1,567
+nh,Deering County,D,33,,Colin Van Ostern,38.77,399
+nh,Deering County,Lib,33,,Max Abramson,6.12,63
+nh,Derry County,R,33,,Chris Sununu,54.84,9065
+nh,Derry County,D,33,,Colin Van Ostern,39.43,6519
+nh,Derry County,Lib,33,,Max Abramson,5.71,945
+nh,Dixville County,R,33,,Chris Sununu,75,6
+nh,Dixville County,D,33,,Colin Van Ostern,25,2
+nh,Dixville County,Lib,33,,Max Abramson,0,0
+nh,Dorchester County,R,33,,Chris Sununu,55.71,117
+nh,Dorchester County,D,33,,Colin Van Ostern,34.76,73
+nh,Dorchester County,Lib,33,,Max Abramson,9.52,20
+nh,Dover County,D,33,,Colin Van Ostern,57.25,9710
+nh,Dover County,R,33,,Chris Sununu,38.7,6564
+nh,Dover County,Lib,33,,Max Abramson,4.03,684
+nh,Dublin County,D,33,,Colin Van Ostern,57.81,588
+nh,Dublin County,R,33,,Chris Sununu,39.13,398
+nh,Dublin County,Lib,33,,Max Abramson,3.04,31
+nh,Dummer County,R,33,,Chris Sununu,54.06,93
+nh,Dummer County,D,33,,Colin Van Ostern,45.93,79
+nh,Dummer County,Lib,33,,Max Abramson,0,0
+nh,Dunbarton County,R,33,,Chris Sununu,58.23,1039
+nh,Dunbarton County,D,33,,Colin Van Ostern,38.28,683
+nh,Dunbarton County,Lib,33,,Max Abramson,3.47,62
+nh,Durham County,D,33,,Colin Van Ostern,64.9,5896
+nh,Durham County,R,33,,Chris Sununu,32.06,2913
+nh,Durham County,Lib,33,,Max Abramson,3.02,275
+nh,East Kingston County,R,33,,Chris Sununu,60.67,918
+nh,East Kingston County,D,33,,Colin Van Ostern,34.89,528
+nh,East Kingston County,Lib,33,,Max Abramson,4.42,67
+nh,Easton County,D,33,,Colin Van Ostern,68.39,132
+nh,Easton County,R,33,,Chris Sununu,27.97,54
+nh,Easton County,Lib,33,,Max Abramson,3.62,7
+nh,Eaton County,D,33,,Colin Van Ostern,49.47,141
+nh,Eaton County,R,33,,Chris Sununu,46.31,132
+nh,Eaton County,Lib,33,,Max Abramson,4.21,12
+nh,Effingham County,R,33,,Chris Sununu,52.58,438
+nh,Effingham County,D,33,,Colin Van Ostern,42.25,352
+nh,Effingham County,Lib,33,,Max Abramson,5.16,43
+nh,Ellsworth County,D,33,,Colin Van Ostern,51.85,28
+nh,Ellsworth County,R,33,,Chris Sununu,44.44,24
+nh,Ellsworth County,Lib,33,,Max Abramson,3.7,2
+nh,Enfield County,D,33,,Colin Van Ostern,56.36,1426
+nh,Enfield County,R,33,,Chris Sununu,39.36,996
+nh,Enfield County,Lib,33,,Max Abramson,4.26,108
+nh,Epping County,R,33,,Chris Sununu,52.72,2050
+nh,Epping County,D,33,,Colin Van Ostern,42.02,1634
+nh,Epping County,Lib,33,,Max Abramson,5.24,204
+nh,Epsom County,R,33,,Chris Sununu,55.14,1431
+nh,Epsom County,D,33,,Colin Van Ostern,40.07,1040
+nh,Epsom County,Lib,33,,Max Abramson,4.77,124
+nh,Errol County,R,33,,Chris Sununu,65.42,123
+nh,Errol County,D,33,,Colin Van Ostern,31.91,60
+nh,Errol County,Lib,33,,Max Abramson,2.65,5
+nh,Exeter County,D,33,,Colin Van Ostern,53.92,4939
+nh,Exeter County,R,33,,Chris Sununu,42.2,3866
+nh,Exeter County,Lib,33,,Max Abramson,3.86,354
+nh,Farmington County,R,33,,Chris Sununu,54.67,1656
+nh,Farmington County,D,33,,Colin Van Ostern,39.81,1206
+nh,Farmington County,Lib,33,,Max Abramson,5.51,167
+nh,Fitzwilliam County,R,33,,Chris Sununu,49.14,605
+nh,Fitzwilliam County,D,33,,Colin Van Ostern,46.62,574
+nh,Fitzwilliam County,Lib,33,,Max Abramson,4.22,52
+nh,Francestown County,R,33,,Chris Sununu,49,491
+nh,Francestown County,D,33,,Colin Van Ostern,46.9,470
+nh,Francestown County,Lib,33,,Max Abramson,4.09,41
+nh,Franconia County,D,33,,Colin Van Ostern,63.42,463
+nh,Franconia County,R,33,,Chris Sununu,34.1,249
+nh,Franconia County,Lib,33,,Max Abramson,2.46,18
+nh,Franklin County,R,33,,Chris Sununu,49.75,1861
+nh,Franklin County,D,33,,Colin Van Ostern,44.78,1675
+nh,Franklin County,Lib,33,,Max Abramson,5.45,204
+nh,Freedom County,R,33,,Chris Sununu,53.35,493
+nh,Freedom County,D,33,,Colin Van Ostern,44.48,411
+nh,Freedom County,Lib,33,,Max Abramson,2.16,20
+nh,Fremont County,R,33,,Chris Sununu,58.64,1580
+nh,Fremont County,D,33,,Colin Van Ostern,36.74,990
+nh,Fremont County,Lib,33,,Max Abramson,4.6,124
+nh,Gilford County,R,33,,Chris Sununu,55.19,2552
+nh,Gilford County,D,33,,Colin Van Ostern,41.28,1909
+nh,Gilford County,Lib,33,,Max Abramson,3.52,163
+nh,Gilmanton County,R,33,,Chris Sununu,56.2,1241
+nh,Gilmanton County,D,33,,Colin Van Ostern,39.26,867
+nh,Gilmanton County,Lib,33,,Max Abramson,4.52,100
+nh,Gilsum County,D,33,,Colin Van Ostern,48.43,217
+nh,Gilsum County,R,33,,Chris Sununu,46.42,208
+nh,Gilsum County,Lib,33,,Max Abramson,5.13,23
+nh,Goffstown County,R,33,,Chris Sununu,53.33,5088
+nh,Goffstown County,D,33,,Colin Van Ostern,42.63,4067
+nh,Goffstown County,Lib,33,,Max Abramson,4.03,385
+nh,Gorham County,D,33,,Colin Van Ostern,52.89,768
+nh,Gorham County,R,33,,Chris Sununu,43.25,628
+nh,Gorham County,Lib,33,,Max Abramson,3.85,56
+nh,Goshen County,R,33,,Chris Sununu,56.8,242
+nh,Goshen County,D,33,,Colin Van Ostern,38.49,164
+nh,Goshen County,Lib,33,,Max Abramson,4.69,20
+nh,Grafton County,R,33,33009,Chris Sununu,52.78,369
+nh,Grafton County,D,33,33009,Colin Van Ostern,40.62,284
+nh,Grafton County,Lib,33,33009,Max Abramson,6.58,46
+nh,Grantham County,D,33,,Colin Van Ostern,56.27,1162
+nh,Grantham County,R,33,,Chris Sununu,41.4,855
+nh,Grantham County,Lib,33,,Max Abramson,2.32,48
+nh,Greenfield County,D,33,,Colin Van Ostern,49.17,447
+nh,Greenfield County,R,33,,Chris Sununu,43.89,399
+nh,Greenfield County,Lib,33,,Max Abramson,6.93,63
+nh,Greenland County,R,33,,Chris Sununu,49.38,1278
+nh,Greenland County,D,33,,Colin Van Ostern,47.06,1218
+nh,Greenland County,Lib,33,,Max Abramson,3.55,92
+nh,Greenville County,R,33,,Chris Sununu,47.41,450
+nh,Greenville County,D,33,,Colin Van Ostern,44.88,426
+nh,Greenville County,Lib,33,,Max Abramson,7.69,73
+nh,Groton County,R,33,,Chris Sununu,51.11,161
+nh,Groton County,D,33,,Colin Van Ostern,40.63,128
+nh,Groton County,Lib,33,,Max Abramson,8.25,26
+nh,Hampstead County,R,33,,Chris Sununu,60.94,3243
+nh,Hampstead County,D,33,,Colin Van Ostern,35.03,1864
+nh,Hampstead County,Lib,33,,Max Abramson,4.02,214
+nh,Hampton County,R,33,,Chris Sununu,52.1,5233
+nh,Hampton County,D,33,,Colin Van Ostern,44.84,4504
+nh,Hampton County,Lib,33,,Max Abramson,3.05,307
+nh,Hampton Falls County,R,33,,Chris Sununu,63.7,1004
+nh,Hampton Falls County,D,33,,Colin Van Ostern,33.37,526
+nh,Hampton Falls County,Lib,33,,Max Abramson,2.91,46
+nh,Hancock County,D,33,,Colin Van Ostern,57.51,689
+nh,Hancock County,R,33,,Chris Sununu,39.48,473
+nh,Hancock County,Lib,33,,Max Abramson,3,36
+nh,Hanover County,D,33,,Colin Van Ostern,76.73,5674
+nh,Hanover County,R,33,,Chris Sununu,20.59,1523
+nh,Hanover County,Lib,33,,Max Abramson,2.66,197
+nh,Harrisville County,D,33,,Colin Van Ostern,67.4,459
+nh,Harrisville County,R,33,,Chris Sununu,29.66,202
+nh,Harrisville County,Lib,33,,Max Abramson,2.93,20
+nh,Harts Location County,D,33,,Colin Van Ostern,53.84,21
+nh,Harts Location County,R,33,,Chris Sununu,38.46,15
+nh,Harts Location County,Lib,33,,Max Abramson,7.69,3
+nh,Haverhill County,R,33,,Chris Sununu,57.55,1204
+nh,Haverhill County,D,33,,Colin Van Ostern,36.28,759
+nh,Haverhill County,Lib,33,,Max Abramson,6.16,129
+nh,Hebron County,R,33,,Chris Sununu,62.64,270
+nh,Hebron County,D,33,,Colin Van Ostern,36.19,156
+nh,Hebron County,Lib,33,,Max Abramson,1.16,5
+nh,Henniker County,D,33,,Colin Van Ostern,52.62,1395
+nh,Henniker County,R,33,,Chris Sununu,42.54,1128
+nh,Henniker County,Lib,33,,Max Abramson,4.82,128
+nh,Hill County,R,33,,Chris Sununu,53.25,286
+nh,Hill County,D,33,,Colin Van Ostern,37.8,203
+nh,Hill County,Lib,33,,Max Abramson,8.93,48
+nh,Hillsborough County,R,33,33011,Chris Sununu,49.89,1464
+nh,Hillsborough County,D,33,33011,Colin Van Ostern,44.37,1302
+nh,Hillsborough County,Lib,33,33011,Max Abramson,5.72,168
+nh,Hinsdale County,D,33,,Colin Van Ostern,54.48,924
+nh,Hinsdale County,R,33,,Chris Sununu,41.39,702
+nh,Hinsdale County,Lib,33,,Max Abramson,4.12,70
+nh,Holderness County,D,33,,Colin Van Ostern,55.14,713
+nh,Holderness County,R,33,,Chris Sununu,42.15,545
+nh,Holderness County,Lib,33,,Max Abramson,2.7,35
+nh,Hollis County,R,33,,Chris Sununu,52.32,2671
+nh,Hollis County,D,33,,Colin Van Ostern,44.21,2257
+nh,Hollis County,Lib,33,,Max Abramson,3.46,177
+nh,Hooksett County,R,33,,Chris Sununu,54.49,4331
+nh,Hooksett County,D,33,,Colin Van Ostern,41.85,3327
+nh,Hooksett County,Lib,33,,Max Abramson,3.64,290
+nh,Hopkinton County,D,33,,Colin Van Ostern,57.49,2237
+nh,Hopkinton County,R,33,,Chris Sununu,40.01,1557
+nh,Hopkinton County,Lib,33,,Max Abramson,2.49,97
+nh,Hudson County,R,33,,Chris Sununu,55.74,7157
+nh,Hudson County,D,33,,Colin Van Ostern,39.72,5100
+nh,Hudson County,Lib,33,,Max Abramson,4.53,582
+nh,Jackson County,D,33,,Colin Van Ostern,59.35,406
+nh,Jackson County,R,33,,Chris Sununu,39.03,267
+nh,Jackson County,Lib,33,,Max Abramson,1.6,11
+nh,Jaffrey County,D,33,,Colin Van Ostern,47.2,1300
+nh,Jaffrey County,R,33,,Chris Sununu,47.2,1300
+nh,Jaffrey County,Lib,33,,Max Abramson,5.59,154
+nh,Jefferson County,R,33,,Chris Sununu,55.7,337
+nh,Jefferson County,D,33,,Colin Van Ostern,39,236
+nh,Jefferson County,Lib,33,,Max Abramson,5.28,32
+nh,Keene County,D,33,,Colin Van Ostern,62.18,7491
+nh,Keene County,R,33,,Chris Sununu,33.78,4070
+nh,Keene County,Lib,33,,Max Abramson,4.03,486
+nh,Kensington County,R,33,,Chris Sununu,51.41,710
+nh,Kensington County,D,33,,Colin Van Ostern,43.51,601
+nh,Kensington County,Lib,33,,Max Abramson,5.06,70
+nh,Kingston County,R,33,,Chris Sununu,56.92,2054
+nh,Kingston County,D,33,,Colin Van Ostern,36.8,1328
+nh,Kingston County,Lib,33,,Max Abramson,6.26,226
+nh,Laconia County,R,33,,Chris Sununu,53.06,4194
+nh,Laconia County,D,33,,Colin Van Ostern,43.08,3405
+nh,Laconia County,Lib,33,,Max Abramson,3.84,304
+nh,Lancaster County,R,33,,Chris Sununu,51.51,815
+nh,Lancaster County,D,33,,Colin Van Ostern,44.05,697
+nh,Lancaster County,Lib,33,,Max Abramson,4.42,70
+nh,Landaff County,R,33,,Chris Sununu,53.44,132
+nh,Landaff County,D,33,,Colin Van Ostern,43.31,107
+nh,Landaff County,Lib,33,,Max Abramson,3.23,8
+nh,Langdon County,R,33,,Chris Sununu,52.19,202
+nh,Langdon County,D,33,,Colin Van Ostern,46.25,179
+nh,Langdon County,Lib,33,,Max Abramson,1.55,6
+nh,Lebanon County,D,33,,Colin Van Ostern,65.15,4622
+nh,Lebanon County,R,33,,Chris Sununu,31.19,2213
+nh,Lebanon County,Lib,33,,Max Abramson,3.65,259
+nh,Lee County,D,33,,Colin Van Ostern,80.25,1532
+nh,Lee County,R,33,,Chris Sununu,13.88,265
+nh,Lee County,Lib,33,,Max Abramson,5.86,112
+nh,Lempster County,R,33,,Chris Sununu,60.71,388
+nh,Lempster County,D,33,,Colin Van Ostern,36.15,231
+nh,Lempster County,Lib,33,,Max Abramson,3.12,20
+nh,Lincoln County,D,33,,Colin Van Ostern,47.46,393
+nh,Lincoln County,R,33,,Chris Sununu,45.53,377
+nh,Lincoln County,Lib,33,,Max Abramson,7,58
+nh,Lisbon County,R,33,,Chris Sununu,52.63,370
+nh,Lisbon County,D,33,,Colin Van Ostern,40.82,287
+nh,Lisbon County,Lib,33,,Max Abramson,6.54,46
+nh,Litchfield County,R,33,,Chris Sununu,57.62,2772
+nh,Litchfield County,D,33,,Colin Van Ostern,38.48,1851
+nh,Litchfield County,Lib,33,,Max Abramson,3.88,187
+nh,Littleton County,R,33,,Chris Sununu,50.62,1465
+nh,Littleton County,D,33,,Colin Van Ostern,44.57,1290
+nh,Littleton County,Lib,33,,Max Abramson,4.8,139
+nh,Londonderry County,R,33,,Chris Sununu,55.58,7668
+nh,Londonderry County,D,33,,Colin Van Ostern,40.13,5536
+nh,Londonderry County,Lib,33,,Max Abramson,4.28,591
+nh,Loudon County,R,33,,Chris Sununu,55.24,1791
+nh,Loudon County,D,33,,Colin Van Ostern,41.08,1332
+nh,Loudon County,Lib,33,,Max Abramson,3.67,119
+nh,Lyman County,R,33,,Chris Sununu,52.88,165
+nh,Lyman County,D,33,,Colin Van Ostern,43.58,136
+nh,Lyman County,Lib,33,,Max Abramson,3.52,11
+nh,Lyme County,D,33,,Colin Van Ostern,72.4,824
+nh,Lyme County,R,33,,Chris Sununu,25.21,287
+nh,Lyme County,Lib,33,,Max Abramson,2.37,27
+nh,Lyndeborough County,R,33,,Chris Sununu,48.62,513
+nh,Lyndeborough County,D,33,,Colin Van Ostern,45.59,481
+nh,Lyndeborough County,Lib,33,,Max Abramson,5.78,61
+nh,Madbury County,D,33,,Colin Van Ostern,54.94,622
+nh,Madbury County,R,33,,Chris Sununu,41.87,474
+nh,Madbury County,Lib,33,,Max Abramson,3.18,36
+nh,Madison County,R,33,,Chris Sununu,48.94,718
+nh,Madison County,D,33,,Colin Van Ostern,47.51,697
+nh,Madison County,Lib,33,,Max Abramson,3.54,52
+nh,Manchester County,D,33,,Colin Van Ostern,49.95,23903
+nh,Manchester County,R,33,,Chris Sununu,45.45,21749
+nh,Manchester County,Lib,33,,Max Abramson,4.58,2194
+nh,Marlborough County,D,33,,Colin Van Ostern,61.57,705
+nh,Marlborough County,R,33,,Chris Sununu,34.75,398
+nh,Marlborough County,Lib,33,,Max Abramson,3.66,42
+nh,Marlow County,D,33,,Colin Van Ostern,52.52,229
+nh,Marlow County,R,33,,Chris Sununu,44.72,195
+nh,Marlow County,Lib,33,,Max Abramson,2.75,12
+nh,Mason County,R,33,,Chris Sununu,54.99,457
+nh,Mason County,D,33,,Colin Van Ostern,38.14,317
+nh,Mason County,Lib,33,,Max Abramson,6.85,57
+nh,Meredith County,R,33,,Chris Sununu,54.7,2208
+nh,Meredith County,D,33,,Colin Van Ostern,42.26,1706
+nh,Meredith County,Lib,33,,Max Abramson,3.02,122
+nh,Merrimack County,R,33,33013,Chris Sununu,53.28,7876
+nh,Merrimack County,D,33,33013,Colin Van Ostern,42.81,6329
+nh,Merrimack County,Lib,33,33013,Max Abramson,3.9,577
+nh,Middleton County,R,33,,Chris Sununu,56.52,507
+nh,Middleton County,D,33,,Colin Van Ostern,36.23,325
+nh,Middleton County,Lib,33,,Max Abramson,7.24,65
+nh,Milan County,R,33,,Chris Sununu,52.16,385
+nh,Milan County,D,33,,Colin Van Ostern,44.44,328
+nh,Milan County,Lib,33,,Max Abramson,3.38,25
+nh,Milford County,R,33,,Chris Sununu,48.75,3920
+nh,Milford County,D,33,,Colin Van Ostern,45.49,3658
+nh,Milford County,Lib,33,,Max Abramson,5.75,463
+nh,Millsfield County,R,33,,Chris Sununu,85.71,18
+nh,Millsfield County,D,33,,Colin Van Ostern,14.28,3
+nh,Millsfield County,Lib,33,,Max Abramson,0,0
+nh,Milton County,R,33,,Chris Sununu,56.09,1274
+nh,Milton County,D,33,,Colin Van Ostern,38.88,883
+nh,Milton County,Lib,33,,Max Abramson,5.01,114
+nh,Monroe County,R,33,,Chris Sununu,62.57,301
+nh,Monroe County,D,33,,Colin Van Ostern,34.09,164
+nh,Monroe County,Lib,33,,Max Abramson,3.32,16
+nh,Mont Vernon County,R,33,,Chris Sununu,49.83,759
+nh,Mont Vernon County,D,33,,Colin Van Ostern,46.42,707
+nh,Mont Vernon County,Lib,33,,Max Abramson,3.74,57
+nh,Moultonborough County,R,33,,Chris Sununu,61.53,1950
+nh,Moultonborough County,D,33,,Colin Van Ostern,35.65,1130
+nh,Moultonborough County,Lib,33,,Max Abramson,2.8,89
+nh,Nashua County,D,33,,Colin Van Ostern,51.35,21328
+nh,Nashua County,R,33,,Chris Sununu,44.09,18316
+nh,Nashua County,Lib,33,,Max Abramson,4.55,1890
+nh,Nelson County,D,33,,Colin Van Ostern,58.33,245
+nh,Nelson County,R,33,,Chris Sununu,37.14,156
+nh,Nelson County,Lib,33,,Max Abramson,4.52,19
+nh,New Boston County,R,33,,Chris Sununu,54.78,1826
+nh,New Boston County,D,33,,Colin Van Ostern,40.5,1350
+nh,New Boston County,Lib,33,,Max Abramson,4.71,157
+nh,New Castle County,R,33,,Chris Sununu,49.8,388
+nh,New Castle County,D,33,,Colin Van Ostern,48.01,374
+nh,New Castle County,Lib,33,,Max Abramson,2.18,17
+nh,New Durham County,R,33,,Chris Sununu,57.01,939
+nh,New Durham County,D,33,,Colin Van Ostern,37.21,613
+nh,New Durham County,Lib,33,,Max Abramson,5.76,95
+nh,New Hampton County,R,33,,Chris Sununu,52.18,704
+nh,New Hampton County,D,33,,Colin Van Ostern,43.66,589
+nh,New Hampton County,Lib,33,,Max Abramson,4.15,56
+nh,New Ipswich County,R,33,,Chris Sununu,67.02,1846
+nh,New Ipswich County,D,33,,Colin Van Ostern,27.34,753
+nh,New Ipswich County,Lib,33,,Max Abramson,5.62,155
+nh,New London County,D,33,,Colin Van Ostern,53.68,1537
+nh,New London County,R,33,,Chris Sununu,46.31,1326
+nh,New London County,Lib,33,,Max Abramson,0,0
+nh,Newbury County,R,33,,Chris Sununu,53.21,712
+nh,Newbury County,D,33,,Colin Van Ostern,43.87,587
+nh,Newbury County,Lib,33,,Max Abramson,2.91,39
+nh,Newfields County,R,33,,Chris Sununu,57.37,657
+nh,Newfields County,D,33,,Colin Van Ostern,40.96,469
+nh,Newfields County,Lib,33,,Max Abramson,1.65,19
+nh,Newington County,R,33,,Chris Sununu,53.83,323
+nh,Newington County,D,33,,Colin Van Ostern,42.83,257
+nh,Newington County,Lib,33,,Max Abramson,3.33,20
+nh,Newmarket County,D,33,,Colin Van Ostern,55.75,2968
+nh,Newmarket County,R,33,,Chris Sununu,39.07,2080
+nh,Newmarket County,Lib,33,,Max Abramson,5.16,275
+nh,Newport County,R,33,,Chris Sununu,55.34,1600
+nh,Newport County,D,33,,Colin Van Ostern,38.81,1122
+nh,Newport County,Lib,33,,Max Abramson,5.84,169
+nh,Newton County,R,33,,Chris Sununu,57.28,1514
+nh,Newton County,D,33,,Colin Van Ostern,36.81,973
+nh,Newton County,Lib,33,,Max Abramson,5.9,156
+nh,North Hampton County,R,33,,Chris Sununu,52.43,1639
+nh,North Hampton County,D,33,,Colin Van Ostern,44.59,1394
+nh,North Hampton County,Lib,33,,Max Abramson,2.97,93
+nh,Northfield County,R,33,,Chris Sununu,50.04,1147
+nh,Northfield County,D,33,,Colin Van Ostern,44.15,1012
+nh,Northfield County,Lib,33,,Max Abramson,5.8,133
+nh,Northumberland County,R,33,,Chris Sununu,50.36,485
+nh,Northumberland County,D,33,,Colin Van Ostern,43.19,416
+nh,Northumberland County,Lib,33,,Max Abramson,6.43,62
+nh,Northwood County,R,33,,Chris Sununu,52.68,1355
+nh,Northwood County,D,33,,Colin Van Ostern,43,1106
+nh,Northwood County,Lib,33,,Max Abramson,4.31,111
+nh,Nottingham County,R,33,,Chris Sununu,50.21,1537
+nh,Nottingham County,D,33,,Colin Van Ostern,44.33,1357
+nh,Nottingham County,Lib,33,,Max Abramson,5.45,167
+nh,Orange County,R,33,,Chris Sununu,47.95,82
+nh,Orange County,D,33,,Colin Van Ostern,46.78,80
+nh,Orange County,Lib,33,,Max Abramson,5.26,9
+nh,Orford County,D,33,,Colin Van Ostern,56.16,410
+nh,Orford County,R,33,,Chris Sununu,40.41,295
+nh,Orford County,Lib,33,,Max Abramson,3.42,25
+nh,Ossipee County,R,33,,Chris Sununu,57.44,1235
+nh,Ossipee County,D,33,,Colin Van Ostern,38.09,819
+nh,Ossipee County,Lib,33,,Max Abramson,4.46,96
+nh,Pelham County,R,33,,Chris Sununu,62.67,4668
+nh,Pelham County,D,33,,Colin Van Ostern,33.99,2532
+nh,Pelham County,Lib,33,,Max Abramson,3.32,248
+nh,Pembroke County,D,33,,Colin Van Ostern,47.77,1883
+nh,Pembroke County,R,33,,Chris Sununu,47.24,1862
+nh,Pembroke County,Lib,33,,Max Abramson,4.97,196
+nh,Peterborough County,D,33,,Colin Van Ostern,62.23,2399
+nh,Peterborough County,R,33,,Chris Sununu,34.21,1319
+nh,Peterborough County,Lib,33,,Max Abramson,3.55,137
+nh,Piermont County,D,33,,Colin Van Ostern,48.84,191
+nh,Piermont County,R,33,,Chris Sununu,46.54,182
+nh,Piermont County,Lib,33,,Max Abramson,4.6,18
+nh,Pittsburg County,R,33,,Chris Sununu,68.96,320
+nh,Pittsburg County,D,33,,Colin Van Ostern,28.66,133
+nh,Pittsburg County,Lib,33,,Max Abramson,2.37,11
+nh,Pittsfield County,R,33,,Chris Sununu,53.3,1008
+nh,Pittsfield County,D,33,,Colin Van Ostern,39.6,749
+nh,Pittsfield County,Lib,33,,Max Abramson,7.08,134
+nh,Plainfield County,D,33,,Colin Van Ostern,60.61,888
+nh,Plainfield County,R,33,,Chris Sununu,36.04,528
+nh,Plainfield County,Lib,33,,Max Abramson,3.34,49
+nh,Plaistow County,R,33,,Chris Sununu,59.37,2530
+nh,Plaistow County,D,33,,Colin Van Ostern,36.09,1538
+nh,Plaistow County,Lib,33,,Max Abramson,4.52,193
+nh,Plymouth County,D,33,,Colin Van Ostern,55.88,2069
+nh,Plymouth County,R,33,,Chris Sununu,38.7,1433
+nh,Plymouth County,Lib,33,,Max Abramson,5.4,200
+nh,Portsmouth County,D,33,,Colin Van Ostern,62.52,8107
+nh,Portsmouth County,R,33,,Chris Sununu,34.1,4422
+nh,Portsmouth County,Lib,33,,Max Abramson,3.37,437
+nh,Randolph County,D,33,,Colin Van Ostern,61.2,153
+nh,Randolph County,R,33,,Chris Sununu,37.2,93
+nh,Randolph County,Lib,33,,Max Abramson,1.6,4
+nh,Raymond County,R,33,,Chris Sununu,56.38,2950
+nh,Raymond County,D,33,,Colin Van Ostern,38.34,2006
+nh,Raymond County,Lib,33,,Max Abramson,5.27,276
+nh,Richmond County,R,33,,Chris Sununu,50.31,324
+nh,Richmond County,D,33,,Colin Van Ostern,41.61,268
+nh,Richmond County,Lib,33,,Max Abramson,8.07,52
+nh,Rindge County,R,33,,Chris Sununu,58.81,1989
+nh,Rindge County,D,33,,Colin Van Ostern,35.65,1206
+nh,Rindge County,Lib,33,,Max Abramson,5.52,187
+nh,Rochester County,R,33,,Chris Sununu,50.31,7401
+nh,Rochester County,D,33,,Colin Van Ostern,43.91,6460
+nh,Rochester County,Lib,33,,Max Abramson,5.76,848
+nh,Rollinsford County,D,33,,Colin Van Ostern,48.38,764
+nh,Rollinsford County,R,33,,Chris Sununu,47.68,753
+nh,Rollinsford County,Lib,33,,Max Abramson,3.92,62
+nh,Roxbury County,D,33,,Colin Van Ostern,54.47,67
+nh,Roxbury County,R,33,,Chris Sununu,39.83,49
+nh,Roxbury County,Lib,33,,Max Abramson,5.69,7
+nh,Rumney County,R,33,,Chris Sununu,50.23,433
+nh,Rumney County,D,33,,Colin Van Ostern,44.31,382
+nh,Rumney County,Lib,33,,Max Abramson,5.45,47
+nh,Rye County,R,33,,Chris Sununu,49.45,1982
+nh,Rye County,D,33,,Colin Van Ostern,47.97,1923
+nh,Rye County,Lib,33,,Max Abramson,2.56,103
+nh,Salem County,R,33,,Chris Sununu,60.13,9343
+nh,Salem County,D,33,,Colin Van Ostern,35.5,5516
+nh,Salem County,Lib,33,,Max Abramson,4.35,677
+nh,Salisbury County,R,33,,Chris Sununu,56.79,443
+nh,Salisbury County,D,33,,Colin Van Ostern,43.2,337
+nh,Salisbury County,Lib,33,,Max Abramson,0,0
+nh,Sanbornton County,R,33,,Chris Sununu,51.94,977
+nh,Sanbornton County,D,33,,Colin Van Ostern,44.01,828
+nh,Sanbornton County,Lib,33,,Max Abramson,4.04,76
+nh,Sandown County,R,33,,Chris Sununu,60.74,2100
+nh,Sandown County,D,33,,Colin Van Ostern,33.75,1167
+nh,Sandown County,Lib,33,,Max Abramson,5.49,190
+nh,Sandwich County,D,33,,Colin Van Ostern,57.84,575
+nh,Sandwich County,R,33,,Chris Sununu,40.54,403
+nh,Sandwich County,Lib,33,,Max Abramson,1.6,16
+nh,Seabrook County,R,33,,Chris Sununu,58.3,2520
+nh,Seabrook County,D,33,,Colin Van Ostern,36.71,1587
+nh,Seabrook County,Lib,33,,Max Abramson,4.97,215
+nh,Sharon County,D,33,,Colin Van Ostern,53.3,129
+nh,Sharon County,R,33,,Chris Sununu,42.14,102
+nh,Sharon County,Lib,33,,Max Abramson,4.54,11
+nh,Shelburne County,R,33,,Chris Sununu,47.82,121
+nh,Shelburne County,D,33,,Colin Van Ostern,47.03,119
+nh,Shelburne County,Lib,33,,Max Abramson,5.13,13
+nh,Somersworth County,D,33,,Colin Van Ostern,50.85,2665
+nh,Somersworth County,R,33,,Chris Sununu,44.04,2308
+nh,Somersworth County,Lib,33,,Max Abramson,5.09,267
+nh,South Hampton County,R,33,,Chris Sununu,56.04,315
+nh,South Hampton County,D,33,,Colin Van Ostern,42.17,237
+nh,South Hampton County,Lib,33,,Max Abramson,1.77,10
+nh,Springfield County,R,33,,Chris Sununu,52.17,419
+nh,Springfield County,D,33,,Colin Van Ostern,42.34,340
+nh,Springfield County,Lib,33,,Max Abramson,5.47,44
+nh,Stark County,R,33,,Chris Sununu,51.73,149
+nh,Stark County,D,33,,Colin Van Ostern,41.31,119
+nh,Stark County,Lib,33,,Max Abramson,6.94,20
+nh,Stewartstown County,R,33,,Chris Sununu,57.87,191
+nh,Stewartstown County,D,33,,Colin Van Ostern,39.09,129
+nh,Stewartstown County,Lib,33,,Max Abramson,3.03,10
+nh,Stoddard County,D,33,,Colin Van Ostern,49.01,372
+nh,Stoddard County,R,33,,Chris Sununu,47.82,363
+nh,Stoddard County,Lib,33,,Max Abramson,3.16,24
+nh,Strafford County,R,33,33017,Chris Sununu,51.8,1303
+nh,Strafford County,D,33,33017,Colin Van Ostern,44.57,1121
+nh,Strafford County,Lib,33,33017,Max Abramson,3.61,91
+nh,Stratford County,D,33,,Colin Van Ostern,53.93,144
+nh,Stratford County,R,33,,Chris Sununu,39.7,106
+nh,Stratford County,Lib,33,,Max Abramson,6.36,17
+nh,Stratham County,R,33,,Chris Sununu,51.38,2497
+nh,Stratham County,D,33,,Colin Van Ostern,45.68,2220
+nh,Stratham County,Lib,33,,Max Abramson,2.92,142
+nh,Sugar Hill County,D,33,,Colin Van Ostern,57.48,242
+nh,Sugar Hill County,R,33,,Chris Sununu,39.42,166
+nh,Sugar Hill County,Lib,33,,Max Abramson,3.08,13
+nh,Sullivan County,D,33,33019,Colin Van Ostern,51.52,203
+nh,Sullivan County,R,33,33019,Chris Sununu,44.41,175
+nh,Sullivan County,Lib,33,33019,Max Abramson,4.06,16
+nh,Sunapee County,R,33,,Chris Sununu,53.35,1122
+nh,Sunapee County,D,33,,Colin Van Ostern,42.41,892
+nh,Sunapee County,Lib,33,,Max Abramson,4.23,89
+nh,Surry County,D,33,,Colin Van Ostern,50.09,252
+nh,Surry County,R,33,,Chris Sununu,47.51,239
+nh,Surry County,Lib,33,,Max Abramson,2.38,12
+nh,Sutton County,D,33,,Colin Van Ostern,49.47,611
+nh,Sutton County,R,33,,Chris Sununu,46.63,576
+nh,Sutton County,Lib,33,,Max Abramson,3.88,48
+nh,Swanzey County,R,33,,Chris Sununu,48,1802
+nh,Swanzey County,D,33,,Colin Van Ostern,46.96,1763
+nh,Swanzey County,Lib,33,,Max Abramson,5.03,189
+nh,Tamworth County,R,33,,Chris Sununu,48.27,757
+nh,Tamworth County,D,33,,Colin Van Ostern,46.1,723
+nh,Tamworth County,Lib,33,,Max Abramson,5.61,88
+nh,Temple County,D,33,,Colin Van Ostern,47.36,395
+nh,Temple County,R,33,,Chris Sununu,47.24,394
+nh,Temple County,Lib,33,,Max Abramson,5.39,45
+nh,Thornton County,D,33,,Colin Van Ostern,53.56,789
+nh,Thornton County,R,33,,Chris Sununu,39.03,575
+nh,Thornton County,Lib,33,,Max Abramson,7.39,109
+nh,Tilton County,R,33,,Chris Sununu,47.65,874
+nh,Tilton County,D,33,,Colin Van Ostern,47.32,868
+nh,Tilton County,Lib,33,,Max Abramson,5.01,92
+nh,Troy County,R,33,,Chris Sununu,47.45,466
+nh,Troy County,D,33,,Colin Van Ostern,45.41,446
+nh,Troy County,Lib,33,,Max Abramson,7.12,70
+nh,Tuftonboro County,R,33,,Chris Sununu,59.08,969
+nh,Tuftonboro County,D,33,,Colin Van Ostern,38.04,624
+nh,Tuftonboro County,Lib,33,,Max Abramson,2.86,47
+nh,Unity County,R,33,,Chris Sununu,52.21,401
+nh,Unity County,D,33,,Colin Van Ostern,43.48,334
+nh,Unity County,Lib,33,,Max Abramson,4.29,33
+nh,Wakefield County,R,33,,Chris Sununu,61.32,1657
+nh,Wakefield County,D,33,,Colin Van Ostern,32.9,889
+nh,Wakefield County,Lib,33,,Max Abramson,5.77,156
+nh,Walpole County,D,33,,Colin Van Ostern,55.12,1145
+nh,Walpole County,R,33,,Chris Sununu,41.06,853
+nh,Walpole County,Lib,33,,Max Abramson,3.8,79
+nh,Warner County,D,33,,Colin Van Ostern,51.99,913
+nh,Warner County,R,33,,Chris Sununu,44.47,781
+nh,Warner County,Lib,33,,Max Abramson,3.53,62
+nh,Warren County,R,33,,Chris Sununu,52.53,238
+nh,Warren County,D,33,,Colin Van Ostern,43.04,195
+nh,Warren County,Lib,33,,Max Abramson,4.41,20
+nh,Washington County,R,33,,Chris Sununu,58.64,397
+nh,Washington County,D,33,,Colin Van Ostern,38.1,258
+nh,Washington County,Lib,33,,Max Abramson,3.24,22
+nh,Waterville County,D,33,,Colin Van Ostern,52.29,137
+nh,Waterville County,R,33,,Chris Sununu,44.65,117
+nh,Waterville County,Lib,33,,Max Abramson,3.05,8
+nh,Weare County,R,33,,Chris Sununu,57.02,2849
+nh,Weare County,D,33,,Colin Van Ostern,37.73,1885
+nh,Weare County,Lib,33,,Max Abramson,5.24,262
+nh,Webster County,D,33,,Colin Van Ostern,48.16,552
+nh,Webster County,R,33,,Chris Sununu,47.12,540
+nh,Webster County,Lib,33,,Max Abramson,4.71,54
+nh,Wentworth County,R,33,,Chris Sununu,59.15,307
+nh,Wentworth County,D,33,,Colin Van Ostern,37.76,196
+nh,Wentworth County,Lib,33,,Max Abramson,3.08,16
+nh,Wentworth's Location County,R,33,,Chris Sununu,66.66,12
+nh,Wentworth's Location County,D,33,,Colin Van Ostern,27.77,5
+nh,Wentworth's Location County,Lib,33,,Max Abramson,5.55,1
+nh,Westmoreland County,D,33,,Colin Van Ostern,52.95,528
+nh,Westmoreland County,R,33,,Chris Sununu,43.53,434
+nh,Westmoreland County,Lib,33,,Max Abramson,3.51,35
+nh,Whitefield County,D,33,,Colin Van Ostern,48.64,540
+nh,Whitefield County,R,33,,Chris Sununu,45.49,505
+nh,Whitefield County,Lib,33,,Max Abramson,5.85,65
+nh,Wilmot County,D,33,,Colin Van Ostern,54.87,484
+nh,Wilmot County,R,33,,Chris Sununu,42.97,379
+nh,Wilmot County,Lib,33,,Max Abramson,2.15,19
+nh,Wilton County,D,33,,Colin Van Ostern,48.38,1064
+nh,Wilton County,R,33,,Chris Sununu,47.38,1042
+nh,Wilton County,Lib,33,,Max Abramson,4.22,93
+nh,Winchester County,D,33,,Colin Van Ostern,49.67,853
+nh,Winchester County,R,33,,Chris Sununu,42.92,737
+nh,Winchester County,Lib,33,,Max Abramson,7.39,127
+nh,Windham County,R,33,,Chris Sununu,62.56,5447
+nh,Windham County,D,33,,Colin Van Ostern,34.43,2998
+nh,Windham County,Lib,33,,Max Abramson,2.99,261
+nh,Windsor County,R,33,,Chris Sununu,61.94,70
+nh,Windsor County,D,33,,Colin Van Ostern,30.97,35
+nh,Windsor County,Lib,33,,Max Abramson,7.07,8
+nh,Wolfeboro County,R,33,,Chris Sununu,55.79,2369
+nh,Wolfeboro County,D,33,,Colin Van Ostern,41.07,1744
+nh,Wolfeboro County,Lib,33,,Max Abramson,3.13,133
+nh,Woodstock County,D,33,,Colin Van Ostern,53.67,409
+nh,Woodstock County,R,33,,Chris Sununu,40.15,306
+nh,Woodstock County,Lib,33,,Max Abramson,6.16,47
+or,Baker County,R,41,41001,Bud Pierce,69.9,6012
+or,Baker County,D,41,41001,Kate Brown,23.6,2030
+or,Baker County,IP,41,41001,Cliff Thomason,2.73,235
+or,Baker County,Lib,41,41001,James Foster,2.09,180
+or,Baker County,CST,41,41001,Aaron Auer,1.66,143
+or,Benton County,D,41,41003,Kate Brown,59.46,27319
+or,Benton County,R,41,41003,Bud Pierce,35,16084
+or,Benton County,Lib,41,41003,James Foster,2.5,1149
+or,Benton County,IP,41,41003,Cliff Thomason,2.32,1070
+or,Benton County,CST,41,41003,Aaron Auer,0.69,321
+or,Clackamas County,R,41,41005,Bud Pierce,48.83,90515
+or,Clackamas County,D,41,41005,Kate Brown,46.33,85882
+or,Clackamas County,IP,41,41005,Cliff Thomason,2.11,3918
+or,Clackamas County,Lib,41,41005,James Foster,1.9,3531
+or,Clackamas County,CST,41,41005,Aaron Auer,0.81,1512
+or,Clatsop County,D,41,41007,Kate Brown,50.56,9308
+or,Clatsop County,R,41,41007,Bud Pierce,44.04,8107
+or,Clatsop County,IP,41,41007,Cliff Thomason,2.42,446
+or,Clatsop County,Lib,41,41007,James Foster,2.04,377
+or,Clatsop County,CST,41,41007,Aaron Auer,0.92,170
+or,Columbia County,R,41,41009,Bud Pierce,49.95,12696
+or,Columbia County,D,41,41009,Kate Brown,42.43,10786
+or,Columbia County,Lib,41,41009,James Foster,2.98,758
+or,Columbia County,IP,41,41009,Cliff Thomason,2.97,755
+or,Columbia County,CST,41,41009,Aaron Auer,1.66,422
+or,Coos County,R,41,41011,Bud Pierce,55.09,16747
+or,Coos County,D,41,41011,Kate Brown,37.47,11391
+or,Coos County,IP,41,41011,Cliff Thomason,3.19,970
+or,Coos County,Lib,41,41011,James Foster,2.49,758
+or,Coos County,CST,41,41011,Aaron Auer,1.75,532
+or,Crook County,R,41,41013,Bud Pierce,68.61,8129
+or,Crook County,D,41,41013,Kate Brown,24.81,2940
+or,Crook County,IP,41,41013,Cliff Thomason,2.85,338
+or,Crook County,Lib,41,41013,James Foster,1.88,223
+or,Crook County,CST,41,41013,Aaron Auer,1.83,217
+or,Curry County,R,41,41015,Bud Pierce,52.42,6358
+or,Curry County,D,41,41015,Kate Brown,40.34,4893
+or,Curry County,IP,41,41015,Cliff Thomason,2.83,344
+or,Curry County,Lib,41,41015,James Foster,2.68,326
+or,Curry County,CST,41,41015,Aaron Auer,1.7,207
+or,Deschutes County,R,41,41017,Bud Pierce,50.17,45855
+or,Deschutes County,D,41,41017,Kate Brown,44,40216
+or,Deschutes County,IP,41,41017,Cliff Thomason,2.5,2291
+or,Deschutes County,Lib,41,41017,James Foster,2.35,2153
+or,Deschutes County,CST,41,41017,Aaron Auer,0.95,872
+or,Douglas County,R,41,41019,Bud Pierce,62.19,32233
+or,Douglas County,D,41,41019,Kate Brown,30.15,15628
+or,Douglas County,IP,41,41019,Cliff Thomason,2.87,1491
+or,Douglas County,CST,41,41019,Aaron Auer,2.46,1280
+or,Douglas County,Lib,41,41019,James Foster,2.29,1191
+or,Gilliam County,R,41,41021,Bud Pierce,68.29,659
+or,Gilliam County,D,41,41021,Kate Brown,26.73,258
+or,Gilliam County,Lib,41,41021,James Foster,2.07,20
+or,Gilliam County,IP,41,41021,Cliff Thomason,1.76,17
+or,Gilliam County,CST,41,41021,Aaron Auer,1.13,11
+or,Grant County,R,41,41023,Bud Pierce,72.5,3070
+or,Grant County,D,41,41023,Kate Brown,21.2,898
+or,Grant County,IP,41,41023,Cliff Thomason,2.52,107
+or,Grant County,CST,41,41023,Aaron Auer,2.05,87
+or,Grant County,Lib,41,41023,James Foster,1.7,72
+or,Harney County,R,41,41025,Bud Pierce,70.37,2763
+or,Harney County,D,41,41025,Kate Brown,22.54,885
+or,Harney County,IP,41,41025,Cliff Thomason,3.41,134
+or,Harney County,Lib,41,41025,James Foster,1.98,78
+or,Harney County,CST,41,41025,Aaron Auer,1.68,66
+or,Hood River County,D,41,41027,Kate Brown,60.19,6300
+or,Hood River County,R,41,41027,Bud Pierce,34.6,3622
+or,Hood River County,IP,41,41027,Cliff Thomason,2.57,269
+or,Hood River County,Lib,41,41027,James Foster,2.01,211
+or,Hood River County,CST,41,41027,Aaron Auer,0.61,64
+or,Jackson County,R,41,41029,Bud Pierce,49.5,51536
+or,Jackson County,D,41,41029,Kate Brown,44.17,45980
+or,Jackson County,IP,41,41029,Cliff Thomason,2.66,2778
+or,Jackson County,Lib,41,41029,James Foster,2.4,2506
+or,Jackson County,CST,41,41029,Aaron Auer,1.24,1296
+or,Jefferson County,R,41,41031,Bud Pierce,59.18,5339
+or,Jefferson County,D,41,41031,Kate Brown,34.19,3085
+or,Jefferson County,IP,41,41031,Cliff Thomason,3,271
+or,Jefferson County,Lib,41,41031,James Foster,2.29,207
+or,Jefferson County,CST,41,41031,Aaron Auer,1.31,119
+or,Josephine County,R,41,41033,Bud Pierce,55.71,23796
+or,Josephine County,D,41,41033,Kate Brown,34.85,14885
+or,Josephine County,IP,41,41033,Cliff Thomason,4.61,1970
+or,Josephine County,Lib,41,41033,James Foster,2.57,1099
+or,Josephine County,CST,41,41033,Aaron Auer,2.24,960
+or,Klamath County,R,41,41035,Bud Pierce,64.31,18980
+or,Klamath County,D,41,41035,Kate Brown,28.09,8291
+or,Klamath County,IP,41,41035,Cliff Thomason,3.11,919
+or,Klamath County,Lib,41,41035,James Foster,2.65,785
+or,Klamath County,CST,41,41035,Aaron Auer,1.82,538
+or,Lake County,R,41,41037,Bud Pierce,72.77,2777
+or,Lake County,D,41,41037,Kate Brown,19.81,756
+or,Lake County,IP,41,41037,Cliff Thomason,2.62,100
+or,Lake County,Lib,41,41037,James Foster,2.56,98
+or,Lake County,CST,41,41037,Aaron Auer,2.22,85
+or,Lane County,D,41,41039,Kate Brown,55.34,101523
+or,Lane County,R,41,41039,Bud Pierce,38.87,71319
+or,Lane County,Lib,41,41039,James Foster,2.47,4538
+or,Lane County,IP,41,41039,Cliff Thomason,2.4,4412
+or,Lane County,CST,41,41039,Aaron Auer,0.9,1651
+or,Lincoln County,D,41,41041,Kate Brown,53.13,13000
+or,Lincoln County,R,41,41041,Bud Pierce,40.71,9962
+or,Lincoln County,IP,41,41041,Cliff Thomason,2.72,666
+or,Lincoln County,Lib,41,41041,James Foster,2.23,547
+or,Lincoln County,CST,41,41041,Aaron Auer,1.18,290
+or,Linn County,R,41,41043,Bud Pierce,60.27,33740
+or,Linn County,D,41,41043,Kate Brown,33.23,18603
+or,Linn County,IP,41,41043,Cliff Thomason,2.63,1475
+or,Linn County,Lib,41,41043,James Foster,2.37,1332
+or,Linn County,CST,41,41043,Aaron Auer,1.47,824
+or,Malheur County,R,41,41045,Bud Pierce,68.41,6920
+or,Malheur County,D,41,41045,Kate Brown,23.75,2403
+or,Malheur County,IP,41,41045,Cliff Thomason,3.38,342
+or,Malheur County,CST,41,41045,Aaron Auer,2.27,230
+or,Malheur County,Lib,41,41045,James Foster,2.17,220
+or,Marion County,R,41,41047,Bud Pierce,54.62,62438
+or,Marion County,D,41,41047,Kate Brown,41.25,47160
+or,Marion County,IP,41,41047,Cliff Thomason,1.89,2165
+or,Marion County,Lib,41,41047,James Foster,1.48,1702
+or,Marion County,CST,41,41047,Aaron Auer,0.73,835
+or,Morrow County,R,41,41049,Bud Pierce,65.13,2660
+or,Morrow County,D,41,41049,Kate Brown,27.91,1140
+or,Morrow County,CST,41,41049,Aaron Auer,2.57,105
+or,Morrow County,IP,41,41049,Cliff Thomason,2.32,95
+or,Morrow County,Lib,41,41049,James Foster,2.05,84
+or,Multnomah County,D,41,41051,Kate Brown,73.26,260000
+or,Multnomah County,R,41,41051,Bud Pierce,22.05,78290
+or,Multnomah County,IP,41,41051,Cliff Thomason,2.09,7437
+or,Multnomah County,Lib,41,41051,James Foster,2.07,7371
+or,Multnomah County,CST,41,41051,Aaron Auer,0.5,1799
+or,Polk County,R,41,41053,Bud Pierce,55.27,21119
+or,Polk County,D,41,41053,Kate Brown,40.03,15298
+or,Polk County,IP,41,41053,Cliff Thomason,2.15,822
+or,Polk County,Lib,41,41053,James Foster,1.7,651
+or,Polk County,CST,41,41053,Aaron Auer,0.83,320
+or,Sherman County,R,41,41055,Bud Pierce,72.48,714
+or,Sherman County,D,41,41055,Kate Brown,23.75,234
+or,Sherman County,IP,41,41055,Cliff Thomason,1.42,14
+or,Sherman County,Lib,41,41055,James Foster,1.31,13
+or,Sherman County,CST,41,41055,Aaron Auer,1.01,10
+or,Tillamook County,R,41,41057,Bud Pierce,48.93,6552
+or,Tillamook County,D,41,41057,Kate Brown,45.47,6088
+or,Tillamook County,IP,41,41057,Cliff Thomason,2.36,317
+or,Tillamook County,Lib,41,41057,James Foster,2.18,292
+or,Tillamook County,CST,41,41057,Aaron Auer,1.04,140
+or,Umatilla County,R,41,41059,Bud Pierce,60.95,16002
+or,Umatilla County,D,41,41059,Kate Brown,31.64,8309
+or,Umatilla County,IP,41,41059,Cliff Thomason,3.15,828
+or,Umatilla County,Lib,41,41059,James Foster,2.55,671
+or,Umatilla County,CST,41,41059,Aaron Auer,1.69,444
+or,Union County,R,41,41061,Bud Pierce,67.25,8508
+or,Union County,D,41,41061,Kate Brown,26.75,3385
+or,Union County,IP,41,41061,Cliff Thomason,2.36,299
+or,Union County,Lib,41,41061,James Foster,2.23,283
+or,Union County,CST,41,41061,Aaron Auer,1.38,175
+or,Wallowa County,R,41,41063,Bud Pierce,66.04,2814
+or,Wallowa County,D,41,41063,Kate Brown,28.98,1235
+or,Wallowa County,IP,41,41063,Cliff Thomason,2.27,97
+or,Wallowa County,Lib,41,41063,James Foster,1.83,78
+or,Wallowa County,CST,41,41063,Aaron Auer,0.86,37
+or,Wasco County,R,41,41065,Bud Pierce,50.56,5761
+or,Wasco County,D,41,41065,Kate Brown,43.18,4920
+or,Wasco County,Lib,41,41065,James Foster,2.59,296
+or,Wasco County,IP,41,41065,Cliff Thomason,2.37,271
+or,Wasco County,CST,41,41065,Aaron Auer,1.28,146
+or,Washington County,D,41,41067,Kate Brown,55.01,129386
+or,Washington County,R,41,41067,Bud Pierce,39.64,93228
+or,Washington County,Lib,41,41067,James Foster,2.54,5980
+or,Washington County,IP,41,41067,Cliff Thomason,2.13,5024
+or,Washington County,CST,41,41067,Aaron Auer,0.66,1557
+or,Wheeler County,R,41,41069,Bud Pierce,70.49,571
+or,Wheeler County,D,41,41069,Kate Brown,23.45,190
+or,Wheeler County,IP,41,41069,Cliff Thomason,2.46,20
+or,Wheeler County,Lib,41,41069,James Foster,2.09,17
+or,Wheeler County,CST,41,41069,Aaron Auer,1.48,12
+or,Yamhill County,R,41,41071,Bud Pierce,54.39,25022
+or,Yamhill County,D,41,41071,Kate Brown,39.65,18242
+or,Yamhill County,Lib,41,41071,James Foster,2.52,1160
+or,Yamhill County,IP,41,41071,Cliff Thomason,2.28,1049
+or,Yamhill County,CST,41,41071,Aaron Auer,1.13,524
+ut,Beaver County,R,49,49001,Gary Herbert,82.43,2032
+ut,Beaver County,D,49,49001,Mike Weinholtz,13.14,324
+ut,Beaver County,Lib,49,49001,Brian Kamerath,2.55,63
+ut,Beaver County,IAP,49,49001,Dell Schanze,1.86,46
+ut,Box Elder County,R,49,49003,Gary Herbert,82.53,13597
+ut,Box Elder County,D,49,49003,Mike Weinholtz,12.25,2019
+ut,Box Elder County,Lib,49,49003,Brian Kamerath,3.33,549
+ut,Box Elder County,IAP,49,49003,Dell Schanze,1.87,309
+ut,Cache County,R,49,49005,Gary Herbert,75.75,26835
+ut,Cache County,D,49,49005,Mike Weinholtz,19.66,6967
+ut,Cache County,Lib,49,49005,Brian Kamerath,3.15,1118
+ut,Cache County,IAP,49,49005,Dell Schanze,1.41,502
+ut,Carbon County,R,49,49007,Gary Herbert,70.34,5488
+ut,Carbon County,D,49,49007,Mike Weinholtz,25.63,2000
+ut,Carbon County,Lib,49,49007,Brian Kamerath,2.21,173
+ut,Carbon County,IAP,49,49007,Dell Schanze,1.79,140
+ut,Daggett County,R,49,49009,Gary Herbert,74.24,343
+ut,Daggett County,D,49,49009,Mike Weinholtz,22.07,102
+ut,Daggett County,Lib,49,49009,Brian Kamerath,2.59,12
+ut,Daggett County,IAP,49,49009,Dell Schanze,1.08,5
+ut,Davis County,R,49,49011,Gary Herbert,72.91,76603
+ut,Davis County,D,49,49011,Mike Weinholtz,22.63,23782
+ut,Davis County,Lib,49,49011,Brian Kamerath,3.11,3277
+ut,Davis County,IAP,49,49011,Dell Schanze,1.32,1389
+ut,Duchesne County,R,49,49013,Gary Herbert,84.31,5834
+ut,Duchesne County,IAP,49,49013,Dell Schanze,10.33,715
+ut,Duchesne County,D,49,49013,Mike Weinholtz,3.16,219
+ut,Duchesne County,Lib,49,49013,Brian Kamerath,2.18,151
+ut,Emery County,R,49,49015,Gary Herbert,85.3,3617
+ut,Emery County,D,49,49015,Mike Weinholtz,11.36,482
+ut,Emery County,IAP,49,49015,Dell Schanze,1.88,80
+ut,Emery County,Lib,49,49015,Brian Kamerath,1.43,61
+ut,Garfield County,R,49,49017,Gary Herbert,80.82,1851
+ut,Garfield County,D,49,49017,Mike Weinholtz,16.11,369
+ut,Garfield County,Lib,49,49017,Brian Kamerath,1.92,44
+ut,Garfield County,IAP,49,49017,Dell Schanze,1.13,26
+ut,Grand County,R,49,49019,Gary Herbert,49.69,2218
+ut,Grand County,D,49,49019,Mike Weinholtz,45.75,2042
+ut,Grand County,Lib,49,49019,Brian Kamerath,3.45,154
+ut,Grand County,IAP,49,49019,Dell Schanze,1.09,49
+ut,Iron County,R,49,49021,Gary Herbert,78.57,11944
+ut,Iron County,D,49,49021,Mike Weinholtz,14.68,2232
+ut,Iron County,Lib,49,49021,Brian Kamerath,4.77,726
+ut,Iron County,IAP,49,49021,Dell Schanze,1.96,298
+ut,Juab County,R,49,49023,Gary Herbert,76.66,542
+ut,Juab County,D,49,49023,Mike Weinholtz,16.54,117
+ut,Juab County,Lib,49,49023,Brian Kamerath,4.52,32
+ut,Juab County,IAP,49,49023,Dell Schanze,2.26,16
+ut,Kane County,R,49,49025,Gary Herbert,74.55,2570
+ut,Kane County,D,49,49025,Mike Weinholtz,21.09,727
+ut,Kane County,Lib,49,49025,Brian Kamerath,2.66,92
+ut,Kane County,IAP,49,49025,Dell Schanze,1.68,58
+ut,Millard County,R,49,49027,Gary Herbert,85.54,4455
+ut,Millard County,IAP,49,49027,Dell Schanze,10.25,534
+ut,Millard County,D,49,49027,Mike Weinholtz,2.78,145
+ut,Millard County,Lib,49,49027,Brian Kamerath,1.42,74
+ut,Morgan County,R,49,49029,Gary Herbert,83.12,4250
+ut,Morgan County,D,49,49029,Mike Weinholtz,12.24,626
+ut,Morgan County,Lib,49,49029,Brian Kamerath,3.05,156
+ut,Morgan County,IAP,49,49029,Dell Schanze,1.58,81
+ut,Piute County,R,49,49031,Gary Herbert,88.94,539
+ut,Piute County,D,49,49031,Mike Weinholtz,6.27,38
+ut,Piute County,Lib,49,49031,Brian Kamerath,2.64,16
+ut,Piute County,IAP,49,49031,Dell Schanze,2.14,13
+ut,Rich County,R,49,49033,Gary Herbert,85.11,938
+ut,Rich County,D,49,49033,Mike Weinholtz,11.07,122
+ut,Rich County,IAP,49,49033,Dell Schanze,1.99,22
+ut,Rich County,Lib,49,49033,Brian Kamerath,1.81,20
+ut,Salt Lake County,R,49,49035,Gary Herbert,52.13,187378
+ut,Salt Lake County,D,49,49035,Mike Weinholtz,44.1,158523
+ut,Salt Lake County,Lib,49,49035,Brian Kamerath,2.63,9474
+ut,Salt Lake County,IAP,49,49035,Dell Schanze,1.12,4034
+ut,San Juan County,R,49,49037,Gary Herbert,58.92,3170
+ut,San Juan County,D,49,49037,Mike Weinholtz,35.92,1933
+ut,San Juan County,Lib,49,49037,Brian Kamerath,2.76,149
+ut,San Juan County,IAP,49,49037,Dell Schanze,2.37,128
+ut,Sanpete County,R,49,49039,Gary Herbert,85.6,8390
+ut,Sanpete County,D,49,49039,Mike Weinholtz,10.15,995
+ut,Sanpete County,Lib,49,49039,Brian Kamerath,2.34,230
+ut,Sanpete County,IAP,49,49039,Dell Schanze,1.89,186
+ut,Sevier County,R,49,49041,Gary Herbert,85.1,7007
+ut,Sevier County,D,49,49041,Mike Weinholtz,10.62,875
+ut,Sevier County,Lib,49,49041,Brian Kamerath,2.21,182
+ut,Sevier County,IAP,49,49041,Dell Schanze,2.05,169
+ut,Summit County,D,49,49043,Mike Weinholtz,49.61,9920
+ut,Summit County,R,49,49043,Gary Herbert,46.93,9383
+ut,Summit County,Lib,49,49043,Brian Kamerath,2.63,526
+ut,Summit County,IAP,49,49043,Dell Schanze,0.81,163
+ut,Tooele County,R,49,49045,Gary Herbert,69.13,13013
+ut,Tooele County,D,49,49045,Mike Weinholtz,25.2,4745
+ut,Tooele County,Lib,49,49045,Brian Kamerath,3.49,657
+ut,Tooele County,IAP,49,49045,Dell Schanze,2.16,407
+ut,Uintah County,R,49,49047,Gary Herbert,84.15,10767
+ut,Uintah County,D,49,49047,Mike Weinholtz,10.92,1398
+ut,Uintah County,Lib,49,49047,Brian Kamerath,3.21,411
+ut,Uintah County,IAP,49,49047,Dell Schanze,1.71,219
+ut,Utah County,R,49,49049,Gary Herbert,81.4,141182
+ut,Utah County,D,49,49049,Mike Weinholtz,14.12,24502
+ut,Utah County,Lib,49,49049,Brian Kamerath,3.12,5420
+ut,Utah County,IAP,49,49049,Dell Schanze,1.34,2333
+ut,Wasatch County,R,49,49051,Gary Herbert,70.63,8552
+ut,Wasatch County,D,49,49051,Mike Weinholtz,25.8,3125
+ut,Wasatch County,Lib,49,49051,Brian Kamerath,2.4,291
+ut,Wasatch County,IAP,49,49051,Dell Schanze,1.15,140
+ut,Washington County,R,49,49053,Gary Herbert,77.14,43807
+ut,Washington County,D,49,49053,Mike Weinholtz,17.39,9878
+ut,Washington County,Lib,49,49053,Brian Kamerath,3.62,2057
+ut,Washington County,IAP,49,49053,Dell Schanze,1.83,1041
+ut,Wayne County,R,49,49055,Gary Herbert,78.29,1100
+ut,Wayne County,D,49,49055,Mike Weinholtz,19.43,273
+ut,Wayne County,Lib,49,49055,Brian Kamerath,1.28,18
+ut,Wayne County,IAP,49,49055,Dell Schanze,0.99,14
+ut,Weber County,R,49,49057,Gary Herbert,65.32,52864
+ut,Weber County,D,49,49057,Mike Weinholtz,29.6,23956
+ut,Weber County,Lib,49,49057,Brian Kamerath,3.57,2897
+ut,Weber County,IAP,49,49057,Dell Schanze,1.49,1213
+vt,Addison County,R,50,50001,Phil Scott,73.69,577
+vt,Addison County,D,50,50001,Sue Minter,24.9,195
+vt,Addison County,LUn,50,50001,Bill Lee,1.4,11
+vt,Albany County,R,50,,Phil Scott,70.17,320
+vt,Albany County,D,50,,Sue Minter,25,114
+vt,Albany County,LUn,50,,Bill Lee,4.82,22
+vt,Alburgh County,R,50,,Phil Scott,65.23,578
+vt,Alburgh County,D,50,,Sue Minter,31.26,277
+vt,Alburgh County,LUn,50,,Bill Lee,3.49,31
+vt,Andover County,R,50,,Phil Scott,56.66,187
+vt,Andover County,D,50,,Sue Minter,40.6,134
+vt,Andover County,LUn,50,,Bill Lee,2.72,9
+vt,Arlington County,R,50,,Phil Scott,53.02,666
+vt,Arlington County,D,50,,Sue Minter,43.23,543
+vt,Arlington County,LUn,50,,Bill Lee,3.74,47
+vt,Athens County,R,50,,Phil Scott,48.46,79
+vt,Athens County,D,50,,Sue Minter,43.55,71
+vt,Athens County,LUn,50,,Bill Lee,7.97,13
+vt,Bakersfield County,R,50,,Phil Scott,64.65,386
+vt,Bakersfield County,D,50,,Sue Minter,31.15,186
+vt,Bakersfield County,LUn,50,,Bill Lee,4.18,25
+vt,Baltimore County,R,50,,Phil Scott,63.28,81
+vt,Baltimore County,D,50,,Sue Minter,34.37,44
+vt,Baltimore County,LUn,50,,Bill Lee,2.34,3
+vt,Barnard County,R,50,,Phil Scott,48.57,273
+vt,Barnard County,D,50,,Sue Minter,47.68,268
+vt,Barnard County,LUn,50,,Bill Lee,3.73,21
+vt,Barnet County,R,50,,Phil Scott,57.78,553
+vt,Barnet County,D,50,,Sue Minter,38.34,367
+vt,Barnet County,LUn,50,,Bill Lee,3.86,37
+vt,Barre County,R,50,,Phil Scott,65.25,2115
+vt,Barre County,D,50,,Sue Minter,32.18,1043
+vt,Barre County,LUn,50,,Bill Lee,2.56,83
+vt,Barre Town County,R,50,,Phil Scott,77.24,3286
+vt,Barre Town County,D,50,,Sue Minter,21.36,909
+vt,Barre Town County,LUn,50,,Bill Lee,1.38,59
+vt,Barton County,R,50,,Phil Scott,68.47,732
+vt,Barton County,D,50,,Sue Minter,27.97,299
+vt,Barton County,LUn,50,,Bill Lee,3.55,38
+vt,Belvidere County,R,50,,Phil Scott,71.42,115
+vt,Belvidere County,D,50,,Sue Minter,24.84,40
+vt,Belvidere County,LUn,50,,Bill Lee,3.72,6
+vt,Bennington County,D,50,50003,Sue Minter,51.89,3117
+vt,Bennington County,R,50,50003,Phil Scott,44.05,2646
+vt,Bennington County,LUn,50,50003,Bill Lee,4.04,243
+vt,Benson County,R,50,,Phil Scott,64.76,329
+vt,Benson County,D,50,,Sue Minter,32.67,166
+vt,Benson County,LUn,50,,Bill Lee,2.55,13
+vt,Berkshire County,R,50,,Phil Scott,72.54,444
+vt,Berkshire County,D,50,,Sue Minter,24.18,148
+vt,Berkshire County,LUn,50,,Bill Lee,3.26,20
+vt,Berlin County,R,50,,Phil Scott,68.67,945
+vt,Berlin County,D,50,,Sue Minter,29.5,406
+vt,Berlin County,LUn,50,,Bill Lee,1.81,25
+vt,Bethel County,R,50,,Phil Scott,55,555
+vt,Bethel County,D,50,,Sue Minter,41.92,423
+vt,Bethel County,LUn,50,,Bill Lee,3.07,31
+vt,Bloomfield County,R,50,,Phil Scott,64.81,70
+vt,Bloomfield County,D,50,,Sue Minter,33.33,36
+vt,Bloomfield County,LUn,50,,Bill Lee,1.85,2
+vt,Bolton County,R,50,,Phil Scott,52.21,353
+vt,Bolton County,D,50,,Sue Minter,46.15,312
+vt,Bolton County,LUn,50,,Bill Lee,1.62,11
+vt,Bradford County,R,50,,Phil Scott,54.86,660
+vt,Bradford County,D,50,,Sue Minter,42.72,514
+vt,Bradford County,LUn,50,,Bill Lee,2.41,29
+vt,Braintree County,R,50,,Phil Scott,54.65,329
+vt,Braintree County,D,50,,Sue Minter,42.02,253
+vt,Braintree County,LUn,50,,Bill Lee,3.32,20
+vt,Brandon County,R,50,,Phil Scott,61.93,1168
+vt,Brandon County,D,50,,Sue Minter,35.57,671
+vt,Brandon County,LUn,50,,Bill Lee,2.49,47
+vt,Brattleboro County,D,50,,Sue Minter,73.02,4206
+vt,Brattleboro County,R,50,,Phil Scott,22.93,1321
+vt,Brattleboro County,LUn,50,,Bill Lee,4.04,233
+vt,Bridgewater County,R,50,,Phil Scott,51.18,260
+vt,Bridgewater County,D,50,,Sue Minter,44.68,227
+vt,Bridgewater County,LUn,50,,Bill Lee,4.13,21
+vt,Bridport County,R,50,,Phil Scott,67.37,442
+vt,Bridport County,D,50,,Sue Minter,31.09,204
+vt,Bridport County,LUn,50,,Bill Lee,1.52,10
+vt,Brighton County,R,50,,Phil Scott,70.41,388
+vt,Brighton County,D,50,,Sue Minter,24.86,137
+vt,Brighton County,LUn,50,,Bill Lee,4.71,26
+vt,Bristol County,R,50,,Phil Scott,52.98,1022
+vt,Bristol County,D,50,,Sue Minter,44.47,858
+vt,Bristol County,LUn,50,,Bill Lee,2.54,49
+vt,Brookfield County,R,50,,Phil Scott,58.77,442
+vt,Brookfield County,D,50,,Sue Minter,38.16,287
+vt,Brookfield County,LUn,50,,Bill Lee,3.05,23
+vt,Brookline County,D,50,,Sue Minter,58.45,166
+vt,Brookline County,R,50,,Phil Scott,40.14,114
+vt,Brookline County,LUn,50,,Bill Lee,1.4,4
+vt,Brownington County,R,50,,Phil Scott,69.11,273
+vt,Brownington County,D,50,,Sue Minter,27.59,109
+vt,Brownington County,LUn,50,,Bill Lee,3.29,13
+vt,Brunswick County,R,50,,Phil Scott,81.03,47
+vt,Brunswick County,D,50,,Sue Minter,17.24,10
+vt,Brunswick County,LUn,50,,Bill Lee,1.72,1
+vt,Burke County,R,50,,Phil Scott,66.26,546
+vt,Burke County,D,50,,Sue Minter,31.06,256
+vt,Burke County,LUn,50,,Bill Lee,2.66,22
+vt,Burlington County,D,50,,Sue Minter,69.66,12946
+vt,Burlington County,R,50,,Phil Scott,27.05,5028
+vt,Burlington County,LUn,50,,Bill Lee,3.28,610
+vt,Cabot County,R,50,,Phil Scott,54.4,432
+vt,Cabot County,D,50,,Sue Minter,41.93,333
+vt,Cabot County,LUn,50,,Bill Lee,3.65,29
+vt,Calais County,D,50,,Sue Minter,53.95,552
+vt,Calais County,R,50,,Phil Scott,43.3,443
+vt,Calais County,LUn,50,,Bill Lee,2.73,28
+vt,Cambridge County,R,50,,Phil Scott,55.27,1068
+vt,Cambridge County,D,50,,Sue Minter,41.82,808
+vt,Cambridge County,LUn,50,,Bill Lee,2.89,56
+vt,Canaan County,R,50,,Phil Scott,66.42,277
+vt,Canaan County,D,50,,Sue Minter,30.45,127
+vt,Canaan County,LUn,50,,Bill Lee,3.11,13
+vt,Castleton County,R,50,,Phil Scott,64.87,1147
+vt,Castleton County,D,50,,Sue Minter,30.71,543
+vt,Castleton County,LUn,50,,Bill Lee,4.41,78
+vt,Cavendish County,R,50,,Phil Scott,56.91,387
+vt,Cavendish County,D,50,,Sue Minter,39.55,269
+vt,Cavendish County,LUn,50,,Bill Lee,3.52,24
+vt,Charleston County,R,50,,Phil Scott,65.81,308
+vt,Charleston County,D,50,,Sue Minter,29.05,136
+vt,Charleston County,LUn,50,,Bill Lee,5.12,24
+vt,Charlotte County,D,50,,Sue Minter,51.98,1346
+vt,Charlotte County,R,50,,Phil Scott,46.62,1207
+vt,Charlotte County,LUn,50,,Bill Lee,1.39,36
+vt,Chelsea County,R,50,,Phil Scott,68.51,457
+vt,Chelsea County,D,50,,Sue Minter,29.98,200
+vt,Chelsea County,LUn,50,,Bill Lee,1.49,10
+vt,Chester County,R,50,,Phil Scott,51.94,801
+vt,Chester County,D,50,,Sue Minter,44.81,691
+vt,Chester County,LUn,50,,Bill Lee,3.24,50
+vt,Chittenden County,R,50,50007,Phil Scott,64.12,479
+vt,Chittenden County,D,50,50007,Sue Minter,32.93,246
+vt,Chittenden County,LUn,50,50007,Bill Lee,2.94,22
+vt,Clarendon County,R,50,,Phil Scott,68.99,861
+vt,Clarendon County,D,50,,Sue Minter,28.92,361
+vt,Clarendon County,LUn,50,,Bill Lee,2.08,26
+vt,Colchester County,R,50,,Phil Scott,57.18,4478
+vt,Colchester County,D,50,,Sue Minter,40.65,3184
+vt,Colchester County,LUn,50,,Bill Lee,2.15,169
+vt,Concord County,R,50,,Phil Scott,72.08,408
+vt,Concord County,D,50,,Sue Minter,22.96,130
+vt,Concord County,LUn,50,,Bill Lee,4.94,28
+vt,Corinth County,R,50,,Phil Scott,57.77,394
+vt,Corinth County,D,50,,Sue Minter,38.85,265
+vt,Corinth County,LUn,50,,Bill Lee,3.37,23
+vt,Cornwall County,D,50,,Sue Minter,51.61,383
+vt,Cornwall County,R,50,,Phil Scott,46.76,347
+vt,Cornwall County,LUn,50,,Bill Lee,1.61,12
+vt,Coventry County,R,50,,Phil Scott,71.76,366
+vt,Coventry County,D,50,,Sue Minter,26.47,135
+vt,Coventry County,LUn,50,,Bill Lee,1.76,9
+vt,Craftsbury County,R,50,,Phil Scott,55.65,379
+vt,Craftsbury County,D,50,,Sue Minter,38.03,259
+vt,Craftsbury County,LUn,50,,Bill Lee,6.31,43
+vt,Danby County,R,50,,Phil Scott,64.04,415
+vt,Danby County,D,50,,Sue Minter,31.79,206
+vt,Danby County,LUn,50,,Bill Lee,4.16,27
+vt,Danville County,R,50,,Phil Scott,67.39,897
+vt,Danville County,D,50,,Sue Minter,30.87,411
+vt,Danville County,LUn,50,,Bill Lee,1.72,23
+vt,Derby County,R,50,,Phil Scott,72.91,1591
+vt,Derby County,D,50,,Sue Minter,24.15,527
+vt,Derby County,LUn,50,,Bill Lee,2.93,64
+vt,Dorset County,R,50,,Phil Scott,55.58,662
+vt,Dorset County,D,50,,Sue Minter,42.48,506
+vt,Dorset County,LUn,50,,Bill Lee,1.93,23
+vt,Dover County,R,50,,Phil Scott,50.57,394
+vt,Dover County,D,50,,Sue Minter,45.82,357
+vt,Dover County,LUn,50,,Bill Lee,3.59,28
+vt,Dummerston County,D,50,,Sue Minter,65.96,754
+vt,Dummerston County,R,50,,Phil Scott,30.53,349
+vt,Dummerston County,LUn,50,,Bill Lee,3.49,40
+vt,Duxbury County,R,50,,Phil Scott,58.88,464
+vt,Duxbury County,D,50,,Sue Minter,38.7,305
+vt,Duxbury County,LUn,50,,Bill Lee,2.41,19
+vt,East Haven County,R,50,,Phil Scott,73.1,106
+vt,East Haven County,D,50,,Sue Minter,23.44,34
+vt,East Haven County,LUn,50,,Bill Lee,3.44,5
+vt,East Montpelier County,R,50,,Phil Scott,49.28,796
+vt,East Montpelier County,D,50,,Sue Minter,49.16,794
+vt,East Montpelier County,LUn,50,,Bill Lee,1.54,25
+vt,Eden County,R,50,,Phil Scott,71.4,402
+vt,Eden County,D,50,,Sue Minter,25.04,141
+vt,Eden County,LUn,50,,Bill Lee,3.55,20
+vt,Elmore County,R,50,,Phil Scott,51.09,281
+vt,Elmore County,D,50,,Sue Minter,46.18,254
+vt,Elmore County,LUn,50,,Bill Lee,2.72,15
+vt,Enosburgh County,R,50,,Phil Scott,65.25,787
+vt,Enosburgh County,D,50,,Sue Minter,31.09,375
+vt,Enosburgh County,LUn,50,,Bill Lee,3.64,44
+vt,Essex County,R,50,50009,Phil Scott,54.96,6169
+vt,Essex County,D,50,50009,Sue Minter,43.33,4864
+vt,Essex County,LUn,50,50009,Bill Lee,1.69,190
+vt,Fair Haven County,R,50,,Phil Scott,65,741
+vt,Fair Haven County,D,50,,Sue Minter,31.66,361
+vt,Fair Haven County,LUn,50,,Bill Lee,3.33,38
+vt,Fairfax County,R,50,,Phil Scott,65.37,1571
+vt,Fairfax County,D,50,,Sue Minter,32.25,775
+vt,Fairfax County,LUn,50,,Bill Lee,2.37,57
+vt,Fairfield County,R,50,,Phil Scott,68.45,649
+vt,Fairfield County,D,50,,Sue Minter,29.21,277
+vt,Fairfield County,LUn,50,,Bill Lee,2.32,22
+vt,Fairlee County,D,50,,Sue Minter,50.26,285
+vt,Fairlee County,R,50,,Phil Scott,46.38,263
+vt,Fairlee County,LUn,50,,Bill Lee,3.35,19
+vt,Fayston County,D,50,,Sue Minter,51.27,423
+vt,Fayston County,R,50,,Phil Scott,46.54,384
+vt,Fayston County,LUn,50,,Bill Lee,2.18,18
+vt,Ferrisburg County,R,50,,Phil Scott,59.49,962
+vt,Ferrisburg County,D,50,,Sue Minter,37.9,613
+vt,Ferrisburg County,LUn,50,,Bill Lee,2.59,42
+vt,Fletcher County,R,50,,Phil Scott,60.96,428
+vt,Fletcher County,D,50,,Sue Minter,37.17,261
+vt,Fletcher County,LUn,50,,Bill Lee,1.85,13
+vt,Franklin County,R,50,50011,Phil Scott,74.6,470
+vt,Franklin County,D,50,50011,Sue Minter,23.01,145
+vt,Franklin County,LUn,50,50011,Bill Lee,2.38,15
+vt,Georgia County,R,50,,Phil Scott,71.65,1729
+vt,Georgia County,D,50,,Sue Minter,26.52,640
+vt,Georgia County,LUn,50,,Bill Lee,1.82,44
+vt,Glover County,R,50,,Phil Scott,65.7,389
+vt,Glover County,D,50,,Sue Minter,28.37,168
+vt,Glover County,LUn,50,,Bill Lee,5.91,35
+vt,Goshen County,D,50,,Sue Minter,52.8,66
+vt,Goshen County,R,50,,Phil Scott,42.4,53
+vt,Goshen County,LUn,50,,Bill Lee,4.8,6
+vt,Grafton County,R,50,,Phil Scott,60.05,236
+vt,Grafton County,D,50,,Sue Minter,36.64,144
+vt,Grafton County,LUn,50,,Bill Lee,3.3,13
+vt,Granby County,R,50,,Phil Scott,76.74,33
+vt,Granby County,D,50,,Sue Minter,23.25,10
+vt,Granby County,LUn,50,,Bill Lee,0,0
+vt,Grand Isle County,R,50,50013,Phil Scott,65.34,773
+vt,Grand Isle County,D,50,50013,Sue Minter,32.71,387
+vt,Grand Isle County,LUn,50,50013,Bill Lee,1.94,23
+vt,Granville County,D,50,,Sue Minter,56.55,82
+vt,Granville County,R,50,,Phil Scott,42.06,61
+vt,Granville County,LUn,50,,Bill Lee,1.37,2
+vt,Greensboro County,R,50,,Phil Scott,53.17,226
+vt,Greensboro County,D,50,,Sue Minter,42.82,182
+vt,Greensboro County,LUn,50,,Bill Lee,4,17
+vt,Groton County,R,50,,Phil Scott,70.4,345
+vt,Groton County,D,50,,Sue Minter,25.1,123
+vt,Groton County,LUn,50,,Bill Lee,4.48,22
+vt,Guildhall County,R,50,,Phil Scott,63.88,92
+vt,Guildhall County,D,50,,Sue Minter,35.41,51
+vt,Guildhall County,LUn,50,,Bill Lee,0.69,1
+vt,Guilford County,D,50,,Sue Minter,63.77,729
+vt,Guilford County,R,50,,Phil Scott,32.19,368
+vt,Guilford County,LUn,50,,Bill Lee,4.02,46
+vt,Halifax County,D,50,,Sue Minter,49.04,205
+vt,Halifax County,R,50,,Phil Scott,45.93,192
+vt,Halifax County,LUn,50,,Bill Lee,5.02,21
+vt,Hancock County,R,50,,Phil Scott,61,97
+vt,Hancock County,D,50,,Sue Minter,36.47,58
+vt,Hancock County,LUn,50,,Bill Lee,2.51,4
+vt,Hardwick County,R,50,,Phil Scott,63.1,879
+vt,Hardwick County,D,50,,Sue Minter,33.09,461
+vt,Hardwick County,LUn,50,,Bill Lee,3.8,53
+vt,Hartford County,D,50,,Sue Minter,54.39,2773
+vt,Hartford County,R,50,,Phil Scott,42.17,2150
+vt,Hartford County,LUn,50,,Bill Lee,3.43,175
+vt,Hartland County,D,50,,Sue Minter,49.86,958
+vt,Hartland County,R,50,,Phil Scott,47.37,910
+vt,Hartland County,LUn,50,,Bill Lee,2.75,53
+vt,Highgate County,R,50,,Phil Scott,75.37,1047
+vt,Highgate County,D,50,,Sue Minter,21.81,303
+vt,Highgate County,LUn,50,,Bill Lee,2.8,39
+vt,Hinesburg County,D,50,,Sue Minter,50.97,1359
+vt,Hinesburg County,R,50,,Phil Scott,46.73,1246
+vt,Hinesburg County,LUn,50,,Bill Lee,2.28,61
+vt,Holland County,R,50,,Phil Scott,77.92,233
+vt,Holland County,D,50,,Sue Minter,18.39,55
+vt,Holland County,LUn,50,,Bill Lee,3.67,11
+vt,Hubbardton County,R,50,,Phil Scott,60.88,235
+vt,Hubbardton County,D,50,,Sue Minter,36.52,141
+vt,Hubbardton County,LUn,50,,Bill Lee,2.59,10
+vt,Huntington County,D,50,,Sue Minter,56.79,702
+vt,Huntington County,R,50,,Phil Scott,40.69,503
+vt,Huntington County,LUn,50,,Bill Lee,2.5,31
+vt,Hyde Park County,R,50,,Phil Scott,62.76,971
+vt,Hyde Park County,D,50,,Sue Minter,34.45,533
+vt,Hyde Park County,LUn,50,,Bill Lee,2.77,43
+vt,Ira County,R,50,,Phil Scott,66.8,161
+vt,Ira County,D,50,,Sue Minter,28.21,68
+vt,Ira County,LUn,50,,Bill Lee,4.97,12
+vt,Irasburg County,R,50,,Phil Scott,78.9,445
+vt,Irasburg County,D,50,,Sue Minter,19.32,109
+vt,Irasburg County,LUn,50,,Bill Lee,1.77,10
+vt,Isle La Motte County,R,50,,Phil Scott,66.66,204
+vt,Isle La Motte County,D,50,,Sue Minter,30.06,92
+vt,Isle La Motte County,LUn,50,,Bill Lee,3.26,10
+vt,Jamaica County,D,50,,Sue Minter,50.69,257
+vt,Jamaica County,R,50,,Phil Scott,44.57,226
+vt,Jamaica County,LUn,50,,Bill Lee,4.73,24
+vt,Jay County,R,50,,Phil Scott,66.39,162
+vt,Jay County,D,50,,Sue Minter,29.91,73
+vt,Jay County,LUn,50,,Bill Lee,3.68,9
+vt,Jericho County,R,50,,Phil Scott,51.43,1702
+vt,Jericho County,D,50,,Sue Minter,46.78,1548
+vt,Jericho County,LUn,50,,Bill Lee,1.78,59
+vt,Johnson County,R,50,,Phil Scott,55.6,724
+vt,Johnson County,D,50,,Sue Minter,41.09,535
+vt,Johnson County,LUn,50,,Bill Lee,3.3,43
+vt,Killington County,R,50,,Phil Scott,58.56,383
+vt,Killington County,D,50,,Sue Minter,37.92,248
+vt,Killington County,LUn,50,,Bill Lee,3.51,23
+vt,Kirby County,R,50,,Phil Scott,61.83,162
+vt,Kirby County,D,50,,Sue Minter,34.73,91
+vt,Kirby County,LUn,50,,Bill Lee,3.43,9
+vt,Landgrove County,R,50,,Phil Scott,52.38,55
+vt,Landgrove County,D,50,,Sue Minter,46.66,49
+vt,Landgrove County,LUn,50,,Bill Lee,0.95,1
+vt,Leicester County,R,50,,Phil Scott,67.34,332
+vt,Leicester County,D,50,,Sue Minter,30.83,152
+vt,Leicester County,LUn,50,,Bill Lee,1.82,9
+vt,Lemington County,R,50,,Phil Scott,76.78,43
+vt,Lemington County,D,50,,Sue Minter,21.42,12
+vt,Lemington County,LUn,50,,Bill Lee,1.78,1
+vt,Lincoln County,D,50,,Sue Minter,54.77,430
+vt,Lincoln County,R,50,,Phil Scott,42.03,330
+vt,Lincoln County,LUn,50,,Bill Lee,3.18,25
+vt,Londonderry County,R,50,,Phil Scott,56.02,521
+vt,Londonderry County,D,50,,Sue Minter,41.61,387
+vt,Londonderry County,LUn,50,,Bill Lee,2.36,22
+vt,Lowell County,R,50,,Phil Scott,77.62,333
+vt,Lowell County,D,50,,Sue Minter,17.48,75
+vt,Lowell County,LUn,50,,Bill Lee,4.89,21
+vt,Ludlow County,R,50,,Phil Scott,52.88,578
+vt,Ludlow County,D,50,,Sue Minter,42.81,468
+vt,Ludlow County,LUn,50,,Bill Lee,4.3,47
+vt,Lunenburg County,R,50,,Phil Scott,73.27,403
+vt,Lunenburg County,D,50,,Sue Minter,22,121
+vt,Lunenburg County,LUn,50,,Bill Lee,4.72,26
+vt,Lyndon County,R,50,,Phil Scott,68.78,1410
+vt,Lyndon County,D,50,,Sue Minter,27.9,572
+vt,Lyndon County,LUn,50,,Bill Lee,3.31,68
+vt,Maidstone County,R,50,,Phil Scott,67.54,77
+vt,Maidstone County,D,50,,Sue Minter,28.94,33
+vt,Maidstone County,LUn,50,,Bill Lee,3.5,4
+vt,Manchester County,R,50,,Phil Scott,51.78,1231
+vt,Manchester County,D,50,,Sue Minter,45.6,1084
+vt,Manchester County,LUn,50,,Bill Lee,2.6,62
+vt,Marlboro County,D,50,,Sue Minter,72.61,411
+vt,Marlboro County,R,50,,Phil Scott,24.38,138
+vt,Marlboro County,LUn,50,,Bill Lee,3,17
+vt,Marshfield County,R,50,,Phil Scott,54.77,476
+vt,Marshfield County,D,50,,Sue Minter,42.23,367
+vt,Marshfield County,LUn,50,,Bill Lee,2.99,26
+vt,Mendon County,R,50,,Phil Scott,63.25,408
+vt,Mendon County,D,50,,Sue Minter,34.26,221
+vt,Mendon County,LUn,50,,Bill Lee,2.48,16
+vt,Middlebury County,D,50,,Sue Minter,60.66,2212
+vt,Middlebury County,R,50,,Phil Scott,36.99,1349
+vt,Middlebury County,LUn,50,,Bill Lee,2.33,85
+vt,Middlesex County,D,50,,Sue Minter,51.91,582
+vt,Middlesex County,R,50,,Phil Scott,45.94,515
+vt,Middlesex County,LUn,50,,Bill Lee,2.14,24
+vt,Middletown Springs County,R,50,,Phil Scott,55.07,266
+vt,Middletown Springs County,D,50,,Sue Minter,40.99,198
+vt,Middletown Springs County,LUn,50,,Bill Lee,3.93,19
+vt,Milton County,R,50,,Phil Scott,69.65,2973
+vt,Milton County,D,50,,Sue Minter,30.1,1285
+vt,Milton County,LUn,50,,Bill Lee,0.23,10
+vt,Monkton County,R,50,,Phil Scott,58.03,704
+vt,Monkton County,D,50,,Sue Minter,39.57,480
+vt,Monkton County,LUn,50,,Bill Lee,2.39,29
+vt,Montgomery County,R,50,,Phil Scott,52.63,339
+vt,Montgomery County,D,50,,Sue Minter,41.45,267
+vt,Montgomery County,LUn,50,,Bill Lee,5.9,38
+vt,Montpelier County,D,50,,Sue Minter,66.42,3172
+vt,Montpelier County,R,50,,Phil Scott,31.72,1515
+vt,Montpelier County,LUn,50,,Bill Lee,1.84,88
+vt,Moretown County,R,50,,Phil Scott,53.08,551
+vt,Moretown County,D,50,,Sue Minter,44.5,462
+vt,Moretown County,LUn,50,,Bill Lee,2.4,25
+vt,Morgan County,R,50,,Phil Scott,76.1,258
+vt,Morgan County,D,50,,Sue Minter,21.82,74
+vt,Morgan County,LUn,50,,Bill Lee,2.06,7
+vt,Morristown County,R,50,,Phil Scott,57.21,1566
+vt,Morristown County,D,50,,Sue Minter,40,1095
+vt,Morristown County,LUn,50,,Bill Lee,2.77,76
+vt,Mount Holly County,R,50,,Phil Scott,58.66,447
+vt,Mount Holly County,D,50,,Sue Minter,37.4,285
+vt,Mount Holly County,LUn,50,,Bill Lee,3.93,30
+vt,Mount Tabor County,R,50,,Phil Scott,65.95,62
+vt,Mount Tabor County,D,50,,Sue Minter,32.97,31
+vt,Mount Tabor County,LUn,50,,Bill Lee,1.06,1
+vt,New Haven County,R,50,,Phil Scott,61.02,664
+vt,New Haven County,D,50,,Sue Minter,36.58,398
+vt,New Haven County,LUn,50,,Bill Lee,2.38,26
+vt,Newark County,R,50,,Phil Scott,71.38,217
+vt,Newark County,D,50,,Sue Minter,25.98,79
+vt,Newark County,LUn,50,,Bill Lee,2.63,8
+vt,Newbury County,R,50,,Phil Scott,55.97,604
+vt,Newbury County,D,50,,Sue Minter,41.33,446
+vt,Newbury County,LUn,50,,Bill Lee,2.68,29
+vt,Newfane County,D,50,,Sue Minter,64.81,643
+vt,Newfane County,R,50,,Phil Scott,31.75,315
+vt,Newfane County,LUn,50,,Bill Lee,3.42,34
+vt,Newport County,R,50,,Phil Scott,63.18,968
+vt,Newport County,D,50,,Sue Minter,31.85,488
+vt,Newport County,LUn,50,,Bill Lee,4.96,76
+vt,Newport Town County,R,50,,Phil Scott,74.42,518
+vt,Newport Town County,D,50,,Sue Minter,22.27,155
+vt,Newport Town County,LUn,50,,Bill Lee,3.3,23
+vt,North Hero County,R,50,,Phil Scott,65.81,414
+vt,North Hero County,D,50,,Sue Minter,31.95,201
+vt,North Hero County,LUn,50,,Bill Lee,2.22,14
+vt,Northfield County,R,50,,Phil Scott,65.81,1463
+vt,Northfield County,D,50,,Sue Minter,32.29,718
+vt,Northfield County,LUn,50,,Bill Lee,1.88,42
+vt,Norton County,R,50,,Phil Scott,74.41,64
+vt,Norton County,D,50,,Sue Minter,22.09,19
+vt,Norton County,LUn,50,,Bill Lee,3.48,3
+vt,Norwich County,D,50,,Sue Minter,76.25,1750
+vt,Norwich County,R,50,,Phil Scott,21.04,483
+vt,Norwich County,LUn,50,,Bill Lee,2.7,62
+vt,Orange County,R,50,50017,Phil Scott,76.89,416
+vt,Orange County,D,50,50017,Sue Minter,21.44,116
+vt,Orange County,LUn,50,50017,Bill Lee,1.66,9
+vt,Orwell County,R,50,,Phil Scott,71.53,465
+vt,Orwell County,D,50,,Sue Minter,26.46,172
+vt,Orwell County,LUn,50,,Bill Lee,2,13
+vt,Panton County,R,50,,Phil Scott,65.79,227
+vt,Panton County,D,50,,Sue Minter,33.04,114
+vt,Panton County,LUn,50,,Bill Lee,1.15,4
+vt,Pawlet County,R,50,,Phil Scott,54.99,413
+vt,Pawlet County,D,50,,Sue Minter,42.07,316
+vt,Pawlet County,LUn,50,,Bill Lee,2.92,22
+vt,Peacham County,R,50,,Phil Scott,53.94,260
+vt,Peacham County,D,50,,Sue Minter,42.32,204
+vt,Peacham County,LUn,50,,Bill Lee,3.73,18
+vt,Peru County,D,50,,Sue Minter,54.89,129
+vt,Peru County,R,50,,Phil Scott,43.82,103
+vt,Peru County,LUn,50,,Bill Lee,1.27,3
+vt,Pittsfield County,R,50,,Phil Scott,55.44,163
+vt,Pittsfield County,D,50,,Sue Minter,40.81,120
+vt,Pittsfield County,LUn,50,,Bill Lee,3.74,11
+vt,Pittsford County,R,50,,Phil Scott,68.95,1055
+vt,Pittsford County,D,50,,Sue Minter,28.16,431
+vt,Pittsford County,LUn,50,,Bill Lee,2.87,44
+vt,Plainfield County,D,50,,Sue Minter,56.57,383
+vt,Plainfield County,R,50,,Phil Scott,41.06,278
+vt,Plainfield County,LUn,50,,Bill Lee,2.36,16
+vt,Plymouth County,R,50,,Phil Scott,53.93,185
+vt,Plymouth County,D,50,,Sue Minter,41.1,141
+vt,Plymouth County,LUn,50,,Bill Lee,4.95,17
+vt,Pomfret County,D,50,,Sue Minter,52.69,313
+vt,Pomfret County,R,50,,Phil Scott,43.93,261
+vt,Pomfret County,LUn,50,,Bill Lee,3.36,20
+vt,Poultney County,R,50,,Phil Scott,60.9,871
+vt,Poultney County,D,50,,Sue Minter,36.08,516
+vt,Poultney County,LUn,50,,Bill Lee,3,43
+vt,Pownal County,R,50,,Phil Scott,48.87,785
+vt,Pownal County,D,50,,Sue Minter,46.2,742
+vt,Pownal County,LUn,50,,Bill Lee,4.91,79
+vt,Proctor County,R,50,,Phil Scott,64.33,543
+vt,Proctor County,D,50,,Sue Minter,31.87,269
+vt,Proctor County,LUn,50,,Bill Lee,3.79,32
+vt,Putney County,D,50,,Sue Minter,73.47,950
+vt,Putney County,R,50,,Phil Scott,22.58,292
+vt,Putney County,LUn,50,,Bill Lee,3.94,51
+vt,Randolph County,R,50,,Phil Scott,59.02,1337
+vt,Randolph County,D,50,,Sue Minter,38.27,867
+vt,Randolph County,LUn,50,,Bill Lee,2.69,61
+vt,Reading County,D,50,,Sue Minter,49.73,186
+vt,Reading County,R,50,,Phil Scott,47.05,176
+vt,Reading County,LUn,50,,Bill Lee,3.2,12
+vt,Readsboro County,R,50,,Phil Scott,51.32,193
+vt,Readsboro County,D,50,,Sue Minter,42.28,159
+vt,Readsboro County,LUn,50,,Bill Lee,6.38,24
+vt,Richford County,R,50,,Phil Scott,66.62,555
+vt,Richford County,D,50,,Sue Minter,30.25,252
+vt,Richford County,LUn,50,,Bill Lee,3.12,26
+vt,Richmond County,D,50,,Sue Minter,51.32,1302
+vt,Richmond County,R,50,,Phil Scott,46.23,1173
+vt,Richmond County,LUn,50,,Bill Lee,2.44,62
+vt,Ripton County,D,50,,Sue Minter,61.09,201
+vt,Ripton County,R,50,,Phil Scott,37.68,124
+vt,Ripton County,LUn,50,,Bill Lee,1.21,4
+vt,Rochester County,D,50,,Sue Minter,52.78,341
+vt,Rochester County,R,50,,Phil Scott,44.58,288
+vt,Rochester County,LUn,50,,Bill Lee,2.63,17
+vt,Rockingham County,D,50,,Sue Minter,57.55,1227
+vt,Rockingham County,R,50,,Phil Scott,37.94,809
+vt,Rockingham County,LUn,50,,Bill Lee,4.5,96
+vt,Roxbury County,R,50,,Phil Scott,57.78,219
+vt,Roxbury County,D,50,,Sue Minter,39.31,149
+vt,Roxbury County,LUn,50,,Bill Lee,2.9,11
+vt,Royalton County,R,50,,Phil Scott,53.61,711
+vt,Royalton County,D,50,,Sue Minter,43.74,580
+vt,Royalton County,LUn,50,,Bill Lee,2.63,35
+vt,Rupert County,R,50,,Phil Scott,52.04,204
+vt,Rupert County,D,50,,Sue Minter,44.64,175
+vt,Rupert County,LUn,50,,Bill Lee,3.31,13
+vt,Rutland County,R,50,50021,Phil Scott,59.41,4190
+vt,Rutland County,D,50,50021,Sue Minter,37.02,2611
+vt,Rutland County,LUn,50,50021,Bill Lee,3.55,251
+vt,Rutland Town County,R,50,,Phil Scott,66.24,1519
+vt,Rutland Town County,D,50,,Sue Minter,31.92,732
+vt,Rutland Town County,LUn,50,,Bill Lee,1.83,42
+vt,Ryegate County,R,50,,Phil Scott,67.14,376
+vt,Ryegate County,D,50,,Sue Minter,30.17,169
+vt,Ryegate County,LUn,50,,Bill Lee,2.67,15
+vt,Salisbury County,R,50,,Phil Scott,61.33,341
+vt,Salisbury County,D,50,,Sue Minter,35.61,198
+vt,Salisbury County,LUn,50,,Bill Lee,3.05,17
+vt,Sandgate County,R,50,,Phil Scott,52.99,115
+vt,Sandgate County,D,50,,Sue Minter,44.23,96
+vt,Sandgate County,LUn,50,,Bill Lee,2.76,6
+vt,Searsburg County,R,50,,Phil Scott,65.51,38
+vt,Searsburg County,D,50,,Sue Minter,24.13,14
+vt,Searsburg County,LUn,50,,Bill Lee,10.34,6
+vt,Shaftsbury County,R,50,,Phil Scott,52.09,944
+vt,Shaftsbury County,D,50,,Sue Minter,45.08,817
+vt,Shaftsbury County,LUn,50,,Bill Lee,2.81,51
+vt,Sharon County,R,50,,Phil Scott,49.4,376
+vt,Sharon County,D,50,,Sue Minter,47.04,358
+vt,Sharon County,LUn,50,,Bill Lee,3.54,27
+vt,Sheffield County,R,50,,Phil Scott,68.18,210
+vt,Sheffield County,D,50,,Sue Minter,25.97,80
+vt,Sheffield County,LUn,50,,Bill Lee,5.84,18
+vt,Shelburne County,D,50,,Sue Minter,53,2530
+vt,Shelburne County,R,50,,Phil Scott,45.48,2171
+vt,Shelburne County,LUn,50,,Bill Lee,1.5,72
+vt,Sheldon County,R,50,,Phil Scott,75.52,617
+vt,Sheldon County,D,50,,Sue Minter,22.88,187
+vt,Sheldon County,LUn,50,,Bill Lee,1.59,13
+vt,Shoreham County,R,50,,Phil Scott,57.47,373
+vt,Shoreham County,D,50,,Sue Minter,40.36,262
+vt,Shoreham County,LUn,50,,Bill Lee,2.15,14
+vt,Shrewsbury County,R,50,,Phil Scott,54.18,356
+vt,Shrewsbury County,D,50,,Sue Minter,42.46,279
+vt,Shrewsbury County,LUn,50,,Bill Lee,3.34,22
+vt,South Burlington County,D,50,,Sue Minter,53.81,5586
+vt,South Burlington County,R,50,,Phil Scott,44.4,4609
+vt,South Burlington County,LUn,50,,Bill Lee,1.78,185
+vt,South Hero County,R,50,,Phil Scott,56.92,641
+vt,South Hero County,D,50,,Sue Minter,41.2,464
+vt,South Hero County,LUn,50,,Bill Lee,1.86,21
+vt,Springfield County,R,50,,Phil Scott,55.27,2158
+vt,Springfield County,D,50,,Sue Minter,40.16,1568
+vt,Springfield County,LUn,50,,Bill Lee,4.55,178
+vt,St. Albans County,R,50,,Phil Scott,58.52,1469
+vt,St. Albans County,D,50,,Sue Minter,38.88,976
+vt,St. Albans County,LUn,50,,Bill Lee,2.58,65
+vt,St. Albans Town County,R,50,,Phil Scott,68.95,2154
+vt,St. Albans Town County,D,50,,Sue Minter,28.9,903
+vt,St. Albans Town County,LUn,50,,Bill Lee,2.14,67
+vt,St. George County,R,50,,Phil Scott,58.97,207
+vt,St. George County,D,50,,Sue Minter,38.17,134
+vt,St. George County,LUn,50,,Bill Lee,2.84,10
+vt,St. Johnsbury County,R,50,,Phil Scott,62.07,1869
+vt,St. Johnsbury County,D,50,,Sue Minter,34.34,1034
+vt,St. Johnsbury County,LUn,50,,Bill Lee,3.58,108
+vt,Stamford County,R,50,,Phil Scott,54.09,251
+vt,Stamford County,D,50,,Sue Minter,41.37,192
+vt,Stamford County,LUn,50,,Bill Lee,4.52,21
+vt,Stannard County,R,50,,Phil Scott,48.03,49
+vt,Stannard County,D,50,,Sue Minter,44.11,45
+vt,Stannard County,LUn,50,,Bill Lee,7.84,8
+vt,Starksboro County,R,50,,Phil Scott,49.51,459
+vt,Starksboro County,D,50,,Sue Minter,48,445
+vt,Starksboro County,LUn,50,,Bill Lee,2.48,23
+vt,Stockbridge County,R,50,,Phil Scott,53.9,228
+vt,Stockbridge County,D,50,,Sue Minter,40.42,171
+vt,Stockbridge County,LUn,50,,Bill Lee,5.67,24
+vt,Stowe County,D,50,,Sue Minter,50.85,1421
+vt,Stowe County,R,50,,Phil Scott,49.1,1372
+vt,Stowe County,LUn,50,,Bill Lee,0.03,1
+vt,Strafford County,D,50,,Sue Minter,63.62,439
+vt,Strafford County,R,50,,Phil Scott,33.76,233
+vt,Strafford County,LUn,50,,Bill Lee,2.6,18
+vt,Stratton County,R,50,,Phil Scott,60.62,77
+vt,Stratton County,D,50,,Sue Minter,35.43,45
+vt,Stratton County,LUn,50,,Bill Lee,3.93,5
+vt,Sudbury County,R,50,,Phil Scott,60.24,194
+vt,Sudbury County,D,50,,Sue Minter,36.64,118
+vt,Sudbury County,LUn,50,,Bill Lee,3.1,10
+vt,Sunderland County,R,50,,Phil Scott,56.47,292
+vt,Sunderland County,D,50,,Sue Minter,41.39,214
+vt,Sunderland County,LUn,50,,Bill Lee,2.12,11
+vt,Sutton County,R,50,,Phil Scott,73.31,338
+vt,Sutton County,D,50,,Sue Minter,23.42,108
+vt,Sutton County,LUn,50,,Bill Lee,3.25,15
+vt,Swanton County,R,50,,Phil Scott,69.69,1867
+vt,Swanton County,D,50,,Sue Minter,27.24,730
+vt,Swanton County,LUn,50,,Bill Lee,3.06,82
+vt,Thetford County,D,50,,Sue Minter,61.92,1005
+vt,Thetford County,R,50,,Phil Scott,35.79,581
+vt,Thetford County,LUn,50,,Bill Lee,2.27,37
+vt,Tinmouth County,R,50,,Phil Scott,54.2,161
+vt,Tinmouth County,D,50,,Sue Minter,42.08,125
+vt,Tinmouth County,LUn,50,,Bill Lee,3.7,11
+vt,Topsham County,R,50,,Phil Scott,72.44,418
+vt,Topsham County,D,50,,Sue Minter,25.3,146
+vt,Topsham County,LUn,50,,Bill Lee,2.25,13
+vt,Townshend County,D,50,,Sue Minter,51.78,348
+vt,Townshend County,R,50,,Phil Scott,39.88,268
+vt,Townshend County,LUn,50,,Bill Lee,8.33,56
+vt,Troy County,R,50,,Phil Scott,68.99,445
+vt,Troy County,D,50,,Sue Minter,27.28,176
+vt,Troy County,LUn,50,,Bill Lee,3.72,24
+vt,Tunbridge County,R,50,,Phil Scott,57.38,408
+vt,Tunbridge County,D,50,,Sue Minter,40.22,286
+vt,Tunbridge County,LUn,50,,Bill Lee,2.39,17
+vt,Underhill County,R,50,,Phil Scott,50.43,990
+vt,Underhill County,D,50,,Sue Minter,47.68,936
+vt,Underhill County,LUn,50,,Bill Lee,1.88,37
+vt,Vergennes County,R,50,,Phil Scott,53.39,660
+vt,Vergennes County,D,50,,Sue Minter,43.93,543
+vt,Vergennes County,LUn,50,,Bill Lee,2.66,33
+vt,Vernon County,R,50,,Phil Scott,60.9,673
+vt,Vernon County,D,50,,Sue Minter,35.02,387
+vt,Vernon County,LUn,50,,Bill Lee,4.07,45
+vt,Vershire County,R,50,,Phil Scott,51.8,187
+vt,Vershire County,D,50,,Sue Minter,45.7,165
+vt,Vershire County,LUn,50,,Bill Lee,2.49,9
+vt,Victory County,R,50,,Phil Scott,73.84,48
+vt,Victory County,D,50,,Sue Minter,24.61,16
+vt,Victory County,LUn,50,,Bill Lee,1.53,1
+vt,Waitsfield County,D,50,,Sue Minter,50.93,573
+vt,Waitsfield County,R,50,,Phil Scott,46.84,527
+vt,Waitsfield County,LUn,50,,Bill Lee,2.22,25
+vt,Walden County,R,50,,Phil Scott,61.65,320
+vt,Walden County,D,50,,Sue Minter,35.64,185
+vt,Walden County,LUn,50,,Bill Lee,2.69,14
+vt,Wallingford County,R,50,,Phil Scott,60.23,665
+vt,Wallingford County,D,50,,Sue Minter,35.96,397
+vt,Wallingford County,LUn,50,,Bill Lee,3.8,42
+vt,Waltham County,R,50,,Phil Scott,58.3,165
+vt,Waltham County,D,50,,Sue Minter,38.16,108
+vt,Waltham County,LUn,50,,Bill Lee,3.53,10
+vt,Wardsboro County,D,50,,Sue Minter,48.09,189
+vt,Wardsboro County,R,50,,Phil Scott,47.32,186
+vt,Wardsboro County,LUn,50,,Bill Lee,4.58,18
+vt,Warren County,D,50,,Sue Minter,56.57,611
+vt,Warren County,R,50,,Phil Scott,40.55,438
+vt,Warren County,LUn,50,,Bill Lee,2.87,31
+vt,Washington County,R,50,50023,Phil Scott,73.5,405
+vt,Washington County,D,50,50023,Sue Minter,24.13,133
+vt,Washington County,LUn,50,50023,Bill Lee,2.35,13
+vt,Waterbury County,R,50,,Phil Scott,50.66,1552
+vt,Waterbury County,D,50,,Sue Minter,47.82,1465
+vt,Waterbury County,LUn,50,,Bill Lee,1.5,46
+vt,Waterford County,R,50,,Phil Scott,72.45,534
+vt,Waterford County,D,50,,Sue Minter,24.83,183
+vt,Waterford County,LUn,50,,Bill Lee,2.71,20
+vt,Waterville County,R,50,,Phil Scott,65.42,246
+vt,Waterville County,D,50,,Sue Minter,31.91,120
+vt,Waterville County,LUn,50,,Bill Lee,2.65,10
+vt,Weathersfield County,R,50,,Phil Scott,57.65,904
+vt,Weathersfield County,D,50,,Sue Minter,38.9,610
+vt,Weathersfield County,LUn,50,,Bill Lee,3.44,54
+vt,Wells County,R,50,,Phil Scott,65.56,377
+vt,Wells County,D,50,,Sue Minter,31.47,181
+vt,Wells County,LUn,50,,Bill Lee,2.95,17
+vt,West Fairlee County,R,50,,Phil Scott,54.23,160
+vt,West Fairlee County,D,50,,Sue Minter,43.05,127
+vt,West Fairlee County,LUn,50,,Bill Lee,2.71,8
+vt,West Haven County,R,50,,Phil Scott,72.99,100
+vt,West Haven County,D,50,,Sue Minter,25.54,35
+vt,West Haven County,LUn,50,,Bill Lee,1.45,2
+vt,West Rutland County,R,50,,Phil Scott,69.64,725
+vt,West Rutland County,D,50,,Sue Minter,26.6,277
+vt,West Rutland County,LUn,50,,Bill Lee,3.74,39
+vt,West Windsor County,D,50,,Sue Minter,47.9,343
+vt,West Windsor County,R,50,,Phil Scott,47.9,343
+vt,West Windsor County,LUn,50,,Bill Lee,4.18,30
+vt,Westfield County,R,50,,Phil Scott,64.23,194
+vt,Westfield County,D,50,,Sue Minter,32.45,98
+vt,Westfield County,LUn,50,,Bill Lee,3.31,10
+vt,Westford County,R,50,,Phil Scott,58.04,732
+vt,Westford County,D,50,,Sue Minter,39.17,494
+vt,Westford County,LUn,50,,Bill Lee,2.77,35
+vt,Westminster County,D,50,,Sue Minter,62.61,958
+vt,Westminster County,R,50,,Phil Scott,32.74,501
+vt,Westminster County,LUn,50,,Bill Lee,4.64,71
+vt,Westmore County,R,50,,Phil Scott,66.81,147
+vt,Westmore County,D,50,,Sue Minter,28.18,62
+vt,Westmore County,LUn,50,,Bill Lee,5,11
+vt,Weston County,D,50,,Sue Minter,50.72,210
+vt,Weston County,R,50,,Phil Scott,44.2,183
+vt,Weston County,LUn,50,,Bill Lee,5.07,21
+vt,Weybridge County,D,50,,Sue Minter,60.24,338
+vt,Weybridge County,R,50,,Phil Scott,38.68,217
+vt,Weybridge County,LUn,50,,Bill Lee,1.06,6
+vt,Wheelock County,R,50,,Phil Scott,64.97,256
+vt,Wheelock County,D,50,,Sue Minter,31.97,126
+vt,Wheelock County,LUn,50,,Bill Lee,3.04,12
+vt,Whiting County,R,50,,Phil Scott,63.81,127
+vt,Whiting County,D,50,,Sue Minter,31.65,63
+vt,Whiting County,LUn,50,,Bill Lee,4.52,9
+vt,Whitingham County,R,50,,Phil Scott,56.25,360
+vt,Whitingham County,D,50,,Sue Minter,39.53,253
+vt,Whitingham County,LUn,50,,Bill Lee,4.21,27
+vt,Williamstown County,R,50,,Phil Scott,74.72,1144
+vt,Williamstown County,D,50,,Sue Minter,23.31,357
+vt,Williamstown County,LUn,50,,Bill Lee,1.95,30
+vt,Williston County,R,50,,Phil Scott,56.13,3153
+vt,Williston County,D,50,,Sue Minter,42.21,2371
+vt,Williston County,LUn,50,,Bill Lee,1.65,93
+vt,Wilmington County,D,50,,Sue Minter,50.86,530
+vt,Wilmington County,R,50,,Phil Scott,45.1,470
+vt,Wilmington County,LUn,50,,Bill Lee,4.03,42
+vt,Windham County,R,50,50025,Phil Scott,69.14,195
+vt,Windham County,D,50,50025,Sue Minter,26.59,75
+vt,Windham County,LUn,50,50025,Bill Lee,4.25,12
+vt,Windsor County,D,50,50027,Sue Minter,50.95,858
+vt,Windsor County,R,50,50027,Phil Scott,43.58,734
+vt,Windsor County,LUn,50,50027,Bill Lee,5.46,92
+vt,Winhall County,R,50,,Phil Scott,54.24,281
+vt,Winhall County,D,50,,Sue Minter,42.47,220
+vt,Winhall County,LUn,50,,Bill Lee,3.28,17
+vt,Winooski County,D,50,,Sue Minter,62.17,1885
+vt,Winooski County,R,50,,Phil Scott,34.86,1057
+vt,Winooski County,LUn,50,,Bill Lee,2.96,90
+vt,Wolcott County,R,50,,Phil Scott,59.55,477
+vt,Wolcott County,D,50,,Sue Minter,36.82,295
+vt,Wolcott County,LUn,50,,Bill Lee,3.62,29
+vt,Woodbury County,R,50,,Phil Scott,57.33,305
+vt,Woodbury County,D,50,,Sue Minter,38.34,204
+vt,Woodbury County,LUn,50,,Bill Lee,4.32,23
+vt,Woodford County,R,50,,Phil Scott,47.75,85
+vt,Woodford County,D,50,,Sue Minter,46.62,83
+vt,Woodford County,LUn,50,,Bill Lee,5.61,10
+vt,Woodstock County,D,50,,Sue Minter,55.33,1048
+vt,Woodstock County,R,50,,Phil Scott,41.81,792
+vt,Woodstock County,LUn,50,,Bill Lee,2.85,54
+vt,Worcester County,D,50,,Sue Minter,51.08,305
+vt,Worcester County,R,50,,Phil Scott,46.39,277
+vt,Worcester County,LUn,50,,Bill Lee,2.51,15
+wa,Adams County,R,53,53001,Bill Bryant,67.79,2775
+wa,Adams County,D,53,53001,Jay Inslee,32.2,1318
+wa,Asotin County,R,53,53003,Bill Bryant,57.48,5580
+wa,Asotin County,D,53,53003,Jay Inslee,42.51,4127
+wa,Benton County,R,53,53005,Bill Bryant,62.18,49016
+wa,Benton County,D,53,53005,Jay Inslee,37.81,29810
+wa,Chelan County,R,53,53007,Bill Bryant,58.89,16388
+wa,Chelan County,D,53,53007,Jay Inslee,41.1,11437
+wa,Clallam County,R,53,53009,Bill Bryant,50.24,16587
+wa,Clallam County,D,53,53009,Jay Inslee,49.75,16423
+wa,Clark County,R,53,53011,Bill Bryant,51.98,101693
+wa,Clark County,D,53,53011,Jay Inslee,48.01,93938
+wa,Columbia County,R,53,53013,Bill Bryant,68.35,1482
+wa,Columbia County,D,53,53013,Jay Inslee,31.64,686
+wa,Cowlitz County,R,53,53015,Bill Bryant,57.12,26002
+wa,Cowlitz County,D,53,53015,Jay Inslee,42.87,19517
+wa,Douglas County,R,53,53017,Bill Bryant,65.36,7509
+wa,Douglas County,D,53,53017,Jay Inslee,34.63,3978
+wa,Ferry County,R,53,53019,Bill Bryant,62.1,2217
+wa,Ferry County,D,53,53019,Jay Inslee,37.89,1353
+wa,Franklin County,R,53,53021,Bill Bryant,58.91,12303
+wa,Franklin County,D,53,53021,Jay Inslee,41.08,8581
+wa,Garfield County,R,53,53023,Bill Bryant,70.21,865
+wa,Garfield County,D,53,53023,Jay Inslee,29.78,367
+wa,Grant County,R,53,53025,Bill Bryant,67.77,19356
+wa,Grant County,D,53,53025,Jay Inslee,32.22,9203
+wa,Grays Harbor County,R,53,53027,Bill Bryant,51.29,13965
+wa,Grays Harbor County,D,53,53027,Jay Inslee,48.7,13259
+wa,Island County,D,53,53029,Jay Inslee,50.28,21591
+wa,Island County,R,53,53029,Bill Bryant,49.71,21343
+wa,Jefferson County,D,53,53031,Jay Inslee,65.55,13295
+wa,Jefferson County,R,53,53031,Bill Bryant,34.44,6987
+wa,King County,D,53,53033,Jay Inslee,68.08,619041
+wa,King County,R,53,53033,Bill Bryant,31.91,290176
+wa,Kitsap County,D,53,53035,Jay Inslee,52.77,63496
+wa,Kitsap County,R,53,53035,Bill Bryant,47.22,56827
+wa,Kittitas County,R,53,53037,Bill Bryant,58.6,10847
+wa,Kittitas County,D,53,53037,Jay Inslee,41.39,7663
+wa,Klickitat County,R,53,53039,Bill Bryant,58.62,5790
+wa,Klickitat County,D,53,53039,Jay Inslee,41.37,4087
+wa,Lewis County,R,53,53041,Bill Bryant,67.42,17139
+wa,Lewis County,D,53,53041,Jay Inslee,32.57,8281
+wa,Lincoln County,R,53,53043,Bill Bryant,72.01,4145
+wa,Lincoln County,D,53,53043,Jay Inslee,27.98,1611
+wa,Mason County,R,53,53045,Bill Bryant,53.92,15200
+wa,Mason County,D,53,53045,Jay Inslee,46.07,12986
+wa,Okanogan County,R,53,53047,Bill Bryant,57.86,6342
+wa,Okanogan County,D,53,53047,Jay Inslee,42.13,4618
+wa,Pacific County,R,53,53049,Bill Bryant,50.53,5404
+wa,Pacific County,D,53,53049,Jay Inslee,49.46,5289
+wa,Pend Oreille County,R,53,53051,Bill Bryant,63.37,4353
+wa,Pend Oreille County,D,53,53051,Jay Inslee,36.62,2516
+wa,Pierce County,D,53,53053,Jay Inslee,50.19,163866
+wa,Pierce County,R,53,53053,Bill Bryant,49.8,162562
+wa,San Juan County,D,53,53055,Jay Inslee,69.12,7389
+wa,San Juan County,R,53,53055,Bill Bryant,30.87,3301
+wa,Skagit County,R,53,53057,Bill Bryant,50.47,28192
+wa,Skagit County,D,53,53057,Jay Inslee,49.52,27660
+wa,Skamania County,R,53,53059,Bill Bryant,55.61,3074
+wa,Skamania County,D,53,53059,Jay Inslee,44.38,2453
+wa,Snohomish County,D,53,53061,Jay Inslee,52.37,165089
+wa,Snohomish County,R,53,53061,Bill Bryant,47.62,150123
+wa,Spokane County,R,53,53063,Bill Bryant,53.75,113359
+wa,Spokane County,D,53,53063,Jay Inslee,46.24,97520
+wa,Stevens County,R,53,53065,Bill Bryant,68.55,11398
+wa,Stevens County,D,53,53065,Jay Inslee,31.44,5227
+wa,Thurston County,D,53,53067,Jay Inslee,54.74,67726
+wa,Thurston County,R,53,53067,Bill Bryant,45.25,55975
+wa,Wahkiakum County,R,53,53069,Bill Bryant,59.9,1397
+wa,Wahkiakum County,D,53,53069,Jay Inslee,40.09,935
+wa,Walla Walla County,R,53,53071,Bill Bryant,58.07,11431
+wa,Walla Walla County,D,53,53071,Jay Inslee,41.92,8251
+wa,Whatcom County,D,53,53073,Jay Inslee,56.5,61695
+wa,Whatcom County,R,53,53073,Bill Bryant,43.49,47489
+wa,Whitman County,R,53,53075,Bill Bryant,51.55,6361
+wa,Whitman County,D,53,53075,Jay Inslee,48.44,5978
+wa,Yakima County,R,53,53077,Bill Bryant,55.72,40913
+wa,Yakima County,D,53,53077,Jay Inslee,44.27,32504
+wv,Barbour County,R,54,54001,Bill Cole,48.05,2915
+wv,Barbour County,D,54,54001,Jim Justice,44.29,2687
+wv,Barbour County,Mnt,54,54001,Charlotte Pritt,4.31,262
+wv,Barbour County,Lib,54,54001,David Moran,1.81,110
+wv,Barbour County,CST,54,54001,Phil Hudok,1.51,92
+wv,Berkeley County,R,54,54003,Bill Cole,55.21,23069
+wv,Berkeley County,D,54,54003,Jim Justice,35.55,14856
+wv,Berkeley County,Mnt,54,54003,Charlotte Pritt,5.52,2308
+wv,Berkeley County,Lib,54,54003,David Moran,3.06,1280
+wv,Berkeley County,CST,54,54003,Phil Hudok,0.63,267
+wv,Boone County,D,54,54005,Jim Justice,64.27,5636
+wv,Boone County,R,54,54005,Bill Cole,29.75,2609
+wv,Boone County,Mnt,54,54005,Charlotte Pritt,4.52,397
+wv,Boone County,Lib,54,54005,David Moran,1,88
+wv,Boone County,CST,54,54005,Phil Hudok,0.43,38
+wv,Braxton County,D,54,54007,Jim Justice,58.76,2948
+wv,Braxton County,R,54,54007,Bill Cole,34.98,1755
+wv,Braxton County,Mnt,54,54007,Charlotte Pritt,4.86,244
+wv,Braxton County,Lib,54,54007,David Moran,1.11,56
+wv,Braxton County,CST,54,54007,Phil Hudok,0.27,14
+wv,Brooke County,D,54,54009,Jim Justice,48.33,4537
+wv,Brooke County,R,54,54009,Bill Cole,43.24,4059
+wv,Brooke County,Mnt,54,54009,Charlotte Pritt,5.26,494
+wv,Brooke County,Lib,54,54009,David Moran,2.35,221
+wv,Brooke County,CST,54,54009,Phil Hudok,0.79,75
+wv,Cabell County,D,54,54011,Jim Justice,54.46,17945
+wv,Cabell County,R,54,54011,Bill Cole,36.21,11933
+wv,Cabell County,Mnt,54,54011,Charlotte Pritt,6.97,2298
+wv,Cabell County,Lib,54,54011,David Moran,1.9,628
+wv,Cabell County,CST,54,54011,Phil Hudok,0.43,143
+wv,Calhoun County,D,54,54013,Jim Justice,45.63,1187
+wv,Calhoun County,R,54,54013,Bill Cole,44.32,1153
+wv,Calhoun County,Mnt,54,54013,Charlotte Pritt,7.76,202
+wv,Calhoun County,Lib,54,54013,David Moran,1.73,45
+wv,Calhoun County,CST,54,54013,Phil Hudok,0.53,14
+wv,Clay County,D,54,54015,Jim Justice,55.57,1674
+wv,Clay County,R,54,54015,Bill Cole,37.64,1134
+wv,Clay County,Mnt,54,54015,Charlotte Pritt,5.01,151
+wv,Clay County,Lib,54,54015,David Moran,1.22,37
+wv,Clay County,CST,54,54015,Phil Hudok,0.53,16
+wv,Doddridge County,R,54,54017,Bill Cole,60.9,1731
+wv,Doddridge County,D,54,54017,Jim Justice,31.66,900
+wv,Doddridge County,Mnt,54,54017,Charlotte Pritt,4.99,142
+wv,Doddridge County,Lib,54,54017,David Moran,1.93,55
+wv,Doddridge County,CST,54,54017,Phil Hudok,0.49,14
+wv,Fayette County,D,54,54019,Jim Justice,62.1,9545
+wv,Fayette County,R,54,54019,Bill Cole,29.35,4512
+wv,Fayette County,Mnt,54,54019,Charlotte Pritt,6.48,997
+wv,Fayette County,Lib,54,54019,David Moran,1.53,236
+wv,Fayette County,CST,54,54019,Phil Hudok,0.52,80
+wv,Gilmer County,D,54,54021,Jim Justice,46.58,1188
+wv,Gilmer County,R,54,54021,Bill Cole,43.56,1111
+wv,Gilmer County,Mnt,54,54021,Charlotte Pritt,6.62,169
+wv,Gilmer County,Lib,54,54021,David Moran,2.19,56
+wv,Gilmer County,CST,54,54021,Phil Hudok,1.01,26
+wv,Grant County,R,54,54023,Bill Cole,67.41,3196
+wv,Grant County,D,54,54023,Jim Justice,27.61,1309
+wv,Grant County,Lib,54,54023,David Moran,2.36,112
+wv,Grant County,Mnt,54,54023,Charlotte Pritt,2.1,100
+wv,Grant County,CST,54,54023,Phil Hudok,0.5,24
+wv,Greenbrier County,D,54,54025,Jim Justice,60.64,8555
+wv,Greenbrier County,R,54,54025,Bill Cole,30.65,4325
+wv,Greenbrier County,Mnt,54,54025,Charlotte Pritt,7.04,994
+wv,Greenbrier County,Lib,54,54025,David Moran,1.26,179
+wv,Greenbrier County,CST,54,54025,Phil Hudok,0.38,54
+wv,Hampshire County,R,54,54027,Bill Cole,62.07,5201
+wv,Hampshire County,D,54,54027,Jim Justice,30.18,2529
+wv,Hampshire County,Mnt,54,54027,Charlotte Pritt,4.49,377
+wv,Hampshire County,Lib,54,54027,David Moran,2.74,230
+wv,Hampshire County,CST,54,54027,Phil Hudok,0.5,42
+wv,Hancock County,R,54,54029,Bill Cole,48.22,5968
+wv,Hancock County,D,54,54029,Jim Justice,42.78,5295
+wv,Hancock County,Mnt,54,54029,Charlotte Pritt,5.51,683
+wv,Hancock County,Lib,54,54029,David Moran,2.48,308
+wv,Hancock County,CST,54,54029,Phil Hudok,0.97,121
+wv,Hardy County,R,54,54031,Bill Cole,54.26,3215
+wv,Hardy County,D,54,54031,Jim Justice,40.16,2380
+wv,Hardy County,Mnt,54,54031,Charlotte Pritt,3.15,187
+wv,Hardy County,Lib,54,54031,David Moran,1.99,118
+wv,Hardy County,CST,54,54031,Phil Hudok,0.42,25
+wv,Harrison County,D,54,54033,Jim Justice,50.65,14280
+wv,Harrison County,R,54,54033,Bill Cole,42.11,11873
+wv,Harrison County,Mnt,54,54033,Charlotte Pritt,4.5,1270
+wv,Harrison County,Lib,54,54033,David Moran,2.09,590
+wv,Harrison County,CST,54,54033,Phil Hudok,0.62,176
+wv,Jackson County,D,54,54035,Jim Justice,50.47,6166
+wv,Jackson County,R,54,54035,Bill Cole,41.65,5088
+wv,Jackson County,Mnt,54,54035,Charlotte Pritt,6.5,794
+wv,Jackson County,Lib,54,54035,David Moran,1.06,130
+wv,Jackson County,CST,54,54035,Phil Hudok,0.3,37
+wv,Jefferson County,R,54,54037,Bill Cole,48.73,11547
+wv,Jefferson County,D,54,54037,Jim Justice,40.24,9535
+wv,Jefferson County,Mnt,54,54037,Charlotte Pritt,6.82,1617
+wv,Jefferson County,Lib,54,54037,David Moran,3.74,887
+wv,Jefferson County,CST,54,54037,Phil Hudok,0.46,109
+wv,Kanawha County,D,54,54039,Jim Justice,58.62,44393
+wv,Kanawha County,R,54,54039,Bill Cole,31.18,23612
+wv,Kanawha County,Mnt,54,54039,Charlotte Pritt,8.7,6595
+wv,Kanawha County,Lib,54,54039,David Moran,1.2,911
+wv,Kanawha County,CST,54,54039,Phil Hudok,0.27,209
+wv,Lewis County,R,54,54041,Bill Cole,47.35,3279
+wv,Lewis County,D,54,54041,Jim Justice,46.23,3201
+wv,Lewis County,Mnt,54,54041,Charlotte Pritt,4.33,300
+wv,Lewis County,Lib,54,54041,David Moran,1.58,110
+wv,Lewis County,CST,54,54041,Phil Hudok,0.49,34
+wv,Lincoln County,D,54,54043,Jim Justice,57.73,4102
+wv,Lincoln County,R,54,54043,Bill Cole,35.22,2503
+wv,Lincoln County,Mnt,54,54043,Charlotte Pritt,5.62,400
+wv,Lincoln County,Lib,54,54043,David Moran,0.95,68
+wv,Lincoln County,CST,54,54043,Phil Hudok,0.45,32
+wv,Logan County,D,54,54045,Jim Justice,55.54,6761
+wv,Logan County,R,54,54045,Bill Cole,36.81,4482
+wv,Logan County,Mnt,54,54045,Charlotte Pritt,6.44,784
+wv,Logan County,Lib,54,54045,David Moran,0.96,117
+wv,Logan County,CST,54,54045,Phil Hudok,0.23,29
+wv,Marion County,D,54,54049,Jim Justice,52.48,12098
+wv,Marion County,R,54,54049,Bill Cole,38.64,8908
+wv,Marion County,Mnt,54,54049,Charlotte Pritt,5.5,1269
+wv,Marion County,Lib,54,54049,David Moran,2.77,640
+wv,Marion County,CST,54,54049,Phil Hudok,0.58,135
+wv,Marshall County,D,54,54051,Jim Justice,49.54,6441
+wv,Marshall County,R,54,54051,Bill Cole,43.38,5640
+wv,Marshall County,Mnt,54,54051,Charlotte Pritt,4.82,627
+wv,Marshall County,Lib,54,54051,David Moran,1.73,225
+wv,Marshall County,CST,54,54051,Phil Hudok,0.51,67
+wv,Mason County,D,54,54053,Jim Justice,54.32,5534
+wv,Mason County,R,54,54053,Bill Cole,39.58,4033
+wv,Mason County,Mnt,54,54053,Charlotte Pritt,4.45,454
+wv,Mason County,Lib,54,54053,David Moran,1.2,123
+wv,Mason County,CST,54,54053,Phil Hudok,0.42,43
+wv,McDowell County,D,54,54047,Jim Justice,56.11,3448
+wv,McDowell County,R,54,54047,Bill Cole,40.4,2483
+wv,McDowell County,Mnt,54,54047,Charlotte Pritt,2.34,144
+wv,McDowell County,Lib,54,54047,David Moran,0.78,48
+wv,McDowell County,CST,54,54047,Phil Hudok,0.35,22
+wv,Mercer County,R,54,54055,Bill Cole,54.71,12631
+wv,Mercer County,D,54,54055,Jim Justice,40.27,9296
+wv,Mercer County,Mnt,54,54055,Charlotte Pritt,3.43,794
+wv,Mercer County,Lib,54,54055,David Moran,1.19,277
+wv,Mercer County,CST,54,54055,Phil Hudok,0.37,86
+wv,Mineral County,R,54,54057,Bill Cole,61.64,6965
+wv,Mineral County,D,54,54057,Jim Justice,30.41,3436
+wv,Mineral County,Mnt,54,54057,Charlotte Pritt,3.8,430
+wv,Mineral County,Lib,54,54057,David Moran,3.42,387
+wv,Mineral County,CST,54,54057,Phil Hudok,0.7,80
+wv,Mingo County,D,54,54059,Jim Justice,54.85,5143
+wv,Mingo County,R,54,54059,Bill Cole,39.29,3684
+wv,Mingo County,Mnt,54,54059,Charlotte Pritt,4.55,427
+wv,Mingo County,Lib,54,54059,David Moran,1.01,95
+wv,Mingo County,CST,54,54059,Phil Hudok,0.28,27
+wv,Monongalia County,D,54,54061,Jim Justice,44.27,15877
+wv,Monongalia County,R,54,54061,Bill Cole,39.69,14233
+wv,Monongalia County,Mnt,54,54061,Charlotte Pritt,10.99,3942
+wv,Monongalia County,Lib,54,54061,David Moran,4.58,1644
+wv,Monongalia County,CST,54,54061,Phil Hudok,0.45,164
+wv,Monroe County,D,54,54063,Jim Justice,47.65,2732
+wv,Monroe County,R,54,54063,Bill Cole,43.67,2504
+wv,Monroe County,Mnt,54,54063,Charlotte Pritt,7.23,415
+wv,Monroe County,Lib,54,54063,David Moran,1.23,71
+wv,Monroe County,CST,54,54063,Phil Hudok,0.19,11
+wv,Morgan County,R,54,54065,Bill Cole,64.08,4750
+wv,Morgan County,D,54,54065,Jim Justice,25.97,1925
+wv,Morgan County,Mnt,54,54065,Charlotte Pritt,6.86,509
+wv,Morgan County,Lib,54,54065,David Moran,2.63,195
+wv,Morgan County,CST,54,54065,Phil Hudok,0.44,33
+wv,Nicholas County,D,54,54067,Jim Justice,59.98,5713
+wv,Nicholas County,R,54,54067,Bill Cole,34.92,3326
+wv,Nicholas County,Mnt,54,54067,Charlotte Pritt,3.67,350
+wv,Nicholas County,Lib,54,54067,David Moran,0.97,93
+wv,Nicholas County,CST,54,54067,Phil Hudok,0.44,42
+wv,Ohio County,D,54,54069,Jim Justice,46.55,8334
+wv,Ohio County,R,54,54069,Bill Cole,44.63,7991
+wv,Ohio County,Mnt,54,54069,Charlotte Pritt,5.98,1071
+wv,Ohio County,Lib,54,54069,David Moran,2.42,434
+wv,Ohio County,CST,54,54069,Phil Hudok,0.4,73
+wv,Pendleton County,R,54,54071,Bill Cole,49.53,1560
+wv,Pendleton County,D,54,54071,Jim Justice,42.33,1333
+wv,Pendleton County,Mnt,54,54071,Charlotte Pritt,5.2,164
+wv,Pendleton County,Lib,54,54071,David Moran,1.71,54
+wv,Pendleton County,CST,54,54071,Phil Hudok,1.2,38
+wv,Pleasants County,D,54,54073,Jim Justice,53.97,1703
+wv,Pleasants County,R,54,54073,Bill Cole,40.57,1280
+wv,Pleasants County,Mnt,54,54073,Charlotte Pritt,3.45,109
+wv,Pleasants County,Lib,54,54073,David Moran,1.61,51
+wv,Pleasants County,CST,54,54073,Phil Hudok,0.38,12
+wv,Pocahontas County,D,54,54075,Jim Justice,53.54,1956
+wv,Pocahontas County,R,54,54075,Bill Cole,33.39,1220
+wv,Pocahontas County,Mnt,54,54075,Charlotte Pritt,10.37,379
+wv,Pocahontas County,Lib,54,54075,David Moran,1.36,50
+wv,Pocahontas County,CST,54,54075,Phil Hudok,1.31,48
+wv,Preston County,R,54,54077,Bill Cole,52.52,6552
+wv,Preston County,D,54,54077,Jim Justice,31.67,3952
+wv,Preston County,Lib,54,54077,David Moran,10.75,1342
+wv,Preston County,Mnt,54,54077,Charlotte Pritt,4.55,568
+wv,Preston County,CST,54,54077,Phil Hudok,0.48,61
+wv,Putnam County,D,54,54079,Jim Justice,53.32,13176
+wv,Putnam County,R,54,54079,Bill Cole,39.54,9771
+wv,Putnam County,Mnt,54,54079,Charlotte Pritt,5.56,1375
+wv,Putnam County,Lib,54,54079,David Moran,1.28,318
+wv,Putnam County,CST,54,54079,Phil Hudok,0.28,70
+wv,Raleigh County,D,54,54081,Jim Justice,56.4,16657
+wv,Raleigh County,R,54,54081,Bill Cole,37.37,11038
+wv,Raleigh County,Mnt,54,54081,Charlotte Pritt,4.38,1296
+wv,Raleigh County,Lib,54,54081,David Moran,1.29,381
+wv,Raleigh County,CST,54,54081,Phil Hudok,0.53,159
+wv,Randolph County,D,54,54083,Jim Justice,46.78,5093
+wv,Randolph County,R,54,54083,Bill Cole,41.15,4481
+wv,Randolph County,Mnt,54,54083,Charlotte Pritt,5.21,568
+wv,Randolph County,CST,54,54083,Phil Hudok,5.05,550
+wv,Randolph County,Lib,54,54083,David Moran,1.79,195
+wv,Ritchie County,R,54,54085,Bill Cole,62.35,2506
+wv,Ritchie County,D,54,54085,Jim Justice,31.57,1269
+wv,Ritchie County,Mnt,54,54085,Charlotte Pritt,4,161
+wv,Ritchie County,Lib,54,54085,David Moran,1.59,64
+wv,Ritchie County,CST,54,54085,Phil Hudok,0.47,19
+wv,Roane County,D,54,54087,Jim Justice,52.59,2785
+wv,Roane County,R,54,54087,Bill Cole,39.41,2087
+wv,Roane County,Mnt,54,54087,Charlotte Pritt,6.27,332
+wv,Roane County,Lib,54,54087,David Moran,1.26,67
+wv,Roane County,CST,54,54087,Phil Hudok,0.45,24
+wv,Summers County,D,54,54089,Jim Justice,55.22,2721
+wv,Summers County,R,54,54089,Bill Cole,36.26,1787
+wv,Summers County,Mnt,54,54089,Charlotte Pritt,6.79,335
+wv,Summers County,Lib,54,54089,David Moran,1.42,70
+wv,Summers County,CST,54,54089,Phil Hudok,0.28,14
+wv,Taylor County,R,54,54091,Bill Cole,46.82,3077
+wv,Taylor County,D,54,54091,Jim Justice,45.56,2994
+wv,Taylor County,Mnt,54,54091,Charlotte Pritt,4.09,269
+wv,Taylor County,Lib,54,54091,David Moran,3.01,198
+wv,Taylor County,CST,54,54091,Phil Hudok,0.5,33
+wv,Tucker County,R,54,54093,Bill Cole,46.23,1604
+wv,Tucker County,D,54,54093,Jim Justice,42.6,1478
+wv,Tucker County,Mnt,54,54093,Charlotte Pritt,5.3,184
+wv,Tucker County,Lib,54,54093,David Moran,4.49,156
+wv,Tucker County,CST,54,54093,Phil Hudok,1.35,47
+wv,Tyler County,R,54,54095,Bill Cole,53.75,1952
+wv,Tyler County,D,54,54095,Jim Justice,39.68,1441
+wv,Tyler County,Mnt,54,54095,Charlotte Pritt,4.02,146
+wv,Tyler County,Lib,54,54095,David Moran,1.7,62
+wv,Tyler County,CST,54,54095,Phil Hudok,0.82,30
+wv,Upshur County,R,54,54097,Bill Cole,51.29,4698
+wv,Upshur County,D,54,54097,Jim Justice,40.53,3712
+wv,Upshur County,Mnt,54,54097,Charlotte Pritt,5.2,477
+wv,Upshur County,Lib,54,54097,David Moran,1.89,174
+wv,Upshur County,CST,54,54097,Phil Hudok,1.05,97
+wv,Wayne County,D,54,54099,Jim Justice,55.75,8494
+wv,Wayne County,R,54,54099,Bill Cole,38,5790
+wv,Wayne County,Mnt,54,54099,Charlotte Pritt,4.32,659
+wv,Wayne County,Lib,54,54099,David Moran,1.41,215
+wv,Wayne County,CST,54,54099,Phil Hudok,0.5,77
+wv,Webster County,D,54,54101,Jim Justice,49.12,1461
+wv,Webster County,R,54,54101,Bill Cole,42.36,1260
+wv,Webster County,Mnt,54,54101,Charlotte Pritt,5.68,169
+wv,Webster County,Lib,54,54101,David Moran,1.74,52
+wv,Webster County,CST,54,54101,Phil Hudok,1.07,32
+wv,Wetzel County,D,54,54103,Jim Justice,51.56,3204
+wv,Wetzel County,R,54,54103,Bill Cole,40.44,2513
+wv,Wetzel County,Mnt,54,54103,Charlotte Pritt,5.05,314
+wv,Wetzel County,Lib,54,54103,David Moran,1.8,112
+wv,Wetzel County,CST,54,54103,Phil Hudok,1.12,70
+wv,Wirt County,D,54,54105,Jim Justice,48.01,1161
+wv,Wirt County,R,54,54105,Bill Cole,45.65,1104
+wv,Wirt County,Mnt,54,54105,Charlotte Pritt,4.21,102
+wv,Wirt County,Lib,54,54105,David Moran,1.73,42
+wv,Wirt County,CST,54,54105,Phil Hudok,0.37,9
+wv,Wood County,D,54,54107,Jim Justice,48.25,17068
+wv,Wood County,R,54,54107,Bill Cole,44.69,15809
+wv,Wood County,Mnt,54,54107,Charlotte Pritt,4.62,1635
+wv,Wood County,Lib,54,54107,David Moran,2.04,722
+wv,Wood County,CST,54,54107,Phil Hudok,0.39,139
+wv,Wyoming County,D,54,54109,Jim Justice,61.66,4827
+wv,Wyoming County,R,54,54109,Bill Cole,33.64,2634
+wv,Wyoming County,Mnt,54,54109,Charlotte Pritt,3.41,267
+wv,Wyoming County,Lib,54,54109,David Moran,0.97,76
+wv,Wyoming County,CST,54,54109,Phil Hudok,0.3,24

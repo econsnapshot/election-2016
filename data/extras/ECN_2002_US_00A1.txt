@@ -1,0 +1,89 @@
+EC0200A1
+All sectors: Geographic Area Series: Economy-Wide Key Statistics: 2002
+
+[NOTE. Data based on the 2002 Economic Census. For information on
+confidentiality protection, sampling error, nonsampling error, and
+definitions, see 
+Survey
+Methodology. Data in this table represent those available when
+this report was created; data may not be available for all NAICS
+industries or geographies. Data in this table may be subject to
+employment- and/or sales-size minimums that vary by industry.]
+
+
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+g	1,000 to 2,499 employees
+
+c	100 to 249 employees
+
+a	0 to 19 employees
+
+N	Not available or not comparable
+
+b	20 to 99 employees
+
+e	250 to 499 employees
+
+f	500 to 999 employees
+
+j	10,000 to 24,999 employees
+
+i	5,000 to 9,999 employees
+
+h	2,500 to 4,999 employees
+
+(r)	Revised
+
+l	50,000 to 99,999 employees
+
+k	25,000 to 49,999 employees
+
+m	100,000 employees or more
+
+UNIVERSE DESCRIPTION
+The universe of this file is all operating establishments with
+one or more paid employees. This universe includes all
+establishments classified in the North American Industry
+Classification System (NAICS) Codes 21 through 813990.
+DATA ITEMS
+This file contains data on:
+
+  Number of establishments
+  Sales, receipts, revenue, shipments, or business done
+  Annual payroll
+  Total employment
+
+GEOGRAPHIC COVERAGE
+The data are shown at the U.S. level and by State, county,
+place, and Metropolitan Area.
+INDUSTRY DETAIL
+The data are shown at the 2- through 6-digit NAICS code levels
+for all sectors.
+OTHER VARIABLES IDENTIFYING RECORDS
+For the Wholesale sector, data are published for Total Wholesale
+Trade and for Merchant Wholesalers. For the Services sectors, data
+are published for All Establishments, as well as Taxable and Tax
+Exempt Establishments.
+RELEASE SCHEDULE
+The data in this file correspond to Industry Series and
+Geographic Area Series reports that will be released starting in
+May 2004 and ending in June 2005.
+RELATED DATA FILES
+Economy-wide data on products and sales size are released in the
+Economy-Wide Products Statistics (EC0200SL1) and Economy-Wide Size
+Statistics (EC0200SS1) data files.
+CORRESPONDENCE TO PDF REPORTS
+These data are exactly the same as are shown in the PDF-format
+Industry and Geographic Area Series reports. These reports are
+available on the Census Bureau's Internet site at
+www.census.gov.
+DATA LIMITATIONS
+There are no special limitations to these data.
+FILE SEQUENCE
+Data are presented in ascending Geography by NAICS Code.
+
+
+
+

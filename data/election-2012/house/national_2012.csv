@@ -1,0 +1,1192 @@
+State,County,Party,St_FIPS,County_FIPS,Candidate,Votes,Percentage
+ak,At-Large,GOP,02,,,Winner D. Young (i),64.4%,   156994
+ak,At-Large,Dem,02,,,S. Cissna,28.6%,    69723
+ak,At-Large,Lib,02,,,J. McDermott,5.1%,    12532
+ak,At-Large,NPD,02,,,T. Gianoutsos,1.9%,     4614
+al,1st District,GOP,01,,,Winner J. Bonner (i),0.0%,        0
+al,2nd District,GOP,01,,,Winner M. Roby (i),63.7%,   180339
+al,2nd District,Dem,01,,,T. Ford,36.3%,   102836
+al,3rd District,GOP,01,,,Winner M. Rogers (i),64.1%,   174931
+al,3rd District,Dem,01,,,J. Harris,35.9%,    97868
+al,4th District,GOP,01,,,Winner R. Aderholt (i),74.0%,   197736
+al,4th District,Dem,01,,,D. Boman,26.0%,    69427
+al,5th District,GOP,01,,,Winner M. Brooks (i),65.0%,   188833
+al,5th District,Dem,01,,,C. Holley,35.0%,   101504
+al,6th District,GOP,01,,,Winner S. Bachus (i),71.4%,   215966
+al,6th District,Dem,01,,,P. Bailey,28.6%,    86698
+al,7th District,Dem,01,,,Winner T. Sewell (i),75.8%,   230077
+al,7th District,GOP,01,,,D. Chamberlain,24.2%,    73292
+ar,1st District,GOP,05,,,Winner R. Crawford (i),56.4%,   137668
+ar,1st District,Dem,05,,,S. Ellington,39.0%,    95244
+ar,1st District,Lib,05,,,J. Paxton,2.6%,     6371
+ar,1st District,Grn,05,,,J. Holloway,2.0%,     4975
+ar,2nd District,GOP,05,,,Winner T. Griffin (i),55.2%,   157978
+ar,2nd District,Dem,05,,,H. Rule,39.5%,   112934
+ar,2nd District,Grn,05,,,B. Ward,3.0%,     8543
+ar,2nd District,Lib,05,,,C. Hayes,2.3%,     6688
+ar,3rd District,GOP,05,,,Winner S. Womack (i),75.8%,   179732
+ar,3rd District,Grn,05,,,R. Kennedy,16.1%,    38244
+ar,3rd District,Lib,05,,,D. Pangrac,8.1%,    19116
+ar,4th District,GOP,05,,,Winner T. Cotton,59.5%,   153096
+ar,4th District,Dem,05,,,G. Jeffress,36.7%,    94505
+ar,4th District,Grn,05,,,J. Drake,1.9%,     4975
+ar,4th District,Lib,05,,,B. Tullis,1.9%,     4944
+az,1st District,Dem,04,,,Winner A. Kirkpatrick,48.6%,   117422
+az,1st District,GOP,04,,,J. Paton,45.4%,   109508
+az,1st District,Lib,04,,,K. Allen,6.0%,    14450
+az,2nd District,Dem,04,,,Winner R. Barber (i),50.1%,   137993
+az,2nd District,GOP,04,,,M. McSally,49.9%,   137339
+az,3rd District,Dem,04,,,Winner R. Grijalva (i),57.8%,    89278
+az,3rd District,GOP,04,,,G. Saucedo Mercer,37.7%,    58258
+az,3rd District,Lib,04,,,B. Guerra,4.4%,     6808
+az,4th District,GOP,04,,,Winner P. Gosar (i),67.0%,   156369
+az,4th District,Dem,04,,,J. Robinson,28.3%,    66064
+az,4th District,Lib,04,,,J. Pamelia,3.7%,     8746
+az,4th District,AmE,04,,,R. Grayson,1.0%,     2219
+az,5th District,GOP,04,,,Winner M. Salmon,67.6%,   166897
+az,5th District,Dem,04,,,S. Morgan,32.4%,    79966
+az,6th District,GOP,04,,,Winner D. Schweikert (i),61.6%,   163755
+az,6th District,Dem,04,,,M. Jette,33.2%,    88151
+az,6th District,Lib,04,,,J. Anderson,3.3%,     8886
+az,6th District,Grn,04,,,M. Salazar,1.8%,     4837
+az,7th District,Dem,04,,,Winner E. Pastor (i),81.2%,    89543
+az,7th District,Lib,04,,,J. Cobb,18.8%,    20721
+az,8th District,GOP,04,,,Winner T. Franks (i),63.7%,   157517
+az,8th District,Dem,04,,,G. Scharer,34.8%,    86047
+az,8th District,AmE,04,,,S. Dolgos,1.5%,     3806
+az,9th District,Dem,04,,,Winner K. Sinema,48.3%,   108056
+az,9th District,GOP,04,,,V. Parker,45.2%,   101089
+az,9th District,Lib,04,,,P. Gammill,6.4%,    14361
+ca,1st District,GOP,06,,,Winner D. La Malfa,58.1%,   139404
+ca,1st District,Dem,06,,,J. Reed,41.9%,   100394
+ca,2nd District,Dem,06,,,Winner J. Huffman,70.4%,   169637
+ca,2nd District,GOP,06,,,D. Roberts,29.6%,    71258
+ca,3rd District,Dem,06,,,Winner J. Garamendi (i),53.9%,   105831
+ca,3rd District,GOP,06,,,K. Vann,46.1%,    90489
+ca,4th District,GOP,06,,,Winner T. McClintock (i),61.2%,   166291
+ca,4th District,Dem,06,,,J. Uppal,38.8%,   105496
+ca,5th District,Dem,06,,,Winner M. Thompson (i),74.2%,   157220
+ca,5th District,GOP,06,,,R. Loftin,25.8%,    54671
+ca,6th District,Dem,06,,,Winner D. Matsui (i),74.6%,   135081
+ca,6th District,GOP,06,,,J. McCray,25.4%,    45928
+ca,7th District,Dem,06,,,Winner A. Bera,50.8%,   119726
+ca,7th District,GOP,06,,,D. Lungren (i),49.2%,   115902
+ca,8th District,GOP,06,,,Winner P. Cook,57.6%,    95962
+ca,8th District,GOP,06,,,G. Imus,42.4%,    70608
+ca,9th District,Dem,06,,,Winner J. McNerney (i),54.7%,   103044
+ca,9th District,GOP,06,,,R. Gill,45.3%,    85345
+ca,10th District,GOP,06,,,Winner J. Denham (i),53.5%,   103342
+ca,10th District,Dem,06,,,J. Hernandez,46.5%,    89718
+ca,11th District,Dem,06,,,Winner G. Miller (i),69.1%,   165830
+ca,11th District,GOP,06,,,V. Fuller,30.9%,    74017
+ca,12th District,Dem,06,,,Winner N. Pelosi (i),84.9%,   237116
+ca,12th District,GOP,06,,,J. Dennis,15.1%,    42102
+ca,13th District,Dem,06,,,Winner B. Lee (i),86.6%,   241902
+ca,13th District,NPD,06,,,M. Singleton,13.4%,    37311
+ca,14th District,Dem,06,,,Winner J. Speier (i),74.2%,   150716
+ca,14th District,GOP,06,,,D. Bacigalupi,25.8%,    52465
+ca,15th District,Dem,06,,,Winner E. Swalwell,52.2%,   115694
+ca,15th District,Dem,06,,,P. Stark (i),47.8%,   105872
+ca,16th District,Dem,06,,,Winner J. Costa (i),55.1%,    60535
+ca,16th District,GOP,06,,,B. Whelan,44.9%,    49421
+ca,17th District,Dem,06,,,Winner M. Honda (i),73.3%,   145371
+ca,17th District,GOP,06,,,E. Li,26.7%,    52869
+ca,18th District,Dem,06,,,Winner A. Eshoo (i),70.2%,   185882
+ca,18th District,GOP,06,,,D. Chapman,29.8%,    79014
+ca,19th District,Dem,06,,,Winner Z. Lofgren (i),72.9%,   147918
+ca,19th District,GOP,06,,,R. Murray,27.1%,    54986
+ca,20th District,Dem,06,,,Winner S. Farr (i),72.8%,   113536
+ca,20th District,GOP,06,,,J. Taylor,27.2%,    42325
+ca,21st District,GOP,06,,,Winner D. Valadao,58.9%,    55130
+ca,21st District,Dem,06,,,J. Hernandez,41.1%,    38402
+ca,22nd District,GOP,06,,,Winner D. Nunes (i),62.9%,    99973
+ca,22nd District,Dem,06,,,O. Lee,37.1%,    59036
+ca,23rd District,GOP,06,,,Winner K. McCarthy (i),73.9%,   144477
+ca,23rd District,NPD,06,,,T. Phillips,26.1%,    51101
+ca,24th District,Dem,06,,,Winner L. Capps (i),54.8%,   143317
+ca,24th District,GOP,06,,,A. Maldonado,45.2%,   118225
+ca,25th District,GOP,06,,,Winner B. McKeon (i),55.6%,   111938
+ca,25th District,Dem,06,,,L. Rogers,44.4%,    89460
+ca,26th District,Dem,06,,,Winner J. Brownley,52.0%,   120881
+ca,26th District,GOP,06,,,T. Strickland,48.0%,   111562
+ca,27th District,Dem,06,,,Winner J. Chu (i),63.3%,   134239
+ca,27th District,GOP,06,,,J. Orswell,36.7%,    77817
+ca,28th District,Dem,06,,,Winner A. Schiff (i),75.7%,   154348
+ca,28th District,GOP,06,,,P. Jennerjahn,24.3%,    49501
+ca,29th District,Dem,06,,,Winner T. Cardenas,74.0%,    86848
+ca,29th District,NPD,06,,,D. Hernandez,26.0%,    30463
+ca,30th District,Dem,06,,,Winner B. Sherman (i),60.4%,   117374
+ca,30th District,Dem,06,,,H. Berman (i),39.6%,    77003
+ca,31st District,GOP,06,,,Winner G. Miller (i),55.2%,    82212
+ca,31st District,GOP,06,,,B. Dutton,44.8%,    66603
+ca,32nd District,Dem,06,,,Winner G. Napolitano (i),64.9%,   105219
+ca,32nd District,GOP,06,,,D. Miller,35.1%,    56994
+ca,33rd District,Dem,06,,,Winner H. Waxman (i),53.2%,   142142
+ca,33rd District,NPD,06,,,B. Bloomfield,46.8%,   124881
+ca,34th District,Dem,06,,,Winner X. Becerra (i),85.4%,    94835
+ca,34th District,GOP,06,,,S. Smith,14.6%,    16171
+ca,35th District,Dem,06,,,Winner G. McLeod,55.9%,    72562
+ca,35th District,Dem,06,,,J. Baca (i),44.1%,    57304
+ca,36th District,Dem,06,,,Winner R. Ruiz,51.9%,    98843
+ca,36th District,GOP,06,,,M. Bono Mack (i),48.1%,    91507
+ca,37th District,Dem,06,,,Winner K. Bass (i),86.3%,   162856
+ca,37th District,GOP,06,,,M. Osborne,13.7%,    25925
+ca,38th District,Dem,06,,,Winner L. Sanchez (i),66.7%,   124503
+ca,38th District,GOP,06,,,B. Campos,33.3%,    62041
+ca,39th District,GOP,06,,,Winner E. Royce (i),58.8%,   135261
+ca,39th District,Dem,06,,,J. Chen,41.2%,    94683
+ca,40th District,Dem,06,,,Winner L. Roybal-Allard (i),59.6%,    62640
+ca,40th District,Dem,06,,,D. Sanchez,40.4%,    42472
+ca,41st District,Dem,06,,,Winner M. Takano,57.6%,    89599
+ca,41st District,GOP,06,,,J. Tavaglione,42.4%,    65990
+ca,42nd District,GOP,06,,,Winner K. Calvert (i),61.1%,   117407
+ca,42nd District,Dem,06,,,M. Williamson,38.9%,    74776
+ca,43rd District,Dem,06,,,Winner M. Waters (i),70.4%,   114887
+ca,43rd District,Dem,06,,,B. Flores,29.6%,    48271
+ca,44th District,Dem,06,,,Winner J. Hahn (i),60.1%,    82577
+ca,44th District,Dem,06,,,L. Richardson (i),39.9%,    54852
+ca,45th District,GOP,06,,,Winner J. Campbell (i),59.1%,   161469
+ca,45th District,Dem,06,,,S. Kang,40.9%,   111837
+ca,46th District,Dem,06,,,Winner L. Sanchez (i),61.8%,    80605
+ca,46th District,GOP,06,,,J. Hayden,38.2%,    49814
+ca,47th District,Dem,06,,,Winner A. Lowenthal,55.3%,   111529
+ca,47th District,GOP,06,,,G. Delong,44.7%,    90060
+ca,48th District,GOP,06,,,Winner D. Rohrabacher (i),61.3%,   164244
+ca,48th District,Dem,06,,,R. Varasteh,38.7%,   103547
+ca,49th District,GOP,06,,,Winner D. Issa (i),58.8%,   139127
+ca,49th District,Dem,06,,,J. Tetalman,41.2%,    97454
+ca,50th District,GOP,06,,,Winner D. Hunter (i),68.2%,   150369
+ca,50th District,Dem,06,,,D. Secor,31.8%,    70228
+ca,51st District,Dem,06,,,Winner J. Vargas,70.0%,    85672
+ca,51st District,GOP,06,,,M. Crimmins,30.0%,    36649
+ca,52nd District,Dem,06,,,Winner S. Peters,50.5%,   124746
+ca,52nd District,GOP,06,,,B. Bilbray (i),49.5%,   122086
+ca,53rd District,Dem,06,,,Winner S. Davis (i),60.6%,   135014
+ca,53rd District,GOP,06,,,N. Popaditch,39.4%,    87950
+co,1st District,Dem,08,,,Winner D. DeGette (i),68.1%,   225138
+co,1st District,GOP,08,,,D. Stroud,27.0%,    89297
+co,1st District,Lib,08,,,F. Atwood,3.5%,    11623
+co,1st District,Grn,08,,,G. Swing,1.3%,     4422
+co,2nd District,Dem,08,,,Winner J. Polis (i),56.0%,   222367
+co,2nd District,GOP,08,,,K. Lundberg,38.6%,   153305
+co,2nd District,Lib,08,,,R. Luallin,3.1%,    12376
+co,2nd District,Grn,08,,,S. Hall,2.4%,     9346
+co,3rd District,GOP,08,,,Winner S. Tipton (i),53.5%,   179745
+co,3rd District,Dem,08,,,S. Pace,41.1%,   138242
+co,3rd District,Una,08,,,T. Casida,3.1%,    10538
+co,3rd District,Lib,08,,,G. Gilman,2.3%,     7758
+co,4th District,GOP,08,,,Winner C. Gardner (i),58.6%,   189757
+co,4th District,Dem,08,,,B. Shaffer,36.7%,   118920
+co,4th District,Lib,08,,,J. Gilliland,3.0%,     9776
+co,4th District,AmC,08,,,D. Aden,1.7%,     5423
+co,5th District,GOP,08,,,Winner D. Lamborn (i),65.3%,   191198
+co,5th District,Una,08,,,D. Anderson,17.4%,    50876
+co,5th District,Lib,08,,,J. Pirtle,7.3%,    21373
+co,5th District,Grn,08,,,M. Luzov,5.9%,    17218
+co,5th District,AmC,08,,,K. Harvell,4.2%,    12324
+co,6th District,GOP,08,,,Winner M. Coffman (i),48.7%,   150587
+co,6th District,Dem,08,,,J. Miklosi,45.1%,   139439
+co,6th District,Una,08,,,K. Polhemus,3.8%,    11901
+co,6th District,Lib,08,,,P. Provost,2.4%,     7465
+co,7th District,Dem,08,,,Winner E. Perlmutter (i),53.3%,   171874
+co,7th District,GOP,08,,,J. Coors,41.2%,   132727
+co,7th District,AmC,08,,,D. Campbell,3.0%,     9517
+co,7th District,Lib,08,,,B. Bailey,2.6%,     8404
+ct,1st District,Dem,09,,,Winner J. Larson (i),69.6%,   203159
+ct,1st District,GOP,09,,,J. Decker,27.8%,    81246
+ct,1st District,Grn,09,,,M. DeRosa,1.8%,     5387
+ct,1st District,PEC,09,,,M. Corey,0.8%,     2270
+ct,2nd District,Dem,09,,,Winner J. Courtney (i),68.3%,   204490
+ct,2nd District,GOP,09,,,P. Formica,29.3%,    87715
+ct,2nd District,Grn,09,,,C. Bennett,1.2%,     3645
+ct,2nd District,Lib,09,,,D. Reale,1.2%,     3520
+ct,3rd District,Dem,09,,,Winner R. DeLauro (i),74.6%,   215702
+ct,3rd District,GOP,09,,,W. Winsley,25.4%,    73633
+ct,4th District,Dem,09,,,Winner J. Himes (i),59.8%,   171403
+ct,4th District,GOP,09,,,S. Obsitnik,40.2%,   115052
+ct,5th District,Dem,09,,,Winner E. Esty,51.5%,   142912
+ct,5th District,GOP,09,,,A. Roraback,48.5%,   134489
+de,At-Large,Dem,10,,,Winner J. Carney (i),64.4%,   249905
+de,At-Large,GOP,10,,,T. Kovach,33.4%,   129749
+de,At-Large,Grn,10,,,B. August,1.1%,     4273
+de,At-Large,Lib,10,,,S. Gesty,1.1%,     4096
+fl,1st District,GOP,12,,,Winner J. Miller (i),69.6%,   238363
+fl,1st District,Dem,12,,,J. Bryan,27.1%,    92907
+fl,1st District,Lib,12,,,C. Fretts,3.3%,    11165
+fl,2nd District,GOP,12,,,Winner S. Southerland (i),52.7%,   175842
+fl,2nd District,Dem,12,,,A. Lawson,47.3%,   157599
+fl,3rd District,GOP,12,,,Winner T. Yoho,64.7%,   204285
+fl,3rd District,Dem,12,,,J. Gaillot,32.5%,   102427
+fl,3rd District,NPA,12,,,P. Dodds,2.8%,     8866
+fl,4th District,GOP,12,,,Winner A. Crenshaw (i),76.1%,   239953
+fl,4th District,NPA,12,,,J. Klauder,23.9%,    75229
+fl,5th District,Dem,12,,,Winner C. Brown (i),70.8%,   190650
+fl,5th District,GOP,12,,,L. Kolb,26.3%,    70766
+fl,5th District,NPA,12,,,E. Fleming,3.0%,     7986
+fl,6th District,GOP,12,,,Winner R. DeSantis,57.2%,   195933
+fl,6th District,Dem,12,,,H. Beaven,42.8%,   146447
+fl,7th District,GOP,12,,,Winner J. Mica (i),58.7%,   185569
+fl,7th District,Dem,12,,,J. Kendall,41.3%,   130509
+fl,8th District,GOP,12,,,Winner B. Posey (i),58.9%,   205357
+fl,8th District,Dem,12,,,S. Roberts,37.5%,   130808
+fl,8th District,NPA,12,,,R. Gillmor,3.6%,    12600
+fl,9th District,Dem,12,,,Winner A. Grayson,62.5%,   165098
+fl,9th District,GOP,12,,,T. Long,37.5%,    98984
+fl,10th District,GOP,12,,,Winner D. Webster (i),51.8%,   164873
+fl,10th District,Dem,12,,,V. Demings,48.2%,   153646
+fl,11th District,GOP,12,,,Winner R. Nugent (i),64.5%,   218315
+fl,11th District,Dem,12,,,D. Werder,35.5%,   120253
+fl,12th District,GOP,12,,,Winner G. Bilirakis (i),63.5%,   209484
+fl,12th District,Dem,12,,,J. Snow,32.9%,   108663
+fl,12th District,NPA,12,,,J. Russell,2.1%,     6865
+fl,12th District,NPA,12,,,P. Elliott,1.5%,     4914
+fl,13th District,GOP,12,,,Winner B. Young (i),57.6%,   189552
+fl,13th District,Dem,12,,,J. Ehrlich,42.4%,   139671
+fl,14th District,Dem,12,,,Winner K. Castor (i),70.3%,   196993
+fl,14th District,GOP,12,,,E. Otero,29.7%,    83385
+fl,15th District,GOP,12,,,Winner D. Ross (i),0.0%,        0
+fl,16th District,GOP,12,,,Winner V. Buchanan (i),53.6%,   187123
+fl,16th District,Dem,12,,,K. Fitzgerald,46.4%,   161875
+fl,17th District,GOP,12,,,Winner T. Rooney (i),58.6%,   165439
+fl,17th District,Dem,12,,,W. Bronson,41.4%,   116730
+fl,18th District,Dem,12,,,Winner P. Murphy,50.3%,   166223
+fl,18th District,GOP,12,,,A. West (i),49.7%,   164316
+fl,19th District,GOP,12,,,Winner T. Radel,62.0%,   189771
+fl,19th District,Dem,12,,,J. Roach,35.8%,   109685
+fl,19th District,NPA,12,,,B. Smith,2.2%,     6630
+fl,20th District,Dem,12,,,Winner A. Hastings (i),87.9%,   214245
+fl,20th District,NPA,12,,,R. Terry,12.1%,    29481
+fl,21st District,Dem,12,,,Winner T. Deutch (i),77.8%,   221188
+fl,21st District,NPA,12,,,M. Trout,13.3%,    37764
+fl,21st District,NPA,12,,,C. Henao,8.9%,    25358
+fl,22nd District,Dem,12,,,Winner L. Frankel,54.6%,   170899
+fl,22nd District,GOP,12,,,A. Hasner,45.4%,   141946
+fl,23rd District,Dem,12,,,Winner D. Wasserman Schultz (i),63.2%,   174071
+fl,23rd District,GOP,12,,,K. Harrington,35.6%,    98024
+fl,23rd District,NPA,12,,,I. Katz,1.1%,     3124
+fl,24th District,Dem,12,,,Winner F. Wilson (i),0.0%,        0
+fl,25th District,GOP,12,,,Winner M. Diaz-Balart (i),75.7%,   151361
+fl,25th District,NPA,12,,,S. Blumenthal,15.8%,    31628
+fl,25th District,NPA,12,,,VoteForEddie.com,8.5%,    17081
+fl,26th District,Dem,12,,,Winner J. Garcia,53.6%,   135551
+fl,26th District,GOP,12,,,D. Rivera (i),43.0%,   108737
+fl,26th District,NPA,12,,,A. Fernandez,2.3%,     5721
+fl,26th District,NPA,12,,,J. Peixoto,1.1%,     2715
+fl,27th District,GOP,12,,,Winner I. Ros-Lehtinen (i),60.2%,   138345
+fl,27th District,Dem,12,,,M. Yevancey,36.9%,    84899
+fl,27th District,NPA,12,,,T. Cruz-Wiggins,2.9%,     6653
+ga,1st District,GOP,13,,,Winner J. Kingston (i),63.0%,   156958
+ga,1st District,Dem,13,,,L. Messinger,37.0%,    92173
+ga,2nd District,Dem,13,,,Winner S. Bishop (i),63.7%,   162244
+ga,2nd District,GOP,13,,,J. House,36.3%,    92275
+ga,3rd District,GOP,13,,,Winner L. Westmoreland (i),0.0%,        0
+ga,4th District,Dem,13,,,Winner H. Johnson (i),73.6%,   208395
+ga,4th District,GOP,13,,,J. Vaughn,26.4%,    74909
+ga,5th District,Dem,13,,,Winner J. Lewis (i),84.3%,   230271
+ga,5th District,GOP,13,,,H. Stopeck,15.7%,    42751
+ga,6th District,GOP,13,,,Winner T. Price (i),64.5%,   187299
+ga,6th District,Dem,13,,,J. Kazanow,35.5%,   102914
+ga,7th District,GOP,13,,,Winner R. Woodall (i),62.2%,   156484
+ga,7th District,Dem,13,,,S. Reilly,37.8%,    95056
+ga,8th District,GOP,13,,,Winner A. Scott (i),0.0%,        0
+ga,9th District,GOP,13,,,Winner D. Collins,76.2%,   190456
+ga,9th District,Dem,13,,,J. Cooley,23.8%,    59449
+ga,10th District,GOP,13,,,Winner P. Broun (i),0.0%,        0
+ga,11th District,GOP,13,,,Winner P. Gingrey (i),68.6%,   196512
+ga,11th District,Dem,13,,,P. Thompson,31.4%,    89892
+ga,12th District,Dem,13,,,Winner J. Barrow (i),53.7%,   138965
+ga,12th District,GOP,13,,,L. Anderson,46.3%,   119857
+ga,13th District,Dem,13,,,Winner D. Scott (i),71.7%,   200670
+ga,13th District,GOP,13,,,S. Malik,28.3%,    79201
+ga,14th District,GOP,13,,,Winner T. Graves (i),73.0%,   159698
+ga,14th District,Dem,13,,,D. Grant,27.0%,    59098
+hi,1st District,Dem,15,,,Winner C. Hanabusa (i),54.6%,   114756
+hi,1st District,GOP,15,,,C. Djou,45.4%,    95431
+hi,2nd District,Dem,15,,,Winner T. Gabbard,80.6%,   167085
+hi,2nd District,GOP,15,,,K. Crowley,19.4%,    40285
+ia,1st District,Dem,19,,,Winner B. Braley (i),56.9%,   220795
+ia,1st District,GOP,19,,,B. Lange,41.7%,   161864
+ia,1st District,Ind,19,,,G. Hughes,1.2%,     4739
+ia,1st District,Ind,19,,,G. Krail,0.2%,      932
+ia,2nd District,Dem,19,,,Winner D. Loebsack (i),55.4%,   209551
+ia,2nd District,GOP,19,,,J. Archer,42.5%,   160717
+ia,2nd District,Ind,19,,,A. Aversa,2.2%,     8238
+ia,3rd District,GOP,19,,,Winner T. Latham (i),52.3%,   201457
+ia,3rd District,Dem,19,,,L. Boswell (i),43.6%,   167965
+ia,3rd District,Ind,19,,,S. Batcher,2.4%,     9319
+ia,3rd District,SWP,19,,,D. Rosenfeld,1.6%,     6261
+ia,4th District,GOP,19,,,Winner S. King (i),53.2%,   200831
+ia,4th District,Dem,19,,,C. Vilsack,44.6%,   168323
+ia,4th District,Ind,19,,,M. Monroe,2.1%,     8067
+id,1st District,GOP,16,,,Winner R. Labrador (i),63.0%,   199445
+id,1st District,Dem,16,,,J. Farris,30.8%,    97403
+id,1st District,Lib,16,,,R. Oates,3.9%,    12264
+id,1st District,Ind,16,,,Pro-Life,2.4%,     7600
+id,2nd District,GOP,16,,,Winner M. Simpson (i),65.2%,   207244
+id,2nd District,Dem,16,,,N. LeFavour,34.8%,   110817
+il,1st District,Dem,17,,,Winner B. Rush (i),73.9%,   225098
+il,1st District,GOP,17,,,D. Peloquin,26.1%,    79947
+il,2nd District,Dem,17,,,Winner J. Jackson, Jr. (i),63.1%,   181067
+il,2nd District,GOP,17,,,B. Woodworth,23.4%,    67396
+il,2nd District,Ind,17,,,M. Lewis,13.5%,    38733
+il,3rd District,Dem,17,,,Winner D. Lipinski (i),68.5%,   160925
+il,3rd District,GOP,17,,,R. Grabowski,31.5%,    74357
+il,4th District,Dem,17,,,Winner L. Gutierrez (i),83.3%,   128385
+il,4th District,GOP,17,,,H. Concepcion,16.7%,    25749
+il,5th District,Dem,17,,,Winner M. Quigley (i),65.6%,   168530
+il,5th District,GOP,17,,,D. Schmitt,28.7%,    73860
+il,5th District,Grn,17,,,N. Wade,5.7%,    14555
+il,6th District,GOP,17,,,Winner P. Roskam (i),59.2%,   191255
+il,6th District,Dem,17,,,L. Coolidge,40.8%,   131548
+il,7th District,Dem,17,,,Winner D. Davis (i),84.6%,   224377
+il,7th District,GOP,17,,,R. Zak,11.0%,    29164
+il,7th District,Ind,17,,,J. Monaghan,4.4%,    11550
+il,8th District,Dem,17,,,Winner T. Duckworth,54.7%,   121298
+il,8th District,GOP,17,,,J. Walsh (i),45.3%,   100360
+il,9th District,Dem,17,,,Winner J. Schakowsky (i),66.1%,   179468
+il,9th District,GOP,17,,,T. Wolfe,33.9%,    91842
+il,10th District,Dem,17,,,Winner B. Schneider,50.5%,   130941
+il,10th District,GOP,17,,,R. Dold (i),49.5%,   128423
+il,11th District,Dem,17,,,Winner B. Foster,58.1%,   139860
+il,11th District,GOP,17,,,J. Biggert (i),41.9%,   101010
+il,12th District,Dem,17,,,Winner W. Enyart,51.5%,   154621
+il,12th District,GOP,17,,,J. Plummer,42.9%,   128582
+il,12th District,Grn,17,,,P. Bradshaw,5.6%,    16747
+il,13th District,GOP,17,,,Winner R. Davis,46.6%,   136596
+il,13th District,Dem,17,,,D. Gill,46.2%,   135309
+il,13th District,Ind,17,,,J. Hartman,7.2%,    21241
+il,14th District,GOP,17,,,Winner R. Hultgren (i),58.8%,   176426
+il,14th District,Dem,17,,,D. Anderson,41.2%,   123724
+il,15th District,GOP,17,,,Winner J. Shimkus (i),68.9%,   203500
+il,15th District,Dem,17,,,A. Michael,31.1%,    92067
+il,16th District,GOP,17,,,Winner A. Kinzinger (i),61.9%,   179867
+il,16th District,Dem,17,,,W. Rohl,38.1%,   110828
+il,17th District,Dem,17,,,Winner C. Bustos,53.3%,   148229
+il,17th District,GOP,17,,,B. Schilling (i),46.7%,   129970
+il,18th District,GOP,17,,,Winner A. Schock (i),74.2%,   243295
+il,18th District,Dem,17,,,S. Waterworth,25.8%,    84544
+in,1st District,Dem,18,,,Winner P. Visclosky (i),67.3%,   187347
+in,1st District,GOP,18,,,J. Phelps,32.7%,    91072
+in,2nd District,GOP,18,,,Winner J. Walorski,49.0%,   133806
+in,2nd District,Dem,18,,,B. Mullen,47.6%,   129977
+in,2nd District,Lib,18,,,J. Ruiz,3.4%,     9313
+in,3rd District,GOP,18,,,Winner M. Stutzman (i),67.1%,   187610
+in,3rd District,Dem,18,,,K. Boyd,32.9%,    92179
+in,4th District,GOP,18,,,Winner T. Rokita (i),61.9%,   168510
+in,4th District,Dem,18,,,T. Nelson,34.2%,    92974
+in,4th District,Lib,18,,,B. Gehlhausen,3.9%,    10553
+in,5th District,GOP,18,,,Winner S. Brooks,58.4%,   194446
+in,5th District,Dem,18,,,S. Reske,37.6%,   125229
+in,5th District,Lib,18,,,C. Reid,4.0%,    13429
+in,6th District,GOP,18,,,Winner L. Messer,59.1%,   162519
+in,6th District,Dem,18,,,B. Bookout,35.1%,    96627
+in,6th District,Lib,18,,,R. Bell,5.8%,    15954
+in,7th District,Dem,18,,,Winner A. Carson (i),62.8%,   161424
+in,7th District,GOP,18,,,C. May,37.2%,    95524
+in,8th District,GOP,18,,,Winner L. Bucshon (i),53.4%,   151416
+in,8th District,Dem,18,,,D. Crooks,43.1%,   122245
+in,8th District,Lib,18,,,B. Gadau,3.6%,    10125
+in,9th District,GOP,18,,,Winner T. Young (i),56.3%,   157689
+in,9th District,Dem,18,,,S. Yoder,43.7%,   122189
+ks,1st District,GOP,20,,,Winner T. Huelskamp (i),0.0%,        0
+ks,2nd District,GOP,20,,,Winner L. Jenkins (i),57.0%,   161476
+ks,2nd District,Dem,20,,,T. Schlingensiepen,38.8%,   110075
+ks,2nd District,Lib,20,,,D. Hawver,4.2%,    11956
+ks,3rd District,GOP,20,,,Winner K. Yoder (i),68.6%,   197266
+ks,3rd District,Lib,20,,,J. Balam,31.4%,    90391
+ks,4th District,GOP,20,,,Winner M. Pompeo (i),62.5%,   158212
+ks,4th District,Dem,20,,,R. Tillman,31.4%,    79480
+ks,4th District,Lib,20,,,T. Jefferson,6.2%,    15587
+ky,1st District,GOP,21,,,Winner E. Whitfield (i),69.6%,   199951
+ky,1st District,Dem,21,,,C. Hatchett,30.4%,    87196
+ky,2nd District,GOP,21,,,Winner B. Guthrie (i),64.3%,   181507
+ky,2nd District,Dem,21,,,D. Williams,31.7%,    89541
+ky,2nd District,Ind,21,,,A. Beacham,2.2%,     6304
+ky,2nd District,Lib,21,,,C. Astor,1.7%,     4914
+ky,3rd District,Dem,21,,,Winner J. Yarmuth (i),64.0%,   206368
+ky,3rd District,GOP,21,,,B. Wicker,34.5%,   111446
+ky,3rd District,Ind,21,,,R. DeVore,1.5%,     4819
+ky,4th District,GOP,21,,,Winner T. Massie,62.1%,   186026
+ky,4th District,Dem,21,,,W. Adkins,35.0%,   104730
+ky,4th District,Ind,21,,,D. Lewis,2.9%,     8673
+ky,4th District Special Election,GOP,21,,,Winner T. Massie,60.2%,   174269
+ky,4th District Special Election,Dem,21,,,W. Adkins,36.4%,   105226
+ky,4th District Special Election,Ind,21,,,D. Lewis,3.4%,     9757
+ky,5th District,GOP,21,,,Winner H. Rogers (i),78.2%,   194483
+ky,5th District,Dem,21,,,K. Stepp,21.8%,    54181
+ky,6th District,GOP,21,,,Winner A. Barr,50.6%,   153221
+ky,6th District,Dem,21,,,B. Chandler (i),46.7%,   141436
+ky,6th District,Ind,21,,,R. Vance,2.8%,     8340
+la,1st District,GOP,22,,,Winner S. Scalise (i),66.6%,   193331
+la,1st District,Dem,22,,,V. Mendoza,21.3%,    61920
+la,1st District,GOP,22,,,G. King,8.5%,    24808
+la,1st District,NPA,22,,,D. Turknett,2.1%,     6057
+la,1st District,NPA,22,,,A. Wells,1.5%,     4280
+la,2nd District,Dem,22,,,Winner C. Richmond (i),55.2%,   158184
+la,2nd District,Dem,22,,,G. Landrieu,25.0%,    71761
+la,2nd District,GOP,22,,,D. Bailey,13.5%,    38748
+la,2nd District,GOP,22,,,J. Larose,4.0%,    11329
+la,2nd District,Lib,22,,,C. Trotter,2.4%,     6778
+la,3rd District,GOP,22,,,* C. Boustany (i),44.7%,   139113
+la,3rd District,GOP,22,,,* J. Landry (i),30.0%,    93524
+la,3rd District,Dem,22,,,R. Richard,21.5%,    67058
+la,3rd District,GOP,22,,,B. Barrilleaux,2.5%,     7907
+la,3rd District,Lib,22,,,J. Stark,1.2%,     3764
+la,4th District,GOP,22,,,Winner J. Fleming (i),75.3%,   187783
+la,4th District,Lib,22,,,R. Lord,24.7%,    61586
+la,5th District,GOP,22,,,Winner R. Alexander (i),77.8%,   203483
+la,5th District,NPA,22,,,R. Ceasar,14.4%,    37635
+la,5th District,Lib,22,,,C. Grant,7.8%,    20519
+la,6th District,GOP,22,,,Winner B. Cassidy (i),79.4%,   243594
+la,6th District,Lib,22,,,R. Craig,10.5%,    32200
+la,6th District,NPA,22,,,R. Torregano,10.1%,    31014
+ma,1st District,Dem,25,,,Winner R. Neal (i),0%,        0
+ma,2nd District,Dem,25,,,Winner J. McGovern (i),0%,        0
+ma,3rd District,Dem,25,,,Winner N. Tsongas (i),65.9%,   210833
+ma,3rd District,GOP,25,,,J. Golnik,34.1%,   108868
+ma,4th District,Dem,25,,,Winner J. Kennedy,61.1%,   219499
+ma,4th District,GOP,25,,,S. Bielat,36.0%,   129243
+ma,4th District,Ind,25,,,D. Rosa,3.0%,    10674
+ma,5th District,Dem,25,,,Winner E. Markey (i),75.5%,   254128
+ma,5th District,GOP,25,,,T. Tierney,24.5%,    82286
+ma,6th District,Dem,25,,,Winner J. Tierney (i),48.3%,   179603
+ma,6th District,GOP,25,,,R. Tisei,47.3%,   175953
+ma,6th District,Lib,25,,,D. Fishman,4.5%,    16668
+ma,7th District,Dem,25,,,Winner M. Capuano (i),83.6%,   206424
+ma,7th District,Ind,25,,,K. Romero,16.4%,    40438
+ma,8th District,Dem,25,,,Winner S. Lynch (i),76.3%,   262565
+ma,8th District,GOP,25,,,J. Selvaggi,23.7%,    81733
+ma,9th District,Dem,25,,,Winner B. Keating (i),58.8%,   211051
+ma,9th District,GOP,25,,,C. Sheldon,32.2%,   115541
+ma,9th District,Ind,25,,,D. Botelho,9.0%,    32468
+md,1st District,GOP,24,,,Winner A. Harris (i),67.5%,   202130
+md,1st District,Dem,24,,,W. Rosen,28.5%,    85468
+md,1st District,Lib,24,,,M. Boda,4.0%,    11939
+md,2nd District,Dem,24,,,Winner D. Ruppersberger (i),65.5%,   181272
+md,2nd District,GOP,24,,,N. Jacobs,31.4%,    86856
+md,2nd District,Lib,24,,,L. Dymowski,3.2%,     8750
+md,3rd District,Dem,24,,,Winner J. Sarbanes (i),66.6%,   196111
+md,3rd District,GOP,24,,,E. Knowles,29.8%,    87847
+md,3rd District,Lib,24,,,P. Drgos,3.5%,    10342
+md,4th District,Dem,24,,,Winner D. Edwards (i),77.1%,   220344
+md,4th District,GOP,24,,,F. Loudon,20.9%,    59882
+md,4th District,Lib,24,,,S. Soffen,2.0%,     5736
+md,5th District,Dem,24,,,Winner S. Hoyer (i),62.2%,   211816
+md,5th District,GOP,24,,,T. O'Donnell,35.2%,   119768
+md,5th District,Grn,24,,,B. Auerbach,1.3%,     4478
+md,5th District,Lib,24,,,A. Vohra,1.3%,     4392
+md,6th District,Dem,24,,,Winner J. Delaney,58.6%,   167481
+md,6th District,GOP,24,,,R. Bartlett (i),38.1%,   108855
+md,6th District,Lib,24,,,N. Mueller,3.2%,     9259
+md,7th District,Dem,24,,,Winner E. Cummings (i),76.3%,   226692
+md,7th District,GOP,24,,,F. Mirabile,21.1%,    62593
+md,7th District,Lib,24,,,R. Owens-Bey,2.6%,     7628
+md,8th District,Dem,24,,,Winner C. Van Hollen (i),62.5%,   192711
+md,8th District,GOP,24,,,K. Timmerman,33.9%,   104391
+md,8th District,Lib,24,,,M. Grannis,2.1%,     6624
+md,8th District,Grn,24,,,G. Gluck,1.5%,     4498
+me,1st District,Dem,23,,,Winner C. Pingree (i),64.7%,   233616
+me,1st District,GOP,23,,,J. Courtney,35.3%,   127304
+me,2nd District,Dem,23,,,Winner M. Michaud (i),58.1%,   189407
+me,2nd District,GOP,23,,,K. Raye,41.9%,   136328
+mi,1st District,GOP,26,,,Winner D. Benishek (i),48.2%,   166833
+mi,1st District,Dem,26,,,G. McDowell,47.5%,   164536
+mi,1st District,Lib,26,,,E. Salvette,3.2%,    10917
+mi,1st District,Grn,26,,,E. Boal,1.2%,     4156
+mi,2nd District,GOP,26,,,Winner B. Huizenga (i),61.1%,   193646
+mi,2nd District,Dem,26,,,W. German,34.3%,   108644
+mi,2nd District,Lib,26,,,M. Buzuma,2.8%,     8756
+mi,2nd District,UST,26,,,R. Graeser,1.0%,     3177
+mi,2nd District,Grn,26,,,W. Opalicky,0.9%,     2712
+mi,3rd District,GOP,26,,,Winner J. Amash (i),52.7%,   173529
+mi,3rd District,Dem,26,,,S. Pestka,44.1%,   145117
+mi,3rd District,Lib,26,,,B. Gelineau,3.2%,    10587
+mi,4th District,GOP,26,,,Winner D. Camp (i),63.1%,   196835
+mi,4th District,Dem,26,,,D. Freidell Wirth,33.5%,   104601
+mi,4th District,Lib,26,,,J. Gelineau,1.4%,     4277
+mi,4th District,UST,26,,,G. Zimmer,1.1%,     3557
+mi,4th District,Grn,26,,,P. Timmons,0.9%,     2760
+mi,5th District,Dem,26,,,Winner D. Kildee,65.0%,   213303
+mi,5th District,GOP,26,,,J. Slezak,31.4%,   103001
+mi,5th District,NPA,26,,,D. Davenport,2.0%,     6665
+mi,5th District,Lib,26,,,G. Creswell,1.5%,     4971
+mi,6th District,GOP,26,,,Winner F. Upton (i),54.5%,   173301
+mi,6th District,Dem,26,,,M. O'Brien,42.7%,   135793
+mi,6th District,Lib,26,,,C. Gelineau,2.0%,     6317
+mi,6th District,UST,26,,,J. Gatties,0.8%,     2583
+mi,7th District,GOP,26,,,Winner T. Walberg (i),53.3%,   169184
+mi,7th District,Dem,26,,,K. Haskell,43.0%,   136508
+mi,7th District,Lib,26,,,K. Proctor,2.5%,     8086
+mi,7th District,Grn,26,,,R. Wunsch,1.1%,     3455
+mi,8th District,GOP,26,,,Winner M. Rogers (i),58.6%,   202126
+mi,8th District,Dem,26,,,L. Enderle,37.3%,   128622
+mi,8th District,Lib,26,,,D. Goebel,2.3%,     8079
+mi,8th District,NPA,26,,,P. Brooks,1.8%,     6094
+mi,9th District,Dem,26,,,Winner S. Levin (i),61.9%,   208834
+mi,9th District,GOP,26,,,D. Volaric,34.0%,   114746
+mi,9th District,Lib,26,,,J. Fulner,1.8%,     6100
+mi,9th District,Grn,26,,,J. Williams,1.4%,     4706
+mi,9th District,UST,26,,,L. Townsend,0.9%,     2902
+mi,10th District,GOP,26,,,Winner C. Miller (i),68.7%,   226151
+mi,10th District,Dem,26,,,C. Stadler,29.8%,    98058
+mi,10th District,Lib,26,,,B. Dashairya,1.5%,     4796
+mi,11th District,GOP,26,,,Winner K. Bentivolio,50.8%,   181796
+mi,11th District,Dem,26,,,S. Taj,44.4%,   158889
+mi,11th District,Lib,26,,,J. Tatar,2.7%,     9640
+mi,11th District,Grn,26,,,S. Duke,1.3%,     4570
+mi,11th District,NPA,26,,,D. Johnson,0.9%,     3251
+mi,11th District Special Election,Dem,26,,,D. Curson,48.4%,   159267
+mi,11th District Special Election,GOP,26,,,K. Bentivolio,46.1%,   151740
+mi,11th District Special Election,Lib,26,,,J. Tatar,3.5%,    11611
+mi,11th District Special Election,UST,26,,,M. Sosnowski,2.0%,     6528
+mi,12th District,Dem,26,,,Winner J. Dingell (i),67.9%,   216537
+mi,12th District,GOP,26,,,C. Kallgren,29.0%,    92305
+mi,12th District,Lib,26,,,R. Secula,3.1%,     9867
+mi,13th District,Dem,26,,,Winner J. Conyers (i),82.8%,   235258
+mi,13th District,GOP,26,,,H. Sawicki,13.6%,    38765
+mi,13th District,Lib,26,,,C. Sharer,2.1%,     6076
+mi,13th District,UST,26,,,M. Gray,1.4%,     4089
+mi,14th District,Dem,26,,,Winner G. Peters (i),82.2%,   270184
+mi,14th District,GOP,26,,,J. Hauler,15.6%,    51395
+mi,14th District,Lib,26,,,L. Schwartz,1.2%,     3968
+mi,14th District,Grn,26,,,D. Campbell,0.9%,     2977
+mn,1st District,Dem,27,,,Winner T. Walz (i),57.6%,   193209
+mn,1st District,GOP,27,,,A. Quist,42.4%,   142159
+mn,2nd District,GOP,27,,,Winner J. Kline (i),54.1%,   193586
+mn,2nd District,Dem,27,,,M. Obermueller,45.9%,   164335
+mn,3rd District,GOP,27,,,Winner E. Paulsen (i),58.2%,   222333
+mn,3rd District,Dem,27,,,B. Barnes,41.8%,   159936
+mn,4th District,Dem,27,,,Winner B. McCollum (i),62.4%,   216680
+mn,4th District,GOP,27,,,T. Hernandez,31.6%,   109656
+mn,4th District,Inp,27,,,S. Carlson,6.1%,    21132
+mn,5th District,Dem,27,,,Winner K. Ellison (i),74.7%,   262101
+mn,5th District,GOP,27,,,C. Fields,25.3%,    88753
+mn,6th District,GOP,27,,,Winner M. Bachmann (i),50.6%,   180131
+mn,6th District,Dem,27,,,J. Graves,49.4%,   175923
+mn,7th District,Dem,27,,,Winner C. Peterson (i),60.4%,   197540
+mn,7th District,GOP,27,,,L. Byberg,34.9%,   114102
+mn,7th District,Inp,27,,,A. Steele,4.7%,    15294
+mn,8th District,Dem,27,,,Winner R. Nolan,54.5%,   192748
+mn,8th District,GOP,27,,,C. Cravaack (i),45.5%,   161113
+mo,1st District,Dem,29,,,Winner L. Clay (i),78.6%,   264836
+mo,1st District,GOP,29,,,R. Hamlin,17.9%,    60306
+mo,1st District,Lib,29,,,R. Cunningham,3.5%,    11725
+mo,2nd District,GOP,29,,,Winner A. Wagner,60.1%,   235607
+mo,2nd District,Dem,29,,,G. Koenen,37.1%,   145257
+mo,2nd District,Lib,29,,,B. Slantz,2.3%,     9141
+mo,2nd District,CST,29,,,A. Zorikova,0.5%,     2003
+mo,3rd District,GOP,29,,,Winner B. Luetkemeyer (i),63.5%,   214660
+mo,3rd District,Dem,29,,,E. Mayer,32.9%,   111116
+mo,3rd District,Lib,29,,,S. Wilson,3.7%,    12343
+mo,4th District,GOP,29,,,Winner V. Hartzler (i),60.3%,   192166
+mo,4th District,Dem,29,,,T. Hensley,35.5%,   113044
+mo,4th District,Lib,29,,,T. Holbrook,3.3%,    10396
+mo,4th District,CST,29,,,G. Cowan,0.9%,     2956
+mo,5th District,Dem,29,,,Winner E. Cleaver (i),60.2%,   196467
+mo,5th District,GOP,29,,,J. Turk,37.2%,   121437
+mo,5th District,Lib,29,,,R. Langkraehr,2.6%,     8432
+mo,6th District,GOP,29,,,Winner S. Graves (i),65.0%,   216721
+mo,6th District,Dem,29,,,K. Yarber,32.5%,   108414
+mo,6th District,Lib,29,,,R. Monchil,2.5%,     8269
+mo,7th District,GOP,29,,,Winner B. Long (i),63.9%,   203358
+mo,7th District,Dem,29,,,J. Evans,30.9%,    98384
+mo,7th District,Lib,29,,,K. Craig,5.2%,    16656
+mo,8th District,GOP,29,,,Winner J. Emerson (i),71.9%,   215975
+mo,8th District,Dem,29,,,J. Rushin,24.6%,    73720
+mo,8th District,Lib,29,,,R. Vandeven,3.5%,    10544
+ms,1st District,GOP,28,,,Winner A. Nunnelee (i),60.7%,   178594
+ms,1st District,Dem,28,,,B. Morris,36.7%,   107938
+ms,1st District,Lib,28,,,D. Bedwell,1.2%,     3413
+ms,1st District,RP,28,,,C. Potts,0.8%,     2265
+ms,1st District,CST,28,,,J. Bourland,0.8%,     2243
+ms,2nd District,Dem,28,,,Winner B. Thompson (i),67.4%,   199554
+ms,2nd District,GOP,28,,,B. Marcy,30.7%,    90861
+ms,2nd District,Ind,28,,,C. Williams,1.5%,     4335
+ms,2nd District,RP,28,,,L. Williams,0.5%,     1406
+ms,3rd District,GOP,28,,,Winner G. Harper (i),80.1%,   223596
+ms,3rd District,RP,28,,,L. Pannell,19.9%,    55703
+ms,4th District,GOP,28,,,Winner S. Palazzo (i),64.3%,   173576
+ms,4th District,Dem,28,,,M. Moore,28.5%,    77041
+ms,4th District,Lib,28,,,R. Williams,6.4%,    17262
+ms,4th District,RP,28,,,R. Claunch,0.7%,     2012
+mt,At-Large,GOP,30,,,Winner S. Daines,53.2%,   252707
+mt,At-Large,Dem,30,,,K. Gillan,42.9%,   203748
+mt,At-Large,Lib,30,,,D. Kaiser,4.0%,    18933
+nc,1st District,Dem,37,,,Winner G. Butterfield (i),75.2%,   250948
+nc,1st District,GOP,37,,,P. DiLauro,23.0%,    76558
+nc,1st District,Lib,37,,,D. Holloman,1.8%,     6031
+nc,2nd District,GOP,37,,,Winner R. Ellmers (i),55.9%,   174565
+nc,2nd District,Dem,37,,,S. Wilkins,41.4%,   129307
+nc,2nd District,Lib,37,,,B. Irving,2.7%,     8460
+nc,3rd District,GOP,37,,,Winner W. Jones (i),63.2%,   192976
+nc,3rd District,Dem,37,,,E. Anderson,36.8%,   112546
+nc,4th District,Dem,37,,,Winner D. Price (i),74.4%,   265432
+nc,4th District,GOP,37,,,T. D'Annunzio,25.6%,    91512
+nc,5th District,GOP,37,,,Winner V. Foxx (i),57.5%,   200083
+nc,5th District,Dem,37,,,E. Motsinger,42.5%,   147649
+nc,6th District,GOP,37,,,Winner H. Coble (i),60.9%,   220296
+nc,6th District,Dem,37,,,T. Foriest,39.1%,   141214
+nc,7th District,Dem,37,,,Winner M. McIntyre (i),50.1%,   167590
+nc,7th District,GOP,37,,,D. Rouzer,49.9%,   167057
+nc,8th District,GOP,37,,,Winner R. Hudson,54.1%,   159226
+nc,8th District,Dem,37,,,L. Kissell (i),45.9%,   134891
+nc,9th District,GOP,37,,,Winner R. Pittenger,51.8%,   193174
+nc,9th District,Dem,37,,,J. Roberts,45.7%,   170462
+nc,9th District,Lib,37,,,C. Campbell,2.6%,     9553
+nc,10th District,GOP,37,,,Winner P. McHenry (i),57.0%,   189667
+nc,10th District,Dem,37,,,P. Keever,43.0%,   142822
+nc,11th District,GOP,37,,,Winner M. Meadows,57.4%,   189289
+nc,11th District,Dem,37,,,H. Rogers,42.6%,   140216
+nc,12th District,Dem,37,,,Winner M. Watt (i),79.7%,   246451
+nc,12th District,GOP,37,,,J. Brosch,20.3%,    62924
+nc,13th District,GOP,37,,,Winner G. Holding,57.1%,   225791
+nc,13th District,Dem,37,,,C. Malone,42.9%,   169637
+nd,At-Large,GOP,38,,,Winner K. Cramer,55.0%,   172905
+nd,At-Large,Dem,38,,,P. Gulleson,41.8%,   131396
+nd,At-Large,Lib,38,,,E. Olson,3.2%,    10215
+ne,1st District,GOP,31,,,Winner J. Fortenberry (i),68.5%,   171385
+ne,1st District,Dem,31,,,K. Reiman,31.5%,    78732
+ne,2nd District,GOP,31,,,Winner L. Terry (i),51.2%,   127119
+ne,2nd District,Dem,31,,,J. Ewing,48.8%,   121165
+ne,3rd District,GOP,31,,,Winner A. Smith (i),74.2%,   184978
+ne,3rd District,Dem,31,,,M. Sullivan,25.8%,    64257
+nh,1st District,Dem,33,,,Winner C. Shea-Porter,49.7%,   171356
+nh,1st District,GOP,33,,,F. Guinta (i),46.0%,   158482
+nh,1st District,Lib,33,,,B. Kelly,4.3%,    14968
+nh,2nd District,Dem,33,,,Winner A. Kuster,50.2%,   168954
+nh,2nd District,GOP,33,,,C. Bass (i),45.1%,   151858
+nh,2nd District,Lib,33,,,H. Macia,4.7%,    15779
+nj,1st District,Dem,34,,,Winner R. Andrews (i),67.9%,   194303
+nj,1st District,GOP,34,,,G. Horton,30.3%,    86820
+nj,1st District,Ind,34,,,J. Reitter,1.4%,     4076
+nj,1st District,Ind,34,,,M. Chapman,0.3%,      983
+nj,2nd District,GOP,34,,,Winner F. LoBiondo (i),58.0%,   156799
+nj,2nd District,Dem,34,,,C. Shober,40.0%,   108288
+nj,2nd District,Ind,34,,,J. Ordille,0.9%,     2498
+nj,2nd District,Ind,34,,,C. Lukens,0.4%,     1212
+nj,2nd District,Ind,34,,,D. Bowen,0.3%,      932
+nj,2nd District,Ind,34,,,F. Faralli,0.3%,      828
+nj,3rd District,GOP,34,,,Winner J. Runyan (i),53.8%,   161452
+nj,3rd District,Dem,34,,,S. Adler,44.8%,   134599
+nj,3rd District,Ind,34,,,R. Forchion,0.6%,     1806
+nj,3rd District,Ind,34,,,R. Shapiro,0.3%,     1006
+nj,3rd District,Ind,34,,,F. Lavergne,0.2%,      735
+nj,3rd District,Ind,34,,,R. Witterschein,0.2%,      489
+nj,3rd District,Ind,34,,,C. Dennick,0.1%,      261
+nj,4th District,GOP,34,,,Winner C. Smith (i),68.0%,   189548
+nj,4th District,Dem,34,,,B. Froelich,31.0%,    86380
+nj,4th District,Ind,34,,,L. Marshall,1.1%,     2966
+nj,5th District,GOP,34,,,Winner S. Garrett (i),55.5%,   154359
+nj,5th District,Dem,34,,,A. Gussen,42.4%,   117973
+nj,5th District,Ind,34,,,P. Alessandrini,2.2%,     6029
+nj,6th District,Dem,34,,,Winner F. Pallone (i),63.3%,   141852
+nj,6th District,GOP,34,,,A. Little,35.3%,    79128
+nj,6th District,Ind,34,,,L. Flynn,0.5%,     1228
+nj,6th District,Ind,34,,,K. Zaletel,0.3%,      772
+nj,6th District,Ind,34,,,M. Lyden,0.3%,      770
+nj,6th District,Ind,34,,,H. Tarbous,0.2%,      415
+nj,7th District,GOP,34,,,Winner L. Lance (i),57.4%,   167736
+nj,7th District,Dem,34,,,U. Chivukula,39.9%,   116445
+nj,7th District,Ind,34,,,D. Breen,1.4%,     4189
+nj,7th District,Ind,34,,,P. McKnight,1.3%,     3654
+nj,8th District,Dem,34,,,Winner A. Sires (i),78.1%,   118904
+nj,8th District,GOP,34,,,M. Karczewski,18.9%,    28810
+nj,8th District,Ind,34,,,H. Shaw,1.1%,     1609
+nj,8th District,Ind,34,,,S. De Luca,1.0%,     1509
+nj,8th District,Ind,34,,,P. Olivera,0.9%,     1401
+nj,9th District,Dem,34,,,Winner B. Pascrell (i),73.6%,   146939
+nj,9th District,GOP,34,,,S. Boteach,25.4%,    50772
+nj,9th District,Ind,34,,,D. Smith,0.5%,     1068
+nj,9th District,Ind,34,,,J. Woolsey,0.5%,      929
+nj,10th District Special Election,Dem,34,,,Winner D. Payne Jr.,97.4%,   154365
+nj,10th District Special Election,Inp,34,,,J. Miller,2.6%,     4090
+nj,10th District,Dem,34,,,Winner D. Payne Jr.,87.3%,   185196
+nj,10th District,GOP,34,,,B. Kelemen,10.8%,    23015
+nj,10th District,Ind,34,,,J. Miller,1.3%,     2798
+nj,10th District,Ind,34,,,M. Erickson,0.5%,     1126
+nj,11th District,GOP,34,,,Winner R. Frelinghuysen (i),58.9%,   167368
+nj,11th District,Dem,34,,,J. Arvanites,40.0%,   113554
+nj,11th District,Ind,34,,,B. Berlin,1.1%,     3243
+nj,12th District,Dem,34,,,Winner R. Holt (i),68.9%,   177238
+nj,12th District,GOP,34,,,E. Beck,29.9%,    76824
+nj,12th District,Ind,34,,,J. Freudenheim,0.8%,     2080
+nj,12th District,Ind,34,,,K. Cody,0.5%,     1196
+nm,1st District,Dem,35,,,Winner M. Lujan Grisham,59.1%,   159275
+nm,1st District,GOP,35,,,J. Arnold-Jones,40.9%,   110370
+nm,2nd District,GOP,35,,,Winner S. Pearce (i),59.1%,   132250
+nm,2nd District,Dem,35,,,E. Erhard,40.9%,    91561
+nm,3rd District,Dem,35,,,Winner B. Lujan (i),63.0%,   164620
+nm,3rd District,GOP,35,,,J. Byrd,37.0%,    96837
+nv,1st District,Dem,32,,,Winner D. Titus,63.5%,   113377
+nv,1st District,GOP,32,,,C. Edwards,31.6%,    56357
+nv,1st District,Lib,32,,,W. Pojunis,2.6%,     4614
+nv,1st District,IAP,32,,,S. Vaughan,2.3%,     4120
+nv,2nd District,GOP,32,,,Winner M. Amodei (i),57.7%,   161915
+nv,2nd District,Dem,32,,,S. Koepnick,36.2%,   101594
+nv,2nd District,Ind,32,,,M. Haines,3.9%,    11082
+nv,2nd District,IAP,32,,,R. Best,2.1%,     6006
+nv,3rd District,GOP,32,,,Winner J. Heck (i),50.4%,   136905
+nv,3rd District,Dem,32,,,J. Oceguera,42.8%,   116385
+nv,3rd District,Ind,32,,,J. Murphy,4.7%,    12787
+nv,3rd District,IAP,32,,,T. Jones,2.1%,     5580
+nv,4th District,Dem,32,,,Winner S. Horsford,50.1%,   120096
+nv,4th District,GOP,32,,,D. Tarkanian,42.2%,   101136
+nv,4th District,IAP,32,,,F. Fitzgibbons,3.9%,     9376
+nv,4th District,Lib,32,,,J. Silvestri,3.9%,     9308
+ny,1st District,Dem,36,,,Winner T. Bishop (i),52.2%,   132525
+ny,1st District,GOP,36,,,R. Altschuler,47.8%,   121478
+ny,2nd District,GOP,36,,,Winner P. King (i),58.7%,   131091
+ny,2nd District,Dem,36,,,V. Falcone,41.3%,    92060
+ny,3rd District,Dem,36,,,Winner S. Israel (i),57.5%,   136687
+ny,3rd District,GOP,36,,,S. Labate,41.7%,    99183
+ny,3rd District,Lib,36,,,M. McDermott,0.6%,     1460
+ny,3rd District,CST,36,,,A. Tolda,0.1%,      346
+ny,4th District,Dem,36,,,Winner C. McCarthy (i),61.7%,   138561
+ny,4th District,GOP,36,,,F. Becker,32.4%,    72673
+ny,4th District,Con,36,,,F. Scaturro,5.9%,    13243
+ny,5th District,Dem,36,,,Winner G. Meeks (i),89.7%,   146278
+ny,5th District,GOP,36,,,A. Jennings,9.6%,    15640
+ny,5th District,Lib,36,,,C. Wark,0.7%,     1161
+ny,6th District,Dem,36,,,Winner G. Meng,67.7%,   100571
+ny,6th District,GOP,36,,,D. Halloran,31.2%,    46305
+ny,6th District,Grn,36,,,E. Chou,1.2%,     1729
+ny,7th District,Dem,36,,,Winner N. Velazquez (i),94.5%,   116873
+ny,7th District,Con,36,,,J. Murray,5.5%,     6823
+ny,8th District,Dem,36,,,Winner H. Jeffries,90.0%,   159463
+ny,8th District,GOP,36,,,A. Bellone,8.8%,    15546
+ny,8th District,Grn,36,,,C. Beavan,1.2%,     2098
+ny,9th District,Dem,36,,,Winner Y. Clarke (i),87.0%,   165201
+ny,9th District,GOP,36,,,D. Cavanagh,11.6%,    21984
+ny,9th District,Grn,36,,,V. Morgan,1.4%,     2700
+ny,10th District,Dem,36,,,Winner J. Nadler (i),80.7%,   145381
+ny,10th District,GOP,36,,,M. Chan,19.3%,    34848
+ny,11th District,GOP,36,,,Winner M. Grimm (i),52.8%,    94102
+ny,11th District,Dem,36,,,M. Murphy,46.2%,    82401
+ny,11th District,Grn,36,,,H. Bardel,1.0%,     1782
+ny,12th District,Dem,36,,,Winner C. Maloney (i),80.9%,   158834
+ny,12th District,GOP,36,,,C. Wight,19.1%,    37580
+ny,13th District,Dem,36,,,Winner C. Rangel (i),90.8%,   152592
+ny,13th District,GOP,36,,,C. Schley,6.3%,    10546
+ny,13th District,SWP,36,,,D. Liatos,2.9%,     4874
+ny,14th District,Dem,36,,,Winner J. Crowley (i),83.0%,   108436
+ny,14th District,GOP,36,,,W. Gibbons,15.3%,    19934
+ny,14th District,Grn,36,,,A. Gronowicz,1.8%,     2322
+ny,15th District,Dem,36,,,Winner J. Serrano (i),97.1%,   132505
+ny,15th District,GOP,36,,,F. Della Valle,2.9%,     3983
+ny,16th District,Dem,36,,,Winner E. Engel (i),77.5%,   137213
+ny,16th District,GOP,36,,,J. McLaughlin,21.4%,    37860
+ny,16th District,Grn,36,,,J. Diaferia,1.2%,     2052
+ny,17th District,Dem,36,,,Winner N. Lowey (i),64.2%,   139876
+ny,17th District,GOP,36,,,J. Carvin,34.8%,    75736
+ny,17th District,Oth,36,,,F. Morganthaler,1.0%,     2164
+ny,18th District,Dem,36,,,Winner S. Maloney,51.7%,   130462
+ny,18th District,GOP,36,,,N. Hayworth (i),48.3%,   121911
+ny,19th District,GOP,36,,,Winner C. Gibson (i),53.5%,   138657
+ny,19th District,Dem,36,,,J. Schreibman,46.5%,   120661
+ny,20th District,Dem,36,,,Winner P. Tonko (i),68.4%,   188055
+ny,20th District,GOP,36,,,R. Dieterich,31.6%,    86740
+ny,21st District,Dem,36,,,Winner B. Owens (i),50.3%,   115883
+ny,21st District,GOP,36,,,M. Doheny,48.1%,   110804
+ny,21st District,Grn,36,,,D. Hassig,1.6%,     3683
+ny,22nd District,GOP,36,,,Winner R. Hanna (i),60.9%,   146055
+ny,22nd District,Dem,36,,,D. Lamb,39.1%,    93681
+ny,23rd District,GOP,36,,,Winner T. Reed (i),51.9%,   126519
+ny,23rd District,Dem,36,,,N. Shinagawa,48.1%,   117055
+ny,24th District,Dem,36,,,Winner D. Maffei,48.4%,   130969
+ny,24th District,GOP,36,,,A. Buerkle (i),43.8%,   118578
+ny,24th District,Grn,36,,,U. Rozum,7.9%,    21327
+ny,25th District,Dem,36,,,Winner L. Slaughter (i),57.2%,   166342
+ny,25th District,GOP,36,,,M. Brooks,42.8%,   124585
+ny,26th District,Dem,36,,,Winner B. Higgins (i),74.6%,   197799
+ny,26th District,GOP,36,,,M. Madigan,25.4%,    67209
+ny,27th District,GOP,36,,,Winner C. Collins,50.7%,   150446
+ny,27th District,Dem,36,,,K. Hochul (i),49.3%,   146134
+oh,1st District,GOP,39,,,Winner S. Chabot (i),58.3%,   196783
+oh,1st District,Dem,39,,,J. Sinnard,37.1%,   125030
+oh,1st District,Lib,39,,,J. Berns,2.7%,     9245
+oh,1st District,Grn,39,,,R. Stevenson,1.9%,     6351
+oh,2nd District,GOP,39,,,Winner B. Wenstrup,59.1%,   189400
+oh,2nd District,Dem,39,,,W. Smith,40.9%,   131256
+oh,3rd District,Dem,39,,,Winner J. Beatty,67.8%,   188831
+oh,3rd District,GOP,39,,,C. Long,26.9%,    74938
+oh,3rd District,Lib,39,,,R. Ehrbar,3.2%,     8826
+oh,3rd District,Grn,39,,,R. Fitrakis,2.2%,     5993
+oh,4th District,GOP,39,,,Winner J. Jordan (i),58.7%,   179458
+oh,4th District,Dem,39,,,J. Slone,36.2%,   110663
+oh,4th District,Lib,39,,,C. Kalla,5.1%,    15487
+oh,5th District,GOP,39,,,Winner B. Latta (i),57.6%,   197435
+oh,5th District,Dem,39,,,A. Zimmann,38.9%,   133471
+oh,5th District,Lib,39,,,E. Eberly,3.5%,    11971
+oh,6th District,GOP,39,,,Winner B. Johnson (i),53.4%,   159621
+oh,6th District,Dem,39,,,C. Wilson,46.6%,   139438
+oh,7th District,GOP,39,,,Winner B. Gibbs (i),56.7%,   174826
+oh,7th District,Dem,39,,,J. Healy-Abrams,43.3%,   133686
+oh,8th District,GOP,39,,,Winner J. Boehner (i),0.0%,        0
+oh,9th District,Dem,39,,,Winner M. Kaptur (i),72.6%,   206763
+oh,9th District,GOP,39,,,S. Wurzelbacher,23.5%,    66844
+oh,9th District,Lib,39,,,S. Stipe,3.9%,    11119
+oh,10th District,GOP,39,,,Winner M. Turner (i),60.2%,   202166
+oh,10th District,Dem,39,,,S. Swartz Neuhardt,36.9%,   124079
+oh,10th District,Lib,39,,,D. Harlow,2.9%,     9729
+oh,11th District,Dem,39,,,Winner M. Fudge (i),0.0%,        0
+oh,12th District,GOP,39,,,Winner P. Tiberi (i),63.7%,   227079
+oh,12th District,Dem,39,,,J. Reese,36.3%,   129259
+oh,13th District,Dem,39,,,Winner T. Ryan (i),72.5%,   227032
+oh,13th District,GOP,39,,,M. Agana,27.5%,    86261
+oh,14th District,GOP,39,,,Winner D. Joyce,54.3%,   179704
+oh,14th District,Dem,39,,,D. Blanchard,38.5%,   127467
+oh,14th District,Grn,39,,,E. Mastromatteo,3.8%,    12546
+oh,14th District,Lib,39,,,D. Macko,3.4%,    11088
+oh,15th District,GOP,39,,,Winner S. Stivers (i),61.8%,   199598
+oh,15th District,Dem,39,,,P. Lang,38.2%,   123201
+oh,16th District,GOP,39,,,Winner J. Renacci (i),52.2%,   181137
+oh,16th District,Dem,39,,,B. Sutton (i),47.8%,   165638
+ok,1st District,GOP,40,,,Winner J. Bridenstine,63.5%,   180886
+ok,1st District,Dem,40,,,J. Olson,32.0%,    91310
+ok,1st District,Ind,40,,,C. Allen,4.5%,    12786
+ok,2nd District,GOP,40,,,Winner M. Mullin,57.3%,   143253
+ok,2nd District,Dem,40,,,R. Wallace,38.3%,    95763
+ok,2nd District,Ind,40,,,M. Fulks,4.3%,    10794
+ok,3rd District,GOP,40,,,Winner F. Lucas (i),75.3%,   200963
+ok,3rd District,Dem,40,,,T. Murray,20.0%,    53295
+ok,3rd District,Ind,40,,,W. Sanders,4.8%,    12756
+ok,4th District,GOP,40,,,Winner T. Cole (i),67.9%,   176561
+ok,4th District,Dem,40,,,D. Bebo,27.6%,    71755
+ok,4th District,Ind,40,,,R. Harris,4.5%,    11725
+ok,5th District,GOP,40,,,Winner J. Lankford (i),58.7%,   153421
+ok,5th District,Dem,40,,,T. Guild,37.3%,    97359
+ok,5th District,Ind,40,,,P. Martin,2.1%,     5380
+ok,5th District,Ind,40,,,R. Murphy,2.0%,     5162
+or,1st District,Dem,41,,,Winner S. Bonamici (i),59.7%,   186060
+or,1st District,GOP,41,,,D. Morgan,33.1%,   103194
+or,1st District,Prg,41,,,S. Reynolds,4.4%,    13824
+or,1st District,CST,41,,,B. Ekstrom,2.7%,     8351
+or,2nd District,GOP,41,,,Winner G. Walden (i),69.0%,   222575
+or,2nd District,Dem,41,,,J. Segers,29.0%,    93451
+or,2nd District,Lib,41,,,J. Tabor,2.1%,     6756
+or,3rd District,Dem,41,,,Winner E. Blumenauer (i),74.6%,   257460
+or,3rd District,GOP,41,,,R. Green,19.9%,    68839
+or,3rd District,PAG,41,,,W. Broadnax,3.6%,    12599
+or,3rd District,Lib,41,,,M. Cline,1.8%,     6374
+or,4th District,Dem,41,,,Winner P. DeFazio (i),59.1%,   208906
+or,4th District,GOP,41,,,A. Robinson,39.2%,   138351
+or,4th District,Lib,41,,,C. Huntting,1.7%,     6055
+or,5th District,Dem,41,,,Winner K. Schrader (i),54.1%,   173620
+or,5th District,GOP,41,,,F. Thompson,42.6%,   136620
+or,5th District,PAG,41,,,C. Lugo,2.3%,     7282
+or,5th District,CST,41,,,R. Baldwin,1.1%,     3485
+pa,1st District,Dem,42,,,Winner R. Brady (i),85.0%,   225985
+pa,1st District,GOP,42,,,J. Featherman,15.0%,    39736
+pa,2nd District,Dem,42,,,Winner C. Fattah (i),89.4%,   301869
+pa,2nd District,GOP,42,,,R. Mansfield,9.4%,    31648
+pa,2nd District,Ind,42,,,J. Foster,1.3%,     4243
+pa,3rd District,GOP,42,,,Winner M. Kelly (i),54.7%,   160149
+pa,3rd District,Dem,42,,,M. Eaton,41.1%,   120142
+pa,3rd District,Ind,42,,,S. Porter,4.2%,    12352
+pa,4th District,GOP,42,,,Winner S. Perry,59.7%,   179340
+pa,4th District,Dem,42,,,H. Perkinson,34.4%,   103387
+pa,4th District,Ind,42,,,W. Wolff,3.8%,    11425
+pa,4th District,Lib,42,,,M. Koffenberger,2.0%,     6135
+pa,5th District,GOP,42,,,Winner G. Thompson (i),62.9%,   172042
+pa,5th District,Dem,42,,,C. Dumas,37.1%,   101615
+pa,6th District,GOP,42,,,Winner J. Gerlach (i),57.0%,   183647
+pa,6th District,Dem,42,,,M. Trivedi,43.0%,   138688
+pa,7th District,GOP,42,,,Winner P. Meehan (i),59.5%,   203977
+pa,7th District,Dem,42,,,G. Badey,40.5%,   139067
+pa,8th District,GOP,42,,,Winner M. Fitzpatrick (i),56.6%,   199283
+pa,8th District,Dem,42,,,K. Boockvar,43.4%,   152515
+pa,9th District,GOP,42,,,Winner B. Shuster (i),61.6%,   166038
+pa,9th District,Dem,42,,,K. Ramsburg,38.4%,   103420
+pa,10th District,GOP,42,,,Winner T. Marino (i),65.9%,   176273
+pa,10th District,Dem,42,,,P. Scollo,34.1%,    91355
+pa,11th District,GOP,42,,,Winner L. Barletta (i),58.5%,   163733
+pa,11th District,Dem,42,,,G. Stilp,41.5%,   116315
+pa,12th District,GOP,42,,,Winner K. Rothfus,51.8%,   173340
+pa,12th District,Dem,42,,,M. Critz (i),48.2%,   161397
+pa,13th District,Dem,42,,,Winner A. Schwartz (i),68.9%,   204686
+pa,13th District,GOP,42,,,J. Rooney,31.1%,    92308
+pa,14th District,Dem,42,,,Winner M. Doyle (i),76.9%,   249012
+pa,14th District,GOP,42,,,H. Lessmann,23.1%,    74955
+pa,15th District,GOP,42,,,Winner C. Dent (i),56.7%,   165629
+pa,15th District,Dem,42,,,R. Daugherty,43.3%,   126661
+pa,16th District,GOP,42,,,Winner J. Pitts (i),55.0%,   154337
+pa,16th District,Dem,42,,,A. Strader,38.9%,   109026
+pa,16th District,Ind,42,,,J. Murphy,4.3%,    12058
+pa,16th District,Ind,42,,,J. Bednarski,1.8%,     5093
+pa,17th District,Dem,42,,,Winner M. Cartwright,60.5%,   157629
+pa,17th District,GOP,42,,,L. Cummings,39.5%,   102754
+pa,18th District,GOP,42,,,Winner T. Murphy (i),64.0%,   212712
+pa,18th District,Dem,42,,,L. Maggi,36.0%,   119791
+ri,1st District,Dem,44,,,Winner D. Cicilline (i),52.4%,   106044
+ri,1st District,GOP,44,,,B. Doherty,41.5%,    84018
+ri,1st District,Ind,44,,,D. Vogel,6.1%,    12326
+ri,2nd District,Dem,44,,,Winner J. Langevin (i),55.7%,   121556
+ri,2nd District,GOP,44,,,M. Riley,35.2%,    76852
+ri,2nd District,Ind,44,,,A. Collins,9.1%,    19877
+sc,1st District,GOP,45,,,Winner T. Scott (i),62.4%,   176738
+sc,1st District,Dem,45,,,B. Rose,35.4%,   100351
+sc,1st District,Lib,45,,,K. Blandford,2.2%,     6250
+sc,2nd District,GOP,45,,,Winner J. Wilson (i),0.0%,        0
+sc,3rd District,GOP,45,,,Winner J. Duncan (i),66.7%,   168780
+sc,3rd District,Dem,45,,,B. Doyle,33.3%,    84312
+sc,4th District,GOP,45,,,Winner T. Gowdy (i),65.0%,   171505
+sc,4th District,Dem,45,,,D. Morrow,33.8%,    89094
+sc,4th District,Grn,45,,,J. Sumerel,1.3%,     3341
+sc,5th District,GOP,45,,,Winner M. Mulvaney (i),55.6%,   153047
+sc,5th District,Dem,45,,,J. Knott,44.4%,   122268
+sc,6th District,Dem,45,,,Winner J. Clyburn (i),94.4%,   213953
+sc,6th District,Grn,45,,,N. Muhammad,5.6%,    12713
+sc,7th District,GOP,45,,,Winner T. Rice,54.9%,   147750
+sc,7th District,Dem,45,,,G. Tinubu,45.1%,   121418
+sd,At-Large,GOP,46,,,Winner K. Noem (i),57.5%,   207581
+sd,At-Large,Dem,46,,,M. Varilek,42.5%,   153725
+tn,1st District,GOP,47,,,Winner P. Roe (i),76.1%,   182186
+tn,1st District,Dem,47,,,A. Woodruff,19.9%,    47597
+tn,1st District,Ind,47,,,K. Brackett,2.0%,     4834
+tn,1st District,Grn,47,,,R. Smith,1.2%,     2870
+tn,1st District,Ind,47,,,M. Salyer,0.9%,     2042
+tn,2nd District,GOP,47,,,Winner J. Duncan (i),74.5%,   193312
+tn,2nd District,Dem,47,,,T. Goodale,20.5%,    53336
+tn,2nd District,Grn,47,,,N. Dryer,2.2%,     5639
+tn,2nd District,Ind,47,,,G. Samples,1.7%,     4324
+tn,2nd District,Ind,47,,,B. Stewart,1.1%,     2934
+tn,3rd District,GOP,47,,,Winner C. Fleischmann (i),61.5%,   157725
+tn,3rd District,Dem,47,,,M. Headrick,35.5%,    91031
+tn,3rd District,Ind,47,,,M. Deniston,3.1%,     7897
+tn,4th District,GOP,47,,,Winner S. DesJarlais (i),55.8%,   128500
+tn,4th District,Dem,47,,,E. Stewart,44.2%,   101944
+tn,5th District,Dem,47,,,Winner J. Cooper (i),65.2%,   166999
+tn,5th District,GOP,47,,,B. Staats,32.8%,    83982
+tn,5th District,Grn,47,,,J. Miglietta,2.0%,     5058
+tn,6th District,GOP,47,,,Winner D. Black (i),76.6%,   184264
+tn,6th District,Ind,47,,,S. Beasley,14.4%,    34746
+tn,6th District,Grn,47,,,P. Riley,9.0%,    21613
+tn,7th District,GOP,47,,,Winner M. Blackburn (i),71.0%,   180775
+tn,7th District,Dem,47,,,C. Amouzouvik,24.0%,    61050
+tn,7th District,Grn,47,,,H. Switzer,1.8%,     4584
+tn,7th District,Ind,47,,,J. Arnold,1.7%,     4219
+tn,7th District,Ind,47,,,W. Akin,1.1%,     2728
+tn,7th District,Ind,47,,,L. Ladner,0.5%,     1249
+tn,8th District,GOP,47,,,Winner S. Fincher (i),68.3%,   190571
+tn,8th District,Dem,47,,,T. Dixon,28.4%,    79347
+tn,8th District,Ind,47,,,J. Hart,2.2%,     6132
+tn,8th District,Ind,47,,,M. Rawles,1.0%,     2864
+tn,9th District,Dem,47,,,Winner S. Cohen (i),75.1%,   188245
+tn,9th District,GOP,47,,,G. Flinn,23.8%,    59676
+tn,9th District,Ind,47,,,B. Saulsberry,0.6%,     1444
+tn,9th District,Ind,47,,,G. Joiner,0.5%,     1368
+tx,1st District,GOP,48,,,Winner L. Gohmert (i),71.7%,   182621
+tx,1st District,Dem,48,,,S. McKellar,26.6%,    67758
+tx,1st District,Lib,48,,,C. Patterson,1.6%,     4161
+tx,2nd District,GOP,48,,,Winner T. Poe (i),64.8%,   159369
+tx,2nd District,Dem,48,,,J. Dougherty,32.7%,    80262
+tx,2nd District,Lib,48,,,K. Duncan,1.7%,     4131
+tx,2nd District,Grn,48,,,M. Roberts,0.8%,     1999
+tx,3rd District,GOP,48,,,Winner S. Johnson (i),0.0%,        0
+tx,4th District,GOP,48,,,Winner R. Hall (i),73.0%,   182416
+tx,4th District,Dem,48,,,V. Hathcox,24.1%,    60124
+tx,4th District,Lib,48,,,T. Griffing,2.9%,     7246
+tx,5th District,GOP,48,,,Winner J. Hensarling (i),64.4%,   134005
+tx,5th District,Dem,48,,,L. Mrosko,33.2%,    69025
+tx,5th District,Lib,48,,,K. Ashby,2.4%,     4957
+tx,6th District,GOP,48,,,Winner J. Barton (i),58.0%,   144892
+tx,6th District,Dem,48,,,K. Sanders,39.2%,    97933
+tx,6th District,Lib,48,,,H. Chauvin,1.9%,     4843
+tx,6th District,Grn,48,,,B. Parmer,0.8%,     2015
+tx,7th District,GOP,48,,,Winner J. Culberson (i),60.8%,   142477
+tx,7th District,Dem,48,,,J. Cargas,36.4%,    85253
+tx,7th District,Lib,48,,,D. Parks,2.0%,     4654
+tx,7th District,Grn,48,,,L. Findley,0.8%,     1811
+tx,8th District,GOP,48,,,Winner K. Brady (i),77.4%,   191254
+tx,8th District,Dem,48,,,N. Burns,20.3%,    50077
+tx,8th District,Lib,48,,,R. Hall,2.4%,     5851
+tx,9th District,Dem,48,,,Winner A. Green (i),78.5%,   143850
+tx,9th District,GOP,48,,,S. Mueller,19.7%,    36073
+tx,9th District,Grn,48,,,V. Foster,0.9%,     1738
+tx,9th District,Lib,48,,,J. Wieder,0.9%,     1604
+tx,10th District,GOP,48,,,Winner M. McCaul (i),60.6%,   159391
+tx,10th District,Dem,48,,,T. Cadien,36.2%,    95316
+tx,10th District,Lib,48,,,R. Priest,3.2%,     8497
+tx,11th District,GOP,48,,,Winner M. Conaway (i),78.6%,   177166
+tx,11th District,Dem,48,,,J. Riley,18.6%,    41842
+tx,11th District,Lib,48,,,S. Ballard,2.8%,     6283
+tx,12th District,GOP,48,,,Winner K. Granger (i),70.9%,   175298
+tx,12th District,Dem,48,,,D. Robinson,26.7%,    65991
+tx,12th District,Lib,48,,,M. Solodow,2.4%,     5968
+tx,13th District,GOP,48,,,Winner M. Thornberry (i),91.0%,   187385
+tx,13th District,Lib,48,,,J. Deek,6.2%,    12671
+tx,13th District,Grn,48,,,K. Houston,2.9%,     5895
+tx,14th District,GOP,48,,,Winner R. Weber,53.5%,   130937
+tx,14th District,Dem,48,,,N. Lampson,44.6%,   109264
+tx,14th District,Lib,48,,,Z. Grady,1.5%,     3594
+tx,14th District,Grn,48,,,R. Smith,0.4%,     1053
+tx,15th District,Dem,48,,,Winner R. Hinojosa (i),60.9%,    89143
+tx,15th District,GOP,48,,,D. Brueggemann,36.8%,    53892
+tx,15th District,Lib,48,,,R. Finch,2.3%,     3302
+tx,16th District,Dem,48,,,Winner B. O'Rourke,65.5%,   100804
+tx,16th District,GOP,48,,,B. Carrasco,32.8%,    50478
+tx,16th District,Lib,48,,,J. Sodoy,1.6%,     2529
+tx,17th District,GOP,48,,,Winner B. Flores (i),79.9%,   143126
+tx,17th District,Lib,48,,,B. Easton,20.1%,    35902
+tx,18th District,Dem,48,,,Winner S. Jackson Lee (i),75.0%,   145893
+tx,18th District,GOP,48,,,S. Seibert,22.6%,    43926
+tx,18th District,Lib,48,,,C. Barber,2.4%,     4678
+tx,19th District,GOP,48,,,Winner R. Neugebauer (i),85.0%,   160067
+tx,19th District,Lib,48,,,C. Peterson,15.0%,    28345
+tx,20th District,Dem,48,,,Winner J. Castro,64.0%,   118719
+tx,20th District,GOP,48,,,D. Rosa,33.4%,    62041
+tx,20th District,Lib,48,,,T. Potts,1.7%,     3117
+tx,20th District,Grn,48,,,A. Diaz,0.9%,     1621
+tx,21st District,GOP,48,,,Winner L. Smith (i),60.6%,   186525
+tx,21st District,Dem,48,,,C. Duval,35.4%,   108852
+tx,21st District,Lib,48,,,J. Liberty,4.1%,    12469
+tx,22nd District,GOP,48,,,Winner P. Olson (i),64.1%,   160471
+tx,22nd District,Dem,48,,,K. Rogers,31.9%,    80025
+tx,22nd District,Lib,48,,,S. Susman,2.4%,     5973
+tx,22nd District,Grn,48,,,D. Cook,1.6%,     4050
+tx,23rd District,Dem,48,,,Winner P. Gallego,50.3%,    96477
+tx,23rd District,GOP,48,,,Q. Canseco (i),45.5%,    87255
+tx,23rd District,Lib,48,,,J. Blunt,3.0%,     5827
+tx,23rd District,Grn,48,,,E. Scharf,1.1%,     2099
+tx,24th District,GOP,48,,,Winner K. Marchant (i),61.0%,   148207
+tx,24th District,Dem,48,,,T. Rusk,36.0%,    87347
+tx,24th District,Lib,48,,,J. Stathas,3.0%,     7226
+tx,25th District,GOP,48,,,Winner R. Williams,58.5%,   153868
+tx,25th District,Dem,48,,,E. Henderson,37.4%,    98427
+tx,25th District,Lib,48,,,B. Dewey,4.1%,    10822
+tx,26th District,GOP,48,,,Winner M. Burgess (i),68.3%,   175669
+tx,26th District,Dem,48,,,D. Sanchez,28.6%,    73661
+tx,26th District,Lib,48,,,M. Boler,3.0%,     7780
+tx,27th District,GOP,48,,,Winner B. Farenthold (i),56.7%,   120490
+tx,27th District,Dem,48,,,R. Harrison,39.2%,    83280
+tx,27th District,Ind,48,,,B. Baldwin,2.5%,     5345
+tx,27th District,Lib,48,,,C. Byrd,1.5%,     3208
+tx,28th District,Dem,48,,,Winner H. Cuellar (i),67.9%,   112262
+tx,28th District,GOP,48,,,W. Hayward,29.7%,    49095
+tx,28th District,Lib,48,,,P. Hisel,1.5%,     2453
+tx,28th District,Grn,48,,,M. Cary,0.8%,     1403
+tx,29th District,Dem,48,,,Winner G. Green (i),90.0%,    85920
+tx,29th District,Lib,48,,,J. Stanczak,5.2%,     4988
+tx,29th District,Grn,48,,,M. Selva,4.8%,     4550
+tx,30th District,Dem,48,,,Winner E. Johnson (i),78.9%,   169889
+tx,30th District,GOP,48,,,T. Washington,19.0%,    40841
+tx,30th District,Lib,48,,,E. Rankin,2.2%,     4693
+tx,31st District,GOP,48,,,Winner J. Carter (i),61.3%,   145096
+tx,31st District,Dem,48,,,S. Wyman,35.0%,    82791
+tx,31st District,Lib,48,,,E. Garofolo,3.7%,     8846
+tx,32nd District,GOP,48,,,Winner P. Sessions (i),58.3%,   146129
+tx,32nd District,Dem,48,,,K. McGovern,39.4%,    98867
+tx,32nd District,Lib,48,,,S. Hollist,2.3%,     5664
+tx,33rd District,Dem,48,,,Winner M. Veasey,72.5%,    84940
+tx,33rd District,GOP,48,,,C. Bradley,25.7%,    30152
+tx,33rd District,Grn,48,,,E. Lindsay,1.7%,     2006
+tx,34th District,Dem,48,,,Winner F. Vela,62.2%,    88781
+tx,34th District,GOP,48,,,J. Bradshaw,35.9%,    51338
+tx,34th District,Lib,48,,,Z. Shanklin,1.9%,     2685
+tx,35th District,Dem,48,,,Winner L. Doggett (i),64.0%,   105260
+tx,35th District,GOP,48,,,S. Narvaiz,32.0%,    52686
+tx,35th District,Lib,48,,,R. Leone,2.5%,     4063
+tx,35th District,Grn,48,,,M. Owen,1.5%,     2528
+tx,36th District,GOP,48,,,Winner S. Stockman,70.8%,   165388
+tx,36th District,Dem,48,,,M. Martin,26.6%,    62052
+tx,36th District,Lib,48,,,M. Cole,2.7%,     6274
+ut,1st District,GOP,49,,,Winner R. Bishop (i),71.5%,   161546
+ut,1st District,Dem,49,,,D. McAleer,24.7%,    55740
+ut,1st District,CST,49,,,S. Phipps,3.8%,     8603
+ut,2nd District,GOP,49,,,Winner C. Stewart,62.3%,   139860
+ut,2nd District,Dem,49,,,J. Seegmiller,33.6%,    75399
+ut,2nd District,CST,49,,,J. Garrard,1.9%,     4298
+ut,2nd District,Una,49,,,J. Andrade,1.2%,     2615
+ut,2nd District,Una,49,,,C. Kimball,1.1%,     2449
+ut,3rd District,GOP,49,,,Winner J. Chaffetz (i),76.4%,   180760
+ut,3rd District,Dem,49,,,S. Simonsen,23.6%,    55879
+ut,4th District,Dem,49,,,Winner J. Matheson (i),49.3%,   108275
+ut,4th District,GOP,49,,,M. Love,48.1%,   105629
+ut,4th District,Lib,49,,,J. Vein,2.6%,     5703
+va,1st District,GOP,51,,,Winner R. Wittman (i),56.1%,   200736
+va,1st District,Dem,51,,,A. Cook,41.0%,   146844
+va,1st District,IGr,51,,,G. Parker,2.9%,    10295
+va,2nd District,GOP,51,,,Winner S. Rigell (i),53.8%,   164977
+va,2nd District,Dem,51,,,P. Hirschbiel,46.2%,   141697
+va,3rd District,Dem,51,,,Winner B. Scott (i),81.2%,   246155
+va,3rd District,GOP,51,,,D. Longo,18.8%,    57007
+va,4th District,GOP,51,,,Winner R. Forbes (i),57.1%,   198999
+va,4th District,Dem,51,,,E. Ward,42.9%,   149504
+va,5th District,GOP,51,,,Winner R. Hurt (i),55.3%,   192020
+va,5th District,Dem,51,,,J. Douglass,43.2%,   149906
+va,5th District,IGr,51,,,K. Hildebrandt,1.6%,     5439
+va,6th District,GOP,51,,,Winner B. Goodlatte (i),65.6%,   209701
+va,6th District,Dem,51,,,A. Schmookler,34.4%,   109929
+va,7th District,GOP,51,,,Winner E. Cantor (i),58.6%,   222345
+va,7th District,Dem,51,,,W. Powell,41.4%,   157249
+va,8th District,Dem,51,,,Winner J. Moran (i),64.6%,   210347
+va,8th District,GOP,51,,,P. Murray,30.7%,    99964
+va,8th District,Ind,51,,,J. Howell,3.0%,     9763
+va,8th District,IGr,51,,,J. Murphy,1.7%,     5665
+va,9th District,GOP,51,,,Winner M. Griffith (i),61.2%,   183278
+va,9th District,Dem,51,,,A. Flaccavento,38.8%,   115972
+va,10th District,GOP,51,,,Winner F. Wolf (i),58.8%,   201937
+va,10th District,Dem,51,,,K. Cabral,38.4%,   131875
+va,10th District,Ind,51,,,K. Chisholm,2.8%,     9496
+va,11th District,Dem,51,,,Winner G. Connolly (i),61.0%,   176686
+va,11th District,GOP,51,,,C. Perkins,35.5%,   102970
+va,11th District,Ind,51,,,M. Gibson,1.2%,     3478
+va,11th District,Ind,51,,,C. DeCarlo,1.0%,     2785
+va,11th District,Grn,51,,,J. Galdo,0.7%,     2000
+va,11th District,IGr,51,,,P. Marchetti,0.6%,     1790
+vt,At-Large,Dem,50,,,Winner P. Welch (i),72.0%,   209271
+vt,At-Large,GOP,50,,,M. Donka,23.2%,    67511
+vt,At-Large,Ind,50,,,S. Desrochers,2.9%,     8281
+vt,At-Large,LUn,50,,,J. Newton,1.5%,     4221
+vt,At-Large,Ind,50,,,A. LaFramboise,0.4%,     1176
+wa,1st District,Dem,53,,,Winner S. DelBene,53.6%,   161018
+wa,1st District,GOP,53,,,J. Koster,46.4%,   139199
+wa,1st District Special Election,Dem,53,,,Winner S. DelBene,60.2%,   197502
+wa,1st District Special Election,GOP,53,,,J. Koster,39.8%,   130721
+wa,2nd District,Dem,53,,,Winner R. Larsen (i),60.9%,   169097
+wa,2nd District,GOP,53,,,D. Matthews,39.1%,   108785
+wa,3rd District,GOP,53,,,Winner J. Herrera Beutler (i),60.1%,   167322
+wa,3rd District,Dem,53,,,J. Haugen,39.9%,   110974
+wa,4th District,GOP,53,,,Winner D. Hastings (i),66.7%,   144790
+wa,4th District,Dem,53,,,M. Baechler,33.3%,    72189
+wa,5th District,GOP,53,,,Winner C. McMorris Rodgers (i),62.1%,   177481
+wa,5th District,Dem,53,,,R. Cowan,37.9%,   108548
+wa,6th District,Dem,53,,,Winner D. Kilmer,59.0%,   178701
+wa,6th District,GOP,53,,,B. Driscoll,41.0%,   124378
+wa,7th District,Dem,53,,,Winner J. McDermott (i),79.5%,   268234
+wa,7th District,GOP,53,,,R. Bemis,20.5%,    69332
+wa,8th District,GOP,53,,,Winner D. Reichert (i),59.9%,   170595
+wa,8th District,Dem,53,,,K. Porterfield,40.1%,   114047
+wa,9th District,Dem,53,,,Winner A. Smith (i),71.4%,   175273
+wa,9th District,GOP,53,,,J. Postma,28.6%,    70126
+wa,10th District,Dem,53,,,Winner D. Heck,58.2%,   153066
+wa,10th District,GOP,53,,,D. Muri,41.8%,   109784
+wi,1st District,GOP,55,,,Winner P. Ryan (i),54.9%,   199715
+wi,1st District,Dem,55,,,R. Zerban,43.4%,   157721
+wi,1st District,Lib,55,,,K. Deschler,1.7%,     6029
+wi,2nd District,Dem,55,,,Winner M. Pocan,68.0%,   264790
+wi,2nd District,GOP,55,,,C. Lee,32.0%,   124465
+wi,3rd District,Dem,55,,,Winner R. Kind (i),64.1%,   217328
+wi,3rd District,GOP,55,,,R. Boland,35.9%,   121536
+wi,4th District,Dem,55,,,Winner G. Moore (i),72.3%,   234823
+wi,4th District,GOP,55,,,D. Sebring,24.8%,    80637
+wi,4th District,Ind,55,,,R. Raymond,2.8%,     9253
+wi,5th District,GOP,55,,,Winner J. Sensenbrenner (i),67.9%,   249267
+wi,5th District,Dem,55,,,D. Heaster,32.1%,   117972
+wi,6th District,GOP,55,,,Winner T. Petri (i),62.1%,   223514
+wi,6th District,Dem,55,,,J. Kallas,37.9%,   136146
+wi,7th District,GOP,55,,,Winner S. Duffy (i),56.1%,   201318
+wi,7th District,Dem,55,,,P. Kreitlow,43.9%,   157340
+wi,8th District,GOP,55,,,Winner R. Ribble (i),55.9%,   198464
+wi,8th District,Dem,55,,,J. Wall,44.1%,   156371
+wv,1st District,GOP,54,,,Winner D. McKinley (i),62.5%,   130783
+wv,1st District,Dem,54,,,S. Thorn,37.5%,    78474
+wv,2nd District,GOP,54,,,Winner S. Capito (i),69.8%,   156920
+wv,2nd District,Dem,54,,,H. Swint,30.2%,    67965
+wv,3rd District,Dem,54,,,Winner N. Rahall (i),53.9%,   107302
+wv,3rd District,GOP,54,,,R. Snuffer,46.1%,    91602
+wy,At-Large,GOP,56,,,Winner C. Lummis (i),69.1%,   165773
+wy,At-Large,Dem,56,,,C. Henrichsen,23.8%,    57148
+wy,At-Large,Lib,56,,,R. Brubaker,3.5%,     8398
+wy,At-Large,CST,56,,,D. Cummings,2.1%,     4939
+wy,At-Large,WYC,56,,,D. Wills,1.6%,     3750

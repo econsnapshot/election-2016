@@ -1,0 +1,1132 @@
+State,District,Party,St_FIPS,Candidate,Percentage,Votes
+AK,Wood,R,02,Young,71%,213216
+AK,Wood,Democratic,02,Higgins,23%,67074
+AK,Wood,Green,02,Feller,4%,11434
+AK,Wood,Libertarian,02,Anders,2%,7157
+AL,Alabama 1,R,01,Bonner,63%,161067
+AL,Alabama 1,Democratic,01,Belk,37%,93938
+AL,Alabama 2,R,01,Everett,72%,177086
+AL,Alabama 2,Democratic,01,James,28%,70562
+AL,Alabama 3,R,01,Rogers,61%,150411
+AL,Alabama 3,Democratic,01,Fuller,39%,95240
+AL,Alabama 4,R,01,Aderholt,75%,191110
+AL,Alabama 4,Democratic,01,Cole,25%,64278
+AL,Alabama 5,Democratic,01,Cramer,73%,200999
+AL,Alabama 5,R,01,Wallace,27%,74145
+AL,Alabama 6,R,01,Bachus,unopposed,unopposed
+AL,Alabama 7,Democratic,01,Davis,75%,183408
+AL,Alabama 7,R,01,Cameron,25%,61019
+AR,Arkansas 1,Democratic,05,Berry,67%,162388
+AR,Arkansas 1,R,05,Humphrey,33%,81556
+AR,Arkansas 2,Democratic,05,Snyder,58%,160834
+AR,Arkansas 2,R,05,Parks,42%,115655
+AR,Arkansas 3,R,05,Boozman,59%,160629
+AR,Arkansas 3,Democratic,05,Judy,38%,103158
+AR,Arkansas 3,I,05,Morfey,3%,7016
+AR,Arkansas 4,Democratic,05,Ross,unopposed,unopposed
+AZ,Arizona 1,R,04,Renzi,59%,148315
+AZ,Arizona 1,Democratic,04,Babbitt,36%,91776
+AZ,Arizona 1,Libertarian,04,Crockett,5%,13260
+AZ,Arizona 2,R,04,Franks,59%,165260
+AZ,Arizona 2,Democratic,04,Camacho,39%,107406
+AZ,Arizona 2,Libertarian,04,Gammill,2%,6625
+AZ,Arizona 3,R,04,Shadegg,80%,181012
+AZ,Arizona 3,Libertarian,04,Yannone,20%,44962
+AZ,Arizona 4,Democratic,04,Pastor,70%,77150
+AZ,Arizona 4,R,04,Karg,26%,28238
+AZ,Arizona 4,Libertarian,04,Fallon,4%,4639
+AZ,Arizona 5,R,04,Hayworth,60%,159455
+AZ,Arizona 5,Democratic,04,Rogers,38%,102363
+AZ,Arizona 5,Libertarian,04,Kielsky,2%,6189
+AZ,Arizona 6,R,04,Flake,79%,202882
+AZ,Arizona 6,Libertarian,04,Stritar,21%,52695
+AZ,Arizona 7,Democratic,04,Grijalva,62%,108868
+AZ,Arizona 7,R,04,Sweeney,34%,59066
+AZ,Arizona 7,Libertarian,04,Kaplan,4%,7503
+AZ,Arizona 8,R,04,Kolbe,60%,183363
+AZ,Arizona 8,Democratic,04,Bacal,36%,109963
+AZ,Arizona 8,Libertarian,04,Anderson,4%,10443
+CA,California 1,Democratic,06,Thompson,67%,189366
+CA,California 1,R,06,Wiesner,28%,79970
+CA,California 1,Green,06,Elizondo,5%,13635
+CA,California 2,R,06,Herger,67%,182119
+CA,California 2,Democratic,06,Johnson,33%,90310
+CA,California 3,R,06,Lungren,62%,177738
+CA,California 3,Democratic,06,Castillo,35%,100025
+CA,California 3,Libertarian,06,Tuma,3%,9310
+CA,California 4,R,06,Doolittle,65%,221926
+CA,California 4,Democratic,06,Winters,35%,117443
+CA,California 5,Democratic,06,Matsui,71%,138004
+CA,California 5,R,06,Dugas,23%,45120
+CA,California 5,Green,06,Driscoll,4%,6593
+CA,California 5,Peace & Freedom,06,Reiger,2%,3670
+CA,California 6,Democratic,06,Woolsey,73%,226423
+CA,California 6,R,06,Erickson,27%,85244
+CA,California 7,Democratic,06,Miller,76%,166831
+CA,California 7,R,06,Hargrave,24%,52446
+CA,California 8,Democratic,06,Pelosi,85%,224017
+CA,California 8,R,06,Depalma,12%,31074
+CA,California 8,Peace & Freedom,06,Dowell,3%,9527
+CA,California 9,Democratic,06,Lee,85%,215630
+CA,California 9,R,06,Bermudez,12%,31278
+CA,California 9,Libertarian,06,Eyer,3%,8131
+CA,California 10,Democratic,06,Tauscher,66%,182750
+CA,California 10,R,06,Ketelson,34%,95349
+CA,California 11,R,06,Pombo,61%,163582
+CA,California 11,Democratic,06,McNerney,39%,103587
+CA,California 12,Democratic,06,Lantos,68%,171852
+CA,California 12,R,06,Garza,21%,52593
+CA,California 12,Green,06,Gray,9%,23038
+CA,California 12,Libertarian,06,Harrison,2%,5116
+CA,California 13,Democratic,06,Stark,72%,144605
+CA,California 13,R,06,Bruno,24%,48439
+CA,California 13,Libertarian,06,Stroberg,4%,8877
+CA,California 14,Democratic,06,Eshoo,70%,182712
+CA,California 14,R,06,Haugen,26%,69564
+CA,California 14,Libertarian,06,Holtz,4%,9588
+CA,California 15,Democratic,06,Honda,72%,154385
+CA,California 15,R,06,Chukwu,28%,59953
+CA,California 16,Democratic,06,Lofgren,71%,129222
+CA,California 16,R,06,McNea,26%,47992
+CA,California 16,Libertarian,06,Welch,3%,5067
+CA,California 17,Democratic,06,Farr,67%,148958
+CA,California 17,R,06,Risley,29%,65117
+CA,California 17,Green,06,Glock-Grueneich,2%,3645
+CA,California 17,Peace & Freedom,06,Williams,1%,2823
+CA,California 17,Libertarian,06,Smolen,1%,2607
+CA,California 18,Democratic,06,Cardoza,67%,103732
+CA,California 18,R,06,Pringle,33%,49973
+CA,California 19,R,06,Radanovich,66%,155354
+CA,California 19,Democratic,06,Bufford,27%,64047
+CA,California 19,Green,06,Mullen,7%,15863
+CA,California 20,Democratic,06,Costa,53%,61005
+CA,California 20,R,06,Ashburn,47%,53231
+CA,California 21,R,06,Nunes,73%,140721
+CA,California 21,Democratic,06,Davis,27%,51594
+CA,California 22,R,06,Thomas,unopposed,unopposed
+CA,California 23,Democratic,06,Capps,63%,153980
+CA,California 23,R,06,Regan,34%,83926
+CA,California 23,Libertarian,06,Favorite,3%,6391
+CA,California 24,R,06,Gallegly,63%,178660
+CA,California 24,Democratic,06,Wagner,34%,96397
+CA,California 24,Green,06,Bechman,3%,9321
+CA,California 25,R,06,McKeon,64%,145575
+CA,California 25,Democratic,06,Willoughby,36%,80395
+CA,California 26,R,06,Dreier,53%,134596
+CA,California 26,Democratic,06,Matthews,43%,107522
+CA,California 26,Libertarian,06,Weissbuch,4%,9089
+CA,California 27,Democratic,06,Sherman,62%,125296
+CA,California 27,R,06,Levy,33%,66946
+CA,California 27,Green,06,Carter,5%,8956
+CA,California 28,Democratic,06,Berman,71%,115303
+CA,California 28,R,06,Hernandez,23%,37868
+CA,California 28,Libertarian,06,Ross,6%,9339
+CA,California 29,Democratic,06,Schiff,65%,133670
+CA,California 29,R,06,Scolinos,30%,62871
+CA,California 29,Green,06,Koebel,3%,5715
+CA,California 29,Libertarian,06,Brown,2%,4570
+CA,California 30,Democratic,06,Waxman,71%,216682
+CA,California 30,R,06,Elizalde,29%,87465
+CA,California 31,Democratic,06,Becerra,80%,89363
+CA,California 31,R,06,Vega,20%,22048
+CA,California 32,Democratic,06,Solis,85%,119144
+CA,California 32,Libertarian,06,Faegre,15%,21002
+CA,California 33,Democratic,06,Watson,89%,166801
+CA,California 33,Libertarian,06,Weber,11%,21513
+CA,California 34,Democratic,06,Roybal-Allard,74%,82282
+CA,California 34,R,06,Miller,26%,28175
+CA,California 35,Democratic,06,Waters,81%,125949
+CA,California 35,R,06,Moen,15%,23591
+CA,California 35,American Independence,06,Mego,2%,3440
+CA,California 35,Libertarian,06,Tate,2%,3427
+CA,California 36,Democratic,06,Harman,62%,151208
+CA,California 36,R,06,Whitehead,33%,81666
+CA,California 36,Peace & Freedom,06,Stek,3%,6105
+CA,California 36,Libertarian,06,Binkley,2%,5065
+CA,California 37,Democratic,06,Millender-McDonald,75%,118823
+CA,California 37,R,06,Van,20%,31960
+CA,California 37,Libertarian,06,Peters,5%,7535
+CA,California 38,Democratic,06,Napolitano,unopposed,unopposed
+CA,California 39,Democratic,06,Sanchez,61%,100132
+CA,California 39,R,06,Escobar,39%,64832
+CA,California 40,R,06,Royce,68%,147617
+CA,California 40,Democratic,06,Williams,32%,69684
+CA,California 41,R,06,Lewis,83%,181605
+CA,California 41,Libertarian,06,Mottahedeh,17%,37332
+CA,California 42,R,06,Miller,68%,167632
+CA,California 42,Democratic,06,Myers,32%,78393
+CA,California 43,Democratic,06,Baca,66%,86830
+CA,California 43,R,06,Laning,34%,44004
+CA,California 44,R,06,Calvert,62%,138768
+CA,California 44,Democratic,06,Vandenberg,35%,78796
+CA,California 44,Peace & Freedom,06,Akin,3%,7559
+CA,California 45,R,06,Bono,67%,153523
+CA,California 45,Democratic,06,Meyer,33%,76967
+CA,California 46,R,06,Rohrabacher,62%,171318
+CA,California 46,Democratic,06,Brandt,32%,90129
+CA,California 46,Green,06,Lash,4%,10238
+CA,California 46,Libertarian,06,Gann,2%,5005
+CA,California 47,Democratic,06,Sanchez,60%,65684
+CA,California 47,R,06,Coronado,40%,43099
+CA,California 48,R,06,Cox,65%,189004
+CA,California 48,Democratic,06,Graham,32%,93525
+CA,California 48,Libertarian,06,Cohen,3%,8343
+CA,California 49,R,06,Issa,63%,141658
+CA,California 49,Democratic,06,Byron,35%,79057
+CA,California 49,Libertarian,06,Grossmith,2%,5751
+CA,California 50,R,06,Cunningham,58%,169025
+CA,California 50,Democratic,06,Busby,37%,105590
+CA,California 50,Green,06,Waayers,2%,6504
+CA,California 50,American Independence,06,Templin,2%,4723
+CA,California 50,Libertarian,06,Osborne,1%,3486
+CA,California 51,Democratic,06,Filner,62%,111441
+CA,California 51,R,06,Giorgino,35%,63526
+CA,California 51,Libertarian,06,Metti,3%,5912
+CA,California 52,R,06,Hunter,69%,187799
+CA,California 52,Democratic,06,Keliher,28%,74857
+CA,California 52,Libertarian,06,Benoit,3%,8782
+CA,California 53,Democratic,06,Davis,66%,146449
+CA,California 53,R,06,Hunzeker,29%,63897
+CA,California 53,Green,06,Rockwood,3%,7523
+CA,California 53,Libertarian,06,Van Susteren,2%,3567
+CO,Colorado 1,Democratic,08,DeGette,74%,177077
+CO,Colorado 1,R,08,Chicas,24%,58659
+CO,Colorado 1,American Constitution,08,Lilly,2%,5193
+CO,Colorado 2,Democratic,08,Udall,67%,207900
+CO,Colorado 2,R,08,Hackman,31%,94160
+CO,Colorado 2,Libertarian,08,Olsen,2%,7304
+CO,Colorado 3,Democratic,08,Salazar,50%,153500
+CO,Colorado 3,R,08,Walcher,47%,141376
+CO,Colorado 3,Unaffiliated,08,Krug,3%,8770
+CO,Colorado 4,R,08,Musgrave,51%,155958
+CO,Colorado 4,Democratic,08,Matsunaka,45%,136812
+CO,Colorado 4,Green,08,Kinsey,4%,12739
+CO,Colorado 5,R,08,Hefley,71%,193333
+CO,Colorado 5,Democratic,08,Hardee,27%,74098
+CO,Colorado 5,Libertarian,08,Roberts,2%,6627
+CO,Colorado 6,R,08,Tancredo,60%,212778
+CO,Colorado 6,Democratic,08,Conti,39%,139870
+CO,Colorado 6,Libertarian,08,Woehr,1%,3857
+CO,Colorado 6,American Constitution,08,Shevchuk,0%,1236
+CO,Colorado 7,R,08,Beauprez,55%,135571
+CO,Colorado 7,Democratic,08,Thomas,43%,106026
+CO,Colorado 7,American Constitution,08,Harkins,2%,6167
+CT,Connecticut 1,Democratic,09,Larson,73%,198802
+CT,Connecticut 1,R,09,Halstead,27%,73601
+CT,Connecticut 2,R,09,Simmons,54%,166412
+CT,Connecticut 2,Democratic,09,Sullivan,46%,140536
+CT,Connecticut 3,Democratic,09,DeLauro,72%,200638
+CT,Connecticut 3,R,09,Elser,25%,69160
+CT,Connecticut 3,Green,09,Ferrucci,3%,7182
+CT,Connecticut 4,R,09,Shays,52%,152493
+CT,Connecticut 4,Democratic,09,Farrell,48%,138333
+CT,Connecticut 5,R,09,Johnson,60%,168268
+CT,Connecticut 5,Democratic,09,Gerratana,38%,107438
+CT,Connecticut 5,Working Families,09,Ramirez,1%,3196
+CT,Connecticut 5,Concerned Citizens,09,Moore,1%,2545
+DE,Delaware 1,R,10,Castle,69%,245978
+DE,Delaware 1,Democratic,10,Donnelly,30%,105716
+DE,Delaware 1,I,10,Barros,1%,2337
+DE,Delaware 1,Libertarian,10,Morris,0%,2014
+FL,Florida 1,R,12,Miller,77%,236604
+FL,Florida 1,Democratic,12,Coutu,23%,72506
+FL,Florida 2,Democratic,12,Boyd,62%,201577
+FL,Florida 2,R,12,Kilmer,38%,125399
+FL,Florida 3,Democratic,12,Brown,unopposed,unopposed
+FL,Florida 4,R,12,Crenshaw,unopposed,unopposed
+FL,Florida 5,R,12,Brown-Waite,66%,240315
+FL,Florida 5,Democratic,12,Whittel,34%,124140
+FL,Florida 6,R,12,Stearns,64%,211137
+FL,Florida 6,Democratic,12,Bruderly,36%,116680
+FL,Florida 7,R,12,Mica,unopposed,unopposed
+FL,Florida 8,R,12,Keller,61%,172232
+FL,Florida 8,Democratic,12,Murray,39%,112343
+FL,Florida 9,R,12,Bilirakis,unopposed,unopposed
+FL,Florida 10,R,12,Young,69%,207175
+FL,Florida 10,Democratic,12,Derry,31%,91658
+FL,Florida 11,Democratic,12,Davis,86%,191780
+FL,Florida 11,Libertarian,12,Johnson,14%,31579
+FL,Florida 12,R,12,Putnam,65%,179204
+FL,Florida 12,Democratic,12,Hagenmaier,35%,96965
+FL,Florida 13,R,12,Harris,55%,190477
+FL,Florida 13,Democratic,12,Schneider,45%,153961
+FL,Florida 14,R,12,Mack,68%,226662
+FL,Florida 14,Democratic,12,Neeld,32%,108672
+FL,Florida 15,R,12,Weldon,65%,210388
+FL,Florida 15,Democratic,12,Pristoop,35%,111538
+FL,Florida 16,R,12,Foley,68%,215563
+FL,Florida 16,Democratic,12,Fisher,32%,101247
+FL,Florida 17,Democratic,12,Meek,unopposed,unopposed
+FL,Florida 18,R,12,Ros-Lehtinen,65%,143647
+FL,Florida 18,Democratic,12,Sheldon,35%,78281
+FL,Florida 19,Democratic,12,Wexler,unopposed,unopposed
+FL,Florida 20,Democratic,12,Wasserman Schultz,70%,191195
+FL,Florida 20,R,12,Hostetter,30%,81213
+FL,Florida 21,R,12,Diaz-Balart,73%,146507
+FL,Florida 21,Libertarian,12,Gonzalez,27%,54736
+FL,Florida 22,R,12,Shaw,63%,192581
+GA,Georgia 1,R,13,Kingston,unopposed,unopposed
+GA,Georgia 2,Democratic,13,Bishop,67%,129984
+GA,Georgia 2,R,13,Eversman,33%,64645
+GA,Georgia 3,Democratic,13,Marshall,63%,136273
+GA,Georgia 3,R,13,Clay,37%,80435
+GA,Georgia 4,Democratic,13,McKinney,64%,157461
+GA,Georgia 4,R,13,Davis,36%,89509
+GA,Georgia 5,Democratic,13,Lewis,unopposed,unopposed
+GA,Georgia 6,R,13,Price,unopposed,unopposed
+GA,Georgia 7,R,13,Linder,unopposed,unopposed
+GA,Georgia 8,R,13,Westmoreland,76%,227524
+GA,Georgia 8,Democratic,13,Delamar,24%,73632
+GA,Georgia 9,R,13,Norwood,74%,197869
+GA,Georgia 9,Democratic,13,Ellis,26%,68462
+GA,Georgia 10,R,13,Deal,unopposed,unopposed
+GA,Georgia 11,R,13,Gingrey,57%,120696
+GA,Georgia 11,Democratic,13,Crawford,43%,89591
+GA,Georgia 12,Democratic,13,Barrow,52%,113036
+GA,Georgia 12,R,13,Burns,48%,105132
+GA,Georgia 13,Democratic,13,Scott,unopposed,unopposed
+HI,Hawaii 1,Democratic,15,Abercrombie,63%,128567
+HI,Hawaii 1,R,15,Tanonaka,34%,69371
+HI,Hawaii 1,Libertarian,15,Young,3%,6243
+HI,Hawaii 2,Democratic,15,Case,63%,133317
+HI,Hawaii 2,R,15,Gabbard,37%,79072
+IA,Iowa 1,R,19,Nussle,55%,159993
+IA,Iowa 1,Democratic,19,Gluba,43%,125490
+IA,Iowa 1,Libertarian,19,Nelson,1%,2727
+IA,Iowa 1,Petitioning Candidate,19,Heath,1%,1756
+IA,Iowa 2,R,19,Leach,59%,176684
+IA,Iowa 2,Democratic,19,Franker,39%,117405
+IA,Iowa 2,Libertarian,19,Litten,2%,5586
+IA,Iowa 3,Democratic,19,Boswell,55%,168007
+IA,Iowa 3,R,19,Thompson,45%,136099
+IA,Iowa 4,R,19,Latham,61%,181294
+IA,Iowa 4,Democratic,19,Johnson,39%,116121
+IA,Iowa 5,R,19,King,63%,168583
+IA,Iowa 5,Democratic,19,Schulte,37%,97597
+ID,Idaho 1,R,16,Otter,70%,207662
+ID,Idaho 1,Democratic,16,Preston,30%,90927
+ID,Idaho 2,R,16,Simpson,71%,193704
+ID,Idaho 2,Democratic,16,Whitworth,29%,80133
+IL,Illinois 1,Democratic,17,Rush,85%,212109
+IL,Illinois 1,R,17,Wardingley,15%,37840
+IL,Illinois 2,Democratic,17,Jackson,88%,207535
+IL,Illinois 2,Libertarian,17,Sailor,12%,26990
+IL,Illinois 3,Democratic,17,Lipinski,74%,167034
+IL,Illinois 3,R,17,Chlada,26%,57845
+IL,Illinois 4,Democratic,17,Gutierrez,84%,104761
+IL,Illinois 4,R,17,Cisneros,12%,15536
+IL,Illinois 4,Libertarian,17,Witmer,4%,4845
+IL,Illinois 5,Democratic,17,Emanuel,76%,158400
+IL,Illinois 5,R,17,Best,24%,49530
+IL,Illinois 6,R,17,Hyde,56%,139627
+IL,Illinois 6,Democratic,17,Cegelis,44%,110470
+IL,Illinois 7,Democratic,17,Davis,86%,221133
+IL,Illinois 7,R,17,Davis-Fairman,14%,35603
+IL,Illinois 8,Democratic,17,Bean,52%,139792
+IL,Illinois 8,R,17,Crane,48%,130601
+IL,Illinois 9,Democratic,17,Schakowsky,76%,175282
+IL,Illinois 9,R,17,Eckhardt,24%,56135
+IL,Illinois 10,R,17,Kirk,64%,177493
+IL,Illinois 10,Democratic,17,Goodman,36%,99218
+IL,Illinois 11,R,17,Weller,59%,173057
+IL,Illinois 11,Democratic,17,Renner,41%,121903
+IL,Illinois 12,Democratic,17,Costello,69%,198962
+IL,Illinois 12,R,17,Zweigart,29%,82677
+IL,Illinois 12,Libertarian,17,Steele,2%,4794
+IL,Illinois 13,R,17,Biggert,65%,200472
+IL,Illinois 13,Democratic,17,Schor Andersen,35%,107836
+IL,Illinois 14,R,17,Hastert,69%,191618
+IL,Illinois 14,Democratic,17,Zamora,31%,87590
+IL,Illinois 15,R,17,Johnson,61%,178114
+IL,Illinois 15,Democratic,17,Gill,39%,113625
+IL,Illinois 16,R,17,Manzullo,69%,204350
+IL,Illinois 16,Democratic,17,Kutsch,31%,91452
+IL,Illinois 17,Democratic,17,Evans,61%,172320
+IL,Illinois 17,R,17,Lane Zinga,39%,111680
+IL,Illinois 18,R,17,LaHood,70%,216047
+IL,Illinois 18,Democratic,17,Waterworth,30%,91548
+IL,Illinois 19,R,17,Shimkus,69%,213451
+IL,Illinois 19,Democratic,17,Bagwell,31%,94303
+IN,Indiana 1,Democratic,18,Visclosky,68%,178406
+IN,Indiana 1,R,18,Leyva,32%,82858
+IN,Indiana 2,R,18,Chocola,54%,140496
+IN,Indiana 2,Democratic,18,Donnelly,45%,115513
+IN,Indiana 2,Libertarian,18,Barnes,1%,3346
+IN,Indiana 3,R,18,Souder,69%,171389
+IN,Indiana 3,Democratic,18,Parra,31%,76232
+IN,Indiana 4,R,18,Buyer,70%,190445
+IN,Indiana 4,Democratic,18,Sanders,28%,77574
+IN,Indiana 4,Libertarian,18,Fleming,2%,6117
+IN,Indiana 5,R,18,Burton,72%,228718
+IN,Indiana 5,Democratic,18,Carr,26%,82637
+IN,Indiana 5,Libertarian,18,Hodgin,2%,7008
+IN,Indiana 6,R,18,Pence,67%,182529
+IN,Indiana 6,Democratic,18,Fox,31%,85123
+IN,Indiana 6,Libertarian,18,Roots,2%,4397
+IN,Indiana 7,Democratic,18,Carson,54%,121303
+IN,Indiana 7,R,18,Horning,44%,97491
+IN,Indiana 7,Libertarian,18,Campbell,2%,4381
+IN,Indiana 8,R,18,Hostettler,53%,145576
+IN,Indiana 8,Democratic,18,Jennings,45%,121522
+IN,Indiana 8,Libertarian,18,Garvin,2%,5680
+IN,Indiana 9,R,18,Sodrel,49%,142197
+IN,Indiana 9,Democratic,18,Hill,49%,140772
+IN,Indiana 9,Libertarian,18,Cox,2%,4541
+KS,Kansas 1,R,20,Moran,91%,239776
+KS,Kansas 1,Libertarian,20,Warner,9%,24517
+KS,Kansas 2,R,20,Ryun,56%,165325
+KS,Kansas 2,Democratic,20,Boyda,41%,121532
+KS,Kansas 2,Libertarian,20,Hawver,3%,7579
+KS,Kansas 3,Democratic,20,Moore,55%,184050
+KS,Kansas 3,R,20,Kobach,43%,145542
+KS,Kansas 3,Libertarian,20,Bellis,1%,3191
+KS,Kansas 3,Reform,20,Wells,1%,2956
+KS,Kansas 4,R,20,Tiahrt,66%,173151
+KS,Kansas 4,Democratic,20,Kinard,31%,81388
+KS,Kansas 4,Libertarian,20,Loomis,3%,7376
+KY,Kentucky 1,R,21,Whitfield,67%,175972
+KY,Kentucky 1,Democratic,21,Cartwright,33%,85229
+KY,Kentucky 2,R,21,Lewis,68%,185394
+KY,Kentucky 2,Democratic,21,Smith,32%,87585
+KY,Kentucky 3,R,21,Northup,60%,197736
+KY,Kentucky 3,Democratic,21,Miller,38%,124040
+KY,Kentucky 3,Libertarian,21,Dick,2%,6363
+KY,Kentucky 4,R,21,Davis,54%,160982
+KY,Kentucky 4,Democratic,21,Clooney,44%,129876
+KY,Kentucky 4,I,21,Slider,2%,5069
+KY,Kentucky 5,R,21,Rogers,unopposed,unopposed
+KY,Kentucky 6,Democratic,21,Chandler,59%,175355
+KY,Kentucky 6,R,21,Buford,40%,119716
+KY,Kentucky 6,Constitution,21,Abner,1%,2388
+KY,Kentucky 6,Libertarian,21,Gailey,0%,1758
+LA,Louisiana 1,R,22,Jindal,78%,225708
+LA,Louisiana 1,Democratic,22,Armstrong,7%,19266
+LA,Louisiana 1,Democratic,22,Mendoza,4%,12779
+LA,Louisiana 1,Democratic,22,Zimmerman,4%,12135
+LA,Louisiana 1,Democratic,22,Watts,4%,10034
+LA,Louisiana 1,R,22,Rogers,3%,7975
+LA,Louisiana 2,Democratic,22,Jefferson,79%,173510
+LA,Louisiana 2,R,22,Schwertz,21%,46097
+LA,Louisiana 3,R,22,Tauzin III,32%,84680
+LA,Louisiana 3,Democratic,22,Melancon,24%,63328
+LA,Louisiana 3,R,22,Romero,23%,61132
+LA,Louisiana 3,Democratic,22,Baldone,10%,25783
+LA,Louisiana 3,Democratic,22,Caccioppi,7%,19347
+LA,Louisiana 3,R,22,Chiasson,4%,10350
+LA,Louisiana 4,R,22,McCrery,unopposed,unopposed
+LA,Louisiana 5,R,22,Alexander,59%,141495
+LA,Louisiana 5,Democratic,22,Blakes,25%,58591
+LA,Louisiana 5,R,22,Scott,16%,37971
+LA,Louisiana 6,R,22,Baker,72%,189106
+LA,Louisiana 6,Democratic,22,Craig,19%,50732
+LA,Louisiana 6,Democratic,22,Galmon,9%,22031
+LA,Louisiana 7,R,22,Boustany,39%,105761
+LA,Louisiana 7,Democratic,22,Mount,25%,69079
+LA,Louisiana 7,Democratic,22,Cravins,24%,67389
+LA,Louisiana 7,R,22,Thibodaux,10%,26526
+LA,Louisiana 7,Democratic,22,Carriere,2%,5177
+MA,Massachusetts 1,Democratic,25,Olver,unopposed,unopposed
+MA,Massachusetts 2,Democratic,25,Neal,unopposed,unopposed
+MA,Massachusetts 3,Democratic,25,McGovern,71%,192036
+MA,Massachusetts 3,R,25,Crews,29%,80197
+MA,Massachusetts 4,Democratic,25,Frank,78%,219260
+MA,Massachusetts 4,I,25,Morse,22%,62293
+MA,Massachusetts 5,Democratic,25,Meehan,67%,179652
+MA,Massachusetts 5,R,25,Tierney,33%,88232
+MA,Massachusetts 6,Democratic,25,Tierney,70%,213458
+MA,Massachusetts 6,R,25,O'Malley,30%,91597
+MA,Massachusetts 7,Democratic,25,Markey,74%,202399
+MA,Massachusetts 7,R,25,Chase,22%,60334
+MA,Massachusetts 7,I,25,Hall,4%,12139
+MA,Massachusetts 8,Democratic,25,Capuano,unopposed,unopposed
+MA,Massachusetts 9,Democratic,25,Lynch,unopposed,unopposed
+MA,Massachusetts 10,Democratic,25,Delahunt,66%,222013
+MA,Massachusetts 10,R,25,Jones,34%,114879
+MD,Maryland 1,R,24,Gilchrest,76%,245149
+MD,Maryland 1,Democratic,24,Alexakis,24%,77872
+MD,Maryland 2,Democratic,24,Ruppersberger,67%,164751
+MD,Maryland 2,R,24,Brooks,31%,75812
+MD,Maryland 2,Green,24,Salkowski,2%,6508
+MD,Maryland 3,Democratic,24,Cardin,63%,182066
+MD,Maryland 3,R,24,Duckworth,34%,97008
+MD,Maryland 3,Green,24,Allen,3%,7895
+MD,Maryland 4,Democratic,24,Wynn,75%,196809
+MD,Maryland 4,R,24,McKinnis,20%,52907
+MD,Maryland 4,Green,24,Dudley,5%,11885
+MD,Maryland 5,Democratic,24,Hoyer,69%,204867
+MD,Maryland 5,R,24,Jewitt,29%,87189
+MD,Maryland 5,Green,24,Auerbach,1%,4224
+MD,Maryland 5,Constitution,24,Krukar,1%,1849
+MD,Maryland 6,R,24,Bartlett,67%,206076
+MD,Maryland 6,Democratic,24,Bosley,30%,90108
+MD,Maryland 6,Green,24,Hemingway,3%,9324
+MD,Maryland 7,Democratic,24,Cummings,73%,179189
+MD,Maryland 7,R,24,Salazar,25%,60102
+MD,Maryland 7,Green,24,Rodino,2%,4727
+MD,Maryland 8,Democratic,24,Van Hollen,75%,215129
+MD,Maryland 8,R,24,Floyd,25%,71989
+ME,Maine 1,Democratic,23,Allen,60%,219077
+ME,Maine 1,R,23,Summers,40%,147663
+ME,Maine 2,Democratic,23,Michaud,58%,199303
+ME,Maine 2,R,23,Hamel,39%,135547
+ME,Maine 2,Socialist Equality,23,Cooley,3%,8586
+MI,Michigan 1,Democratic,26,Stupak,65%,211571
+MI,Michigan 1,R,26,Hooper,33%,105706
+MI,Michigan 1,Green,26,Newland,1%,3105
+MI,Michigan 1,Libertarian,26,Loosemore,1%,2292
+MI,Michigan 2,R,26,Hoekstra,69%,225343
+MI,Michigan 2,Democratic,26,Kotos,29%,94040
+MI,Michigan 2,Libertarian,26,Van Til,1%,2876
+MI,Michigan 2,Taxpayers,26,Graeser,1%,2746
+MI,Michigan 3,R,26,Ehlers,67%,214465
+MI,Michigan 3,Democratic,26,Hickey,31%,101395
+MI,Michigan 3,Libertarian,26,Adams,1%,3695
+MI,Michigan 3,Taxpayers,26,Sales,1%,2548
+MI,Michigan 4,R,26,Camp,64%,205274
+MI,Michigan 4,Democratic,26,Huckleberry,35%,110885
+MI,Michigan 4,Libertarian,26,Chia,1%,2765
+MI,Michigan 5,Democratic,26,Kildee,67%,208163
+MI,Michigan 5,R,26,Kirkwood,31%,96934
+MI,Michigan 5,Green,26,Mikkelson,1%,2468
+MI,Michigan 5,Libertarian,26,Foster,1%,2350
+MI,Michigan 6,R,26,Upton,65%,197425
+MI,Michigan 6,Democratic,26,Elliott,32%,97978
+MI,Michigan 6,Green,26,MacPhee,1%,2311
+MI,Michigan 6,Libertarian,26,Haas,1%,2275
+MI,Michigan 6,Taxpayers,26,FitzSimons,1%,2169
+MI,Michigan 7,R,26,Schwarz,59%,176053
+MI,Michigan 7,Democratic,26,Renier,36%,109527
+MI,Michigan 7,Taxpayers,26,Horn,3%,9032
+MI,Michigan 7,Green,26,Seagraves,1%,3996
+MI,Michigan 7,Libertarian,26,Proctor,1%,3034
+MI,Michigan 8,R,26,Rogers,61%,207925
+MI,Michigan 8,Democratic,26,Alexander,37%,125619
+MI,Michigan 8,Libertarian,26,White,1%,3591
+MI,Michigan 8,Taxpayers,26,Mangopoulos,1%,3288
+MI,Michigan 9,R,26,Knollenberg,58%,199210
+MI,Michigan 9,Democratic,26,Reifman,40%,134764
+MI,Michigan 9,Libertarian,26,Schubring,2%,6825
+MI,Michigan 10,R,26,Miller,69%,227720
+MI,Michigan 10,Democratic,26,Casey,29%,98029
+MI,Michigan 10,Libertarian,26,Basso,1%,3966
+MI,Michigan 10,Natural Law,26,America,1%,2153
+MI,Michigan 11,R,26,McCotter,57%,186431
+MI,Michigan 11,Democratic,26,Truran,41%,134301
+MI,Michigan 11,Libertarian,26,Basso,2%,6484
+MI,Michigan 12,Democratic,26,Levin,69%,210827
+MI,Michigan 12,R,26,Shafer,29%,88256
+MI,Michigan 12,Libertarian,26,Gach,2%,5051
+MI,Michigan 13,Democratic,26,Cheeks Kilpatrick,78%,173246
+MI,Michigan 13,R,26,Cassell,19%,40935
+MI,Michigan 13,Green,26,Lavigne,2%,4261
+MI,Michigan 13,Libertarian,26,Gordon,1%,3211
+MI,Michigan 14,Democratic,26,Conyers,84%,213681
+MI,Michigan 14,R,26,Pedraza,14%,35089
+MI,Michigan 14,Libertarian,26,Donahue,1%,2278
+MI,Michigan 14,Green,26,Weltman,1%,2224
+MI,Michigan 14,Taxpayers,26,Sears,0%,1307
+MI,Michigan 15,Democratic,26,Dingell,71%,218409
+MI,Michigan 15,R,26,Reamer,26%,81828
+MI,Michigan 15,Libertarian,26,Stempfle,1%,3400
+MI,Michigan 15,Taxpayers,26,Eller,1%,2508
+MI,Michigan 15,I,26,White,1%,1818
+MN,Minnesota 1,R,27,Gutknecht,60%,193132
+MN,Minnesota 1,Democratic,27,Pomeroy,35%,115088
+MN,Minnesota 1,Independence,27,Mikkelson,5%,15569
+MN,Minnesota 2,R,27,Kline,57%,206313
+MN,Minnesota 2,Democratic,27,Daly,40%,147527
+MN,Minnesota 2,Independence,27,Williams,3%,11822
+MN,Minnesota 3,R,27,Ramstad,65%,231871
+MN,Minnesota 3,Democratic,27,Watts,35%,126665
+MN,Minnesota 4,Democratic,27,McCollum,58%,182387
+MN,Minnesota 4,R,27,Bataglia,33%,105467
+MN,Minnesota 4,Independence,27,Vento,9%,29099
+MN,Minnesota 5,Democratic,27,Sabo,70%,218434
+MN,Minnesota 5,R,27,Mathias,24%,76600
+MN,Minnesota 5,Green,27,Pond,6%,17984
+MN,Minnesota 6,R,27,Kennedy,54%,203669
+MN,Minnesota 6,Democratic,27,Wetterling,46%,173309
+MN,Minnesota 7,Democratic,27,Peterson,66%,207628
+MN,Minnesota 7,R,27,Sturrock,34%,106349
+MN,Minnesota 8,Democratic,27,Oberstar,65%,228586
+MN,Minnesota 8,R,27,Groettum,32%,112693
+MN,Minnesota 8,Green,27,Presley,3%,8933
+MO,Missouri 1,Democratic,29,Clay,75%,213658
+MO,Missouri 1,R,29,Farr,23%,64791
+MO,Missouri 1,Libertarian,29,Chadwick,1%,3937
+MO,Missouri 1,Constitution,29,Rehbein,1%,1385
+MO,Missouri 2,R,29,Akin,65%,228725
+MO,Missouri 2,Democratic,29,Weber,33%,115366
+MO,Missouri 2,Libertarian,29,Maloney,2%,4822
+MO,Missouri 2,Constitution,29,Leefe,0%,954
+MO,Missouri 3,Democratic,29,Carnahan,53%,146894
+MO,Missouri 3,R,29,Federer,45%,125422
+MO,Missouri 3,Libertarian,29,Babcock,2%,4367
+MO,Missouri 3,Constitution,29,Renaud,0%,1222
+MO,Missouri 4,Democratic,29,Skelton,66%,190800
+MO,Missouri 4,R,29,Noland,32%,93334
+MO,Missouri 4,Libertarian,29,Lower,1%,2827
+MO,Missouri 4,Constitution,29,Lister,1%,1265
+MO,Missouri 5,Democratic,29,Cleaver,55%,161727
+MO,Missouri 5,R,29,Patterson,42%,123431
+MO,Missouri 5,Libertarian,29,Bailie,2%,5827
+MO,Missouri 5,Constitution,29,Rodenberg,1%,2040
+MO,Missouri 6,R,29,Graves,64%,196516
+MO,Missouri 6,Democratic,29,Broomfield,35%,106987
+MO,Missouri 6,Libertarian,29,Buck,1%,4352
+MO,Missouri 7,R,29,Blunt,71%,210080
+MO,Missouri 7,Democratic,29,Newberry,28%,84356
+MO,Missouri 7,Libertarian,29,Craig,1%,2767
+MO,Missouri 7,Constitution,29,Alger,0%,1002
+MO,Missouri 8,R,29,Emerson,72%,194039
+MO,Missouri 8,Democratic,29,Henderson,27%,71543
+MO,Missouri 8,Libertarian,29,Cuff,1%,1810
+MO,Missouri 8,Constitution,29,Davidson,0%,1319
+MO,Missouri 9,R,29,Hulshof,65%,193429
+MO,Missouri 9,Democratic,29,Jacobsen,34%,101343
+MO,Missouri 9,Libertarian,29,Millay,1%,3228
+MO,Missouri 9,Constitution,29,Earl,0%,1447
+MS,Mississippi 1,R,28,Wicker,79%,219328
+MS,Mississippi 1,Reform,28,Washer,21%,58256
+MS,Mississippi 2,Democratic,28,Thompson,58%,154626
+MS,Mississippi 2,R,28,LeSueur,41%,107647
+MS,Mississippi 2,Reform,28,O'Hara,1%,2596
+MS,Mississippi 3,R,28,Pickering,80%,234874
+MS,Mississippi 3,I,28,Giles,14%,40426
+MS,Mississippi 3,Reform,28,Magee,6%,18068
+MS,Mississippi 4,Democratic,28,Taylor,64%,179979
+MS,Mississippi 4,R,28,Lott,35%,96740
+MS,Mississippi 4,Reform,28,Hill,1%,3663
+MT,Montana 1,R,30,Rehberg,64%,286076
+MT,Montana 1,Democratic,30,Velazquez,33%,145606
+MT,Montana 1,Libertarian,30,Fellows,3%,12548
+NC,North Carolina 1,Democratic,37,Butterfield,64%,137667
+NC,North Carolina 1,R,37,Dority,36%,77508
+NC,North Carolina 2,Democratic,37,Etheridge,62%,145079
+NC,North Carolina 2,R,37,Creech,38%,87811
+NC,North Carolina 3,R,37,Jones,71%,171863
+NC,North Carolina 3,Democratic,37,Eaton,29%,71227
+NC,North Carolina 4,Democratic,37,Price,64%,217441
+NC,North Carolina 4,R,37,Batchelor,36%,121717
+NC,North Carolina 5,R,37,Foxx,59%,167546
+NC,North Carolina 5,Democratic,37,Harrell,41%,117271
+NC,North Carolina 6,R,37,Coble,73%,207470
+NC,North Carolina 6,Democratic,37,Jordan,27%,76153
+NC,North Carolina 7,Democratic,37,McIntyre,73%,180382
+NC,North Carolina 7,R,37,Plonk,27%,66084
+NC,North Carolina 8,R,37,Hayes,56%,125070
+NC,North Carolina 8,Democratic,37,Troutman,44%,100101
+NC,North Carolina 9,R,37,Myrick,70%,210783
+NC,North Carolina 9,Democratic,37,Flynn,30%,89318
+NC,North Carolina 10,R,37,McHenry,64%,157884
+NC,North Carolina 10,Democratic,37,Fischer,36%,88233
+NC,North Carolina 11,R,37,Taylor,55%,159709
+NC,North Carolina 11,Democratic,37,Keever,45%,131188
+NC,North Carolina 12,Democratic,37,Watt,67%,154908
+NC,North Carolina 12,R,37,Fisher,33%,76898
+NC,North Carolina 13,Democratic,37,Miller,59%,160896
+NC,North Carolina 13,R,37,Johnson,41%,112788
+ND,North Dakota 1,Democratic,38,Pomeroy,60%,185130
+ND,North Dakota 1,R,38,Sand,40%,125684
+NE,Nebraska 1,R,31,Fortenberry,54%,143756
+NE,Nebraska 1,Democratic,31,Connealy,43%,113971
+NE,Nebraska 1,Green,31,Larrick,3%,7345
+NE,Nebraska 2,R,31,Terry,61%,152608
+NE,Nebraska 2,Democratic,31,Thompson,36%,90292
+NE,Nebraska 2,Libertarian,31,Graziano,2%,4656
+NE,Nebraska 2,Green,31,Salvatierra,1%,2208
+NE,Nebraska 3,R,31,Osborne,87%,218751
+NE,Nebraska 3,Democratic,31,Anderson,11%,26434
+NE,Nebraska 3,Nebraska,31,Rosberg,1%,3396
+NE,Nebraska 3,Green,31,Guisinger,1%,1555
+NH,New Hampshire 1,R,33,Bradley,63%,204836
+NH,New Hampshire 1,Democratic,33,Nadeau,37%,118226
+NH,New Hampshire 2,R,33,Bass,58%,191188
+NH,New Hampshire 2,Democratic,33,Hodes,38%,125280
+NH,New Hampshire 2,Libertarian,33,Kahn,4%,11311
+NJ,New Jersey 1,Democratic,34,Andrews,75%,201163
+NJ,New Jersey 1,R,34,Hutchison,25%,66109
+NJ,New Jersey 1,I,34,Croce,0%,931
+NJ,New Jersey 2,R,34,LoBiondo,65%,172779
+NJ,New Jersey 2,Democratic,34,Robb,33%,86792
+NJ,New Jersey 2,I,34,Norwood,1%,1993
+NJ,New Jersey 2,I,34,Matthews,1%,1767
+NJ,New Jersey 2,I,34,Alcantara,0%,1516
+NJ,New Jersey 2,I,34,Rozzo,0%,595
+NJ,New Jersey 3,R,34,Saxton,63%,195938
+NJ,New Jersey 3,Democratic,34,Conaway,35%,107034
+NJ,New Jersey 3,I,34,Forchion,2%,4914
+NJ,New Jersey 3,I,34,Orland,0%,976
+NJ,New Jersey 4,R,34,Smith,67%,192671
+NJ,New Jersey 4,Democratic,34,Vasquez,32%,92826
+NJ,New Jersey 4,I,34,Edgar,1%,2056
+NJ,New Jersey 5,R,34,Garrett,58%,171220
+NJ,New Jersey 5,Democratic,34,Wolfe,41%,122259
+NJ,New Jersey 5,I,34,Kaplan,1%,1857
+NJ,New Jersey 5,I,34,Phelan,0%,1515
+NJ,New Jersey 5,I,34,Pason,0%,574
+NJ,New Jersey 6,Democratic,34,Pallone,67%,153981
+NJ,New Jersey 6,R,34,Fernandez,31%,70942
+NJ,New Jersey 6,I,34,Flynn,1%,2829
+NJ,New Jersey 6,I,34,Lyden,1%,2399
+NJ,New Jersey 7,R,34,Ferguson,57%,162597
+NJ,New Jersey 7,Democratic,34,Brozak,41%,119081
+NJ,New Jersey 7,I,34,Abrams,1%,2153
+NJ,New Jersey 7,I,34,Williams,1%,2016
+NJ,New Jersey 8,Democratic,34,Pascrell,69%,152001
+NJ,New Jersey 8,R,34,Ajjan,29%,62747
+NJ,New Jersey 8,I,34,Fortunato,2%,4072
+NJ,New Jersey 9,Democratic,34,Rothman,67%,146038
+NJ,New Jersey 9,R,34,Trawinski,32%,68564
+NJ,New Jersey 9,I,34,Daly,1%,1649
+NJ,New Jersey 10,Democratic,34,Payne,97%,155697
+NJ,New Jersey 10,I,34,Washington,2%,2927
+NJ,New Jersey 10,I,34,Lobman,1%,2089
+NJ,New Jersey 11,R,34,Frelinghuysen,68%,200915
+NJ,New Jersey 11,Democratic,34,Buell,31%,91811
+NJ,New Jersey 11,I,34,Mele,1%,1746
+NJ,New Jersey 11,I,34,Lett,0%,1530
+NJ,New Jersey 12,Democratic,34,Holt,59%,171691
+NJ,New Jersey 12,R,34,Spadea,40%,115014
+NJ,New Jersey 12,I,34,Chazotte,1%,1562
+NJ,New Jersey 12,I,34,Brooks,0%,1518
+NJ,New Jersey 13,Democratic,34,Menendez,76%,121018
+NJ,New Jersey 13,R,34,Piatkowski,22%,35288
+NJ,New Jersey 13,I,34,Hester,1%,1282
+NJ,New Jersey 13,I,34,Shaw,1%,1066
+NJ,New Jersey 13,I,34,Lariscy,0%,887
+NM,New Mexico 1,R,35,Wilson,54%,147372
+NM,New Mexico 1,Democratic,35,Romero,46%,123339
+NM,New Mexico 2,R,35,Pearce,60%,130498
+NM,New Mexico 2,Democratic,35,King,40%,86292
+NM,New Mexico 3,Democratic,35,Udall,69%,175269
+NM,New Mexico 3,R,35,Tucker,31%,79935
+NV,Nevada 1,Democratic,32,Berkley,66%,133569
+NV,Nevada 1,R,32,Mickelson,31%,63005
+NV,Nevada 1,Libertarian,32,Duensing,3%,5862
+NV,Nevada 2,R,32,Gibbons,67%,195466
+NV,Nevada 2,Democratic,32,Cochran,27%,79978
+NV,Nevada 2,Independent American,32,Hansen,4%,10638
+NV,Nevada 2,Libertarian,32,Trainor,2%,4997
+NV,Nevada 3,R,32,Porter,55%,162240
+NV,Nevada 3,Democratic,32,Gallagher,40%,120365
+NV,Nevada 3,Libertarian,32,Silvestri,3%,9260
+NV,Nevada 3,Independent American,32,O'Dell,2%,6053
+NY,New York 1,Democratic,36,Bishop,56%,156354
+NY,New York 1,R,36,Manger,44%,121855
+NY,New York 2,Democratic,36,Israel,67%,161593
+NY,New York 2,R,36,Hoffmann,33%,80950
+NY,New York 3,R,36,King,63%,171259
+NY,New York 3,Democratic,36,Mathies,37%,100737
+NY,New York 4,Democratic,36,McCarthy,63%,159969
+NY,New York 4,R,36,Garner,37%,94141
+NY,New York 5,Democratic,36,Ackerman,71%,119726
+NY,New York 5,R,36,Graves,28%,46867
+NY,New York 5,Fair,36,Policarpio,1%,1248
+NY,New York 6,Democratic,36,Meeks,unopposed,unopposed
+NY,New York 7,Democratic,36,Crowley,81%,104275
+NY,New York 7,R,36,Cinquemani,19%,24548
+NY,New York 8,Democratic,36,Nadler,81%,162082
+NY,New York 8,R,36,Hort,19%,39240
+NY,New York 9,Democratic,36,Weiner,71%,113025
+NY,New York 9,R,36,Cronin,29%,45451
+NY,New York 10,Democratic,36,Towns,92%,136113
+NY,New York 10,R,36,Clarke,7%,11099
+NY,New York 10,Conservative,36,Blume,1%,1554
+NY,New York 11,Democratic,36,Owens,94%,144999
+NY,New York 11,Independence,36,Stevens,3%,4721
+NY,New York 11,Conservative,36,Lieberman,3%,4478
+NY,New York 12,Democratic,36,Velazquez,86%,107796
+NY,New York 12,R,36,Rodriguez,14%,17166
+NY,New York 13,R,36,Fossella,59%,112934
+NY,New York 13,Democratic,36,Barbaro,41%,78500
+NY,New York 14,Democratic,36,Maloney,81%,186688
+NY,New York 14,R,36,Srdanovic,19%,43623
+NY,New York 15,Democratic,36,Rangel,91%,161351
+NY,New York 15,R,36,Jefferson,7%,12355
+NY,New York 15,Independence,36,Fields,2%,3345
+NY,New York 16,Democratic,36,Serrano,95%,111638
+NY,New York 16,R,36,Mohamed,5%,5610
+NY,New York 17,Democratic,36,Engel,76%,140530
+NY,New York 17,R,36,Brennan,22%,40524
+NY,New York 17,Conservative,36,Brawley,2%,3482
+NY,New York 18,Democratic,36,Lowey,70%,170715
+NY,New York 18,R,36,Hoffman,30%,73975
+NY,New York 19,R,36,Kelly,67%,175401
+NY,New York 19,Democratic,36,Jaliman,33%,87429
+NY,New York 20,R,36,Sweeney,66%,188753
+NY,New York 20,Democratic,36,Kelly,34%,96630
+NY,New York 20,Centrist Party,36,Guller,0%,1353
+NY,New York 21,Democratic,36,McNulty,71%,194033
+NY,New York 21,R,36,Redlich,29%,80121
+NY,New York 22,Democratic,36,Hinchey,67%,167489
+NY,New York 22,R,36,Brenner,33%,81881
+NY,New York 23,R,36,McHugh,71%,160079
+NY,New York 23,Democratic,36,Johnson,29%,66448
+NY,New York 24,R,36,Boehlert,57%,143000
+NY,New York 24,Democratic,36,Miller,34%,85140
+NY,New York 24,Conservative,36,Walrath,9%,23228
+NY,New York 25,R,36,Walsh,90%,189063
+NY,New York 25,Peace and Justice,36,Hawkins,10%,20106
+NY,New York 26,R,36,Reynolds,56%,157466
+NY,New York 26,Democratic,36,Davis,44%,125613
+NY,New York 27,Democratic,36,Higgins,51%,143332
+NY,New York 27,R,36,Naples,49%,139558
+NY,New York 28,Democratic,36,Slaughter,73%,159655
+NY,New York 28,R,36,Laba,25%,54543
+NY,New York 28,Independence,36,Cartonia,2%,5678
+NY,New York 29,R,36,Kuhl,51%,136883
+NY,New York 29,Democratic,36,Barend,41%,110241
+NY,New York 29,Conservative,36,Assini,6%,17272
+NY,New York 29,Independence,36,Ciampoli,2%,5819
+OH,Ohio 1,R,39,Chabot,60%,173430
+OH,Ohio 1,Democratic,39,Harris,40%,116235
+OH,Ohio 2,R,39,Portman,72%,227102
+OH,Ohio 2,Democratic,39,Sanders,28%,89598
+OH,Ohio 3,R,39,Turner,62%,197290
+OH,Ohio 3,Democratic,39,Mitakides,38%,119448
+OH,Ohio 4,R,39,Oxley,59%,167807
+OH,Ohio 4,Democratic,39,Konop,41%,118538
+OH,Ohio 5,R,39,Gillmor,67%,196649
+OH,Ohio 5,Democratic,39,Weirauch,33%,96656
+OH,Ohio 6,Democratic,39,Strickland,unopposed,unopposed
+OH,Ohio 7,R,39,Hobson,65%,186534
+OH,Ohio 7,Democratic,39,Anastasio,35%,100617
+OH,Ohio 8,R,39,Boehner,69%,201675
+OH,Ohio 8,Democratic,39,Hardenbrook,31%,90574
+OH,Ohio 9,Democratic,39,Kaptur,68%,205149
+OH,Ohio 9,R,39,Kaczala,32%,95983
+OH,Ohio 10,Democratic,39,Kucinich,60%,172406
+OH,Ohio 10,R,39,Herman,34%,96463
+OH,Ohio 10,Non-Partisan,39,Ferris,6%,18343
+OH,Ohio 11,Democratic,39,Tubbs Jones,unopposed,unopposed
+OH,Ohio 12,R,39,Tiberi,62%,198912
+OH,Ohio 12,Democratic,39,Brown,38%,122109
+OH,Ohio 13,Democratic,39,Brown,67%,201004
+OH,Ohio 13,R,39,Lucas,33%,97090
+OH,Ohio 14,R,39,LaTourette,63%,201652
+OH,Ohio 14,Democratic,39,Cafaro,37%,119714
+OH,Ohio 15,R,39,Pryce,60%,166520
+OH,Ohio 15,Democratic,39,Brown,40%,110915
+OH,Ohio 16,R,39,Regula,67%,202544
+OH,Ohio 16,Democratic,39,Seemann,33%,101817
+OH,Ohio 17,Democratic,39,Ryan,77%,212800
+OH,Ohio 17,R,39,Cusimano,23%,62871
+OH,Ohio 18,R,39,Ney,66%,177600
+OH,Ohio 18,Democratic,39,Thomas,34%,90820
+OK,Oklahoma 1,R,40,Sullivan,60%,187145
+OK,Oklahoma 1,Democratic,40,Dodd,38%,116731
+OK,Oklahoma 1,I,40,Krymski,2%,7058
+OK,Oklahoma 2,Democratic,40,Boren,66%,179579
+OK,Oklahoma 2,R,40,Smalley,34%,92963
+OK,Oklahoma 3,R,40,Lucas,82%,215510
+OK,Oklahoma 3,I,40,Wilson,18%,46621
+OK,Oklahoma 4,R,40,Cole,78%,198985
+OK,Oklahoma 4,I,40,Bradshaw,22%,56869
+OK,Oklahoma 5,R,40,Istook,66%,180430
+OK,Oklahoma 5,Democratic,40,Smith,34%,92719
+OR,Oregon 1,Democratic,41,Wu,58%,203771
+OR,Oregon 1,R,41,Ameri,38%,135164
+OR,Oregon 1,Constitution,41,Wolf,4%,13882
+OR,Oregon 2,R,41,Walden,72%,248461
+OR,Oregon 2,Democratic,41,McColgan,26%,88914
+OR,Oregon 2,Libertarian,41,Lindsay,1%,4792
+OR,Oregon 2,Constitution,41,Brown,1%,4060
+OR,Oregon 3,Democratic,41,Blumenauer,71%,245559
+OR,Oregon 3,R,41,Mars,24%,82045
+OR,Oregon 3,Socialist,41,Brown,3%,10678
+OR,Oregon 3,Constitution,41,Winegarden,2%,7119
+OR,Oregon 4,Democratic,41,DeFazio,61%,228611
+OR,Oregon 4,R,41,Feldkamp,38%,140882
+OR,Oregon 4,Libertarian,41,Boone,1%,3190
+OR,Oregon 4,Constitution,41,Marsh,0%,1799
+OR,Oregon 5,Democratic,41,Hooley,53%,184833
+OR,Oregon 5,R,41,Zupancic,44%,154993
+OR,Oregon 5,Libertarian,41,Defoe,2%,6463
+OR,Oregon 5,Constitution,41,Bitz,1%,2971
+PA,Pennsylvania 1,Democratic,42,Brady,86%,214462
+PA,Pennsylvania 1,R,42,Williams,14%,33266
+PA,Pennsylvania 1,Randolph for Congress,42,Randolph,0%,857
+PA,Pennsylvania 2,Democratic,42,Fattah,88%,253226
+PA,Pennsylvania 2,R,42,Bolno,12%,34411
+PA,Pennsylvania 3,R,42,English,60%,166580
+PA,Pennsylvania 3,Democratic,42,Porter,40%,110684
+PA,Pennsylvania 4,R,42,Hart,63%,204329
+PA,Pennsylvania 4,Democratic,42,Drobac,36%,116303
+PA,Pennsylvania 4,Healthcare Party,42,Larchuk,1%,3285
+PA,Pennsylvania 5,R,42,Peterson,88%,192852
+PA,Pennsylvania 5,Libertarian,42,Martin,12%,26239
+PA,Pennsylvania 6,R,42,Gerlach,51%,160348
+PA,Pennsylvania 6,Democratic,42,Murphy,49%,153977
+PA,Pennsylvania 7,R,42,Weldon,59%,196556
+PA,Pennsylvania 7,Democratic,42,Scoles,40%,134932
+PA,Pennsylvania 7,Libertarian,42,Jahn,1%,3039
+PA,Pennsylvania 8,R,42,Fitzpatrick,56%,183229
+PA,Pennsylvania 8,Democratic,42,Schrader,43%,143427
+PA,Pennsylvania 8,Libertarian,42,Farnsworth,1%,3710
+PA,Pennsylvania 8,Constitution,42,Lukas,0%,898
+PA,Pennsylvania 9,R,42,Shuster,70%,184320
+PA,Pennsylvania 9,Democratic,42,Politis,30%,80787
+PA,Pennsylvania 10,R,42,Sherwood,93%,191967
+PA,Pennsylvania 10,Constitution,42,Hannevig,7%,14805
+PA,Pennsylvania 11,Democratic,42,Kanjorski,94%,171147
+PA,Pennsylvania 11,Constitution,42,Brenneman,6%,10105
+PA,Pennsylvania 12,Democratic,42,Murtha,unopposed,unopposed
+PA,Pennsylvania 13,Democratic,42,Schwartz,56%,171763
+PA,Pennsylvania 13,R,42,Brown,41%,127205
+PA,Pennsylvania 13,Constitution,42,McDermott,2%,5291
+PA,Pennsylvania 13,Libertarian,42,Moulton,1%,3865
+PA,Pennsylvania 14,Democratic,42,Doyle,unopposed,unopposed
+PA,Pennsylvania 15,R,42,Dent,59%,170634
+PA,Pennsylvania 15,Democratic,42,Driscoll,39%,114646
+PA,Pennsylvania 15,Libertarian,42,Piotrowski,1%,3660
+PA,Pennsylvania 15,Green,42,Browne,1%,2194
+PA,Pennsylvania 16,R,42,Pitts,64%,183620
+PA,Pennsylvania 16,Democratic,42,Herr,35%,98410
+PA,Pennsylvania 16,Green,42,Hagen,1%,3269
+PA,Pennsylvania 17,Democratic,42,Holden,59%,172412
+PA,Pennsylvania 17,R,42,Paterno,39%,113592
+PA,Pennsylvania 17,Libertarian,42,Diamond,2%,5782
+PA,Pennsylvania 18,R,42,Murphy,63%,197894
+PA,Pennsylvania 18,Democratic,42,Boles,37%,117420
+PA,Pennsylvania 19,R,42,Platts,92%,224274
+PA,Pennsylvania 19,Green,42,Steel,4%,8890
+PA,Pennsylvania 19,Libertarian,42,Paoletta,3%,8456
+PA,Pennsylvania 19,Constitution,42,Searer,1%,3474
+RI,Rhode Island 1,Democratic,44,Kennedy,64%,124923
+RI,Rhode Island 1,R,44,Rogers,36%,69819
+RI,Rhode Island 2,Democratic,44,Langevin,74%,154392
+RI,Rhode Island 2,R,44,Barton,21%,43139
+RI,Rhode Island 2,I,44,Morabito,3%,6196
+RI,Rhode Island 2,Ind. Save Our Children,44,Hayes,2%,3303
+SC,South Carolina 1,R,45,Brown,88%,186448
+SC,South Carolina 1,Green,45,Dunn,12%,25674
+SC,South Carolina 2,R,45,Wilson,65%,181862
+SC,South Carolina 2,Democratic,45,Ellisor,33%,93249
+SC,South Carolina 2,Constitution,45,Lefemine,2%,4447
+SC,South Carolina 3,R,45,Barrett,unopposed,unopposed
+SC,South Carolina 4,R,45,Inglis,70%,188795
+SC,South Carolina 4,Democratic,45,Brown,29%,78376
+SC,South Carolina 4,Green,45,Walters,1%,3273
+SC,South Carolina 5,Democratic,45,Spratt,63%,152867
+SC,South Carolina 5,R,45,Spencer,37%,89568
+SC,South Carolina 6,Democratic,45,Clyburn,67%,161987
+SC,South Carolina 6,R,45,McLeod,33%,79600
+SD,South Dakota 1,Democratic,46,Herseth,53%,207837
+SD,South Dakota 1,R,46,Diedrich,46%,178823
+SD,South Dakota 1,Libertarian,46,Begay,1%,2808
+TN,Tennessee 1,R,47,Jenkins,74%,172543
+TN,Tennessee 1,Democratic,47,Leonard,24%,56361
+TN,Tennessee 1,I,47,Ball,1%,3061
+TN,Tennessee 1,I,47,Peavler,1%,1595
+TN,Tennessee 2,R,47,Duncan,79%,215795
+TN,Tennessee 2,Democratic,47,Greene,19%,52155
+TN,Tennessee 2,I,47,Howard,2%,4978
+TN,Tennessee 3,R,47,Wamp,65%,166154
+TN,Tennessee 3,Democratic,47,Wolfe,33%,84295
+TN,Tennessee 3,I,47,Griffin,1%,3018
+TN,Tennessee 3,I,47,Vandagriff,1%,1696
+TN,Tennessee 3,I,47,Howard-Hill,0%,1473
+TN,Tennessee 4,Democratic,47,Davis,55%,138459
+TN,Tennessee 4,R,47,Bowling,43%,109993
+TN,Tennessee 4,I,47,Martin,2%,4194
+TN,Tennessee 5,Democratic,47,Cooper,69%,168970
+TN,Tennessee 5,R,47,Knapp,31%,74978
+TN,Tennessee 6,Democratic,47,Gordon,64%,167448
+TN,Tennessee 6,R,47,Demas,34%,87523
+TN,Tennessee 6,I,47,Lyons,1%,3869
+TN,Tennessee 6,I,47,Saliba,1%,1802
+TN,Tennessee 7,R,47,Blackburn,unopposed,unopposed
+TN,Tennessee 8,Democratic,47,Tanner,74%,173623
+TN,Tennessee 8,R,47,Hart,26%,59853
+TN,Tennessee 9,Democratic,47,Ford,82%,190648
+TN,Tennessee 9,R,47,Fort,18%,41578
+TX,Texas 1,R,48,Gohmert,61%,157068
+TX,Texas 1,Democratic,48,Sandlin,38%,96281
+TX,Texas 1,Libertarian,48,Tucker,1%,2158
+TX,Texas 2,R,48,Poe,55%,139951
+TX,Texas 2,Democratic,48,Lampson,43%,108156
+TX,Texas 2,Libertarian,48,Saulsbury,2%,3931
+TX,Texas 3,R,48,Johnson,86%,180099
+TX,Texas 3,I,48,Jenkins,8%,16966
+TX,Texas 3,Libertarian,48,Vessels,6%,13287
+TX,Texas 4,R,48,Hall,68%,182866
+TX,Texas 4,Democratic,48,Nickerson,31%,81585
+TX,Texas 4,Libertarian,48,Anderson,1%,3491
+TX,Texas 5,R,48,Hensarling,64%,148816
+TX,Texas 5,Democratic,48,Bernstein,33%,75911
+TX,Texas 5,Libertarian,48,Gonzalez,3%,6118
+TX,Texas 6,R,48,Barton,66%,168767
+TX,Texas 6,Democratic,48,Meyer,33%,83609
+TX,Texas 6,Libertarian,48,Schrader,1%,3251
+TX,Texas 7,R,48,Culberson,64%,175440
+TX,Texas 7,Democratic,48,Martinez,33%,91126
+TX,Texas 7,I,48,Staton,2%,3713
+TX,Texas 7,Libertarian,48,Parks,1%,3372
+TX,Texas 8,R,48,Brady,69%,179599
+TX,Texas 8,Democratic,48,Wright,30%,77324
+TX,Texas 8,Libertarian,48,Hansen,1%,3705
+TX,Texas 9,Democratic,48,Green,72%,114462
+TX,Texas 9,R,48,Molina,27%,42132
+TX,Texas 9,Libertarian,48,Bourland,1%,1972
+TX,Texas 10,R,48,McCaul,84%,182113
+TX,Texas 10,Libertarian,48,Fritsche,16%,35569
+TX,Texas 11,R,48,Conaway,77%,179802
+TX,Texas 11,Democratic,48,Raasch,22%,51846
+TX,Texas 11,Libertarian,48,Blunt,1%,3423
+TX,Texas 12,R,48,Granger,72%,173222
+TX,Texas 12,Democratic,48,Alvarado,28%,66316
+TX,Texas 13,R,48,Thornberry,92%,189448
+TX,Texas 13,Libertarian,48,Smith,8%,15793
+TX,Texas 14,R,48,Paul,unopposed,unopposed
+TX,Texas 15,Democratic,48,Hinojosa,58%,96089
+TX,Texas 15,R,48,Thamm,41%,67917
+TX,Texas 15,Libertarian,48,Cady,1%,2352
+TX,Texas 16,Democratic,48,Reyes,68%,108577
+TX,Texas 16,R,48,Brigham,31%,49972
+TX,Texas 16,Libertarian,48,Clardy,1%,2224
+TX,Texas 17,Democratic,48,Edwards,51%,125309
+TX,Texas 17,R,48,Wohlgemuth,48%,116049
+TX,Texas 17,Libertarian,48,Garland,1%,3390
+TX,Texas 18,Democratic,48,Jackson Lee,89%,136018
+TX,Texas 18,I,48,Bazan,6%,9787
+TX,Texas 18,Libertarian,48,Sullivan,5%,7183
+TX,Texas 19,R,48,Neugebauer,58%,136459
+TX,Texas 19,Democratic,48,Stenholm,40%,93531
+TX,Texas 19,Libertarian,48,Peterson,2%,3524
+TX,Texas 20,Democratic,48,Gonzalez,66%,112480
+TX,Texas 20,R,48,Scott,32%,54976
+TX,Texas 20,Libertarian,48,Bouley,1%,2377
+TX,Texas 20,I,48,Idrogo,1%,1971
+TX,Texas 21,R,48,Smith,61%,209774
+TX,Texas 21,Democratic,48,Smith,36%,121129
+TX,Texas 21,Libertarian,48,Pratt,3%,10216
+TX,Texas 22,R,48,DeLay,55%,150386
+TX,Texas 22,Democratic,48,Morrison,41%,112034
+TX,Texas 22,I,48,Fjetland,2%,5314
+TX,Texas 22,Libertarian,48,Morrison,2%,4886
+TX,Texas 23,R,48,Bonilla,69%,170716
+TX,Texas 23,Democratic,48,Sullivan,30%,72480
+TX,Texas 23,Libertarian,48,Perez,1%,3307
+TX,Texas 24,R,48,Marchant,64%,154435
+TX,Texas 24,Democratic,48,Page,34%,82599
+TX,Texas 24,Libertarian,48,Lawrence,2%,4340
+TX,Texas 25,Democratic,48,Doggett,67%,108309
+TX,Texas 25,R,48,Klein,31%,49252
+TX,Texas 25,Libertarian,48,Werner,2%,2656
+TX,Texas 26,R,48,Burgess,66%,180519
+TX,Texas 26,Democratic,48,Reyes,33%,89809
+TX,Texas 26,Libertarian,48,Gholston,1%,4211
+TX,Texas 27,Democratic,48,Ortiz,63%,112081
+TX,Texas 27,R,48,Vaden,35%,61955
+TX,Texas 27,Libertarian,48,Claytor,2%,3500
+TX,Texas 28,Democratic,48,Cuellar,59%,106323
+TX,Texas 28,R,48,Hopson,39%,69538
+TX,Texas 28,Libertarian,48,Ashby,2%,4305
+TX,Texas 29,Democratic,48,Green,94%,78256
+TX,Texas 29,Libertarian,48,Messina,6%,4868
+TX,Texas 30,Democratic,48,Johnson,93%,144513
+TX,Texas 30,Libertarian,48,Davis,7%,10821
+TX,Texas 31,R,48,Carter,65%,160247
+TX,Texas 31,Democratic,48,Porter,32%,80292
+TX,Texas 31,Libertarian,48,Adams,3%,6888
+TX,Texas 32,R,48,Sessions,54%,109859
+TX,Texas 32,Democratic,48,Frost,44%,89030
+TX,Texas 32,Libertarian,48,Needleman,2%,3347
+UT,Utah 1,R,49,Bishop,68%,199615
+UT,Utah 1,Democratic,49,Thompson,29%,85630
+UT,Utah 1,Constitution,49,Johnston,2%,4510
+UT,Utah 1,Personal Choice,49,Soderberg,1%,4206
+UT,Utah 2,Democratic,49,Matheson,55%,187250
+UT,Utah 2,R,49,Swallow,43%,147778
+UT,Utah 2,Constitution,49,Petersen,1%,3541
+UT,Utah 2,Green,49,Diehl,1%,2189
+UT,Utah 2,Personal Choice,49,Amos,0%,1210
+UT,Utah 3,R,49,Cannon,63%,173010
+UT,Utah 3,Democratic,49,Babka,33%,88748
+UT,Utah 3,Constitution,49,Winfield,2%,5089
+UT,Utah 3,Libertarian,49,Dexter,1%,3691
+UT,Utah 3,Personal Choice,49,James,1%,2390
+VA,Virginia 1,R,51,Davis,80%,225071
+VA,Virginia 1,I,51,Lee,20%,57434
+VA,Virginia 2,R,51,Drake,55%,132946
+VA,Virginia 2,Democratic,51,Ashe,45%,108180
+VA,Virginia 3,Democratic,51,Scott,69%,159373
+VA,Virginia 3,R,51,Sears,31%,70194
+VA,Virginia 4,R,51,Forbes,65%,182444
+VA,Virginia 4,Democratic,51,Menefee,35%,100413
+VA,Virginia 5,R,51,Goode,64%,172431
+VA,Virginia 5,Democratic,51,Weed,36%,98237
+VA,Virginia 6,R,51,Goodlatte,unopposed,unopposed
+VA,Virginia 7,R,51,Cantor,76%,230765
+VA,Virginia 7,I,51,Blanton,24%,74325
+VA,Virginia 8,Democratic,51,Moran,60%,171986
+VA,Virginia 8,R,51,Cheney,37%,106231
+VA,Virginia 8,I,51,Hurysz,3%,9004
+VA,Virginia 9,Democratic,51,Boucher,59%,150039
+VA,Virginia 9,R,51,Triplett,39%,98499
+VA,Virginia 9,I,51,Davis,2%,4341
+VA,Virginia 10,R,51,Wolf,64%,205982
+VA,Virginia 10,Democratic,51,Socas,36%,116654
+VA,Virginia 11,R,51,Davis,60%,186299
+VA,Virginia 11,Democratic,51,Longmyer,38%,118305
+VA,Virginia 11,I,51,Oddo,2%,4338
+VT,Vermont 1,I,50,Sanders,68%,205774
+VT,Vermont 1,R,50,Parke,24%,74271
+VT,Vermont 1,Democratic,50,Drown,7%,21684
+VT,Vermont 1,Liberty Union,50,Newton,1%,3018
+WA,Washington 1,Democratic,53,Inslee,62%,204121
+WA,Washington 1,R,53,Eastwood,36%,117850
+WA,Washington 1,Libertarian,53,Moore,2%,5798
+WA,Washington 2,Democratic,53,Larsen,64%,202383
+WA,Washington 2,R,53,Sinclair,34%,106333
+WA,Washington 2,Libertarian,53,Guthrie,2%,7966
+WA,Washington 3,Democratic,53,Baird,62%,193626
+WA,Washington 3,R,53,Crowson,38%,119027
+WA,Washington 4,R,53,Hastings,63%,154627
+WA,Washington 4,Democratic,53,Matheson,37%,92486
+WA,Washington 5,R,53,McMorris,60%,179600
+WA,Washington 5,Democratic,53,Barbieri,40%,121333
+WA,Washington 6,Democratic,53,Dicks,69%,202919
+WA,Washington 6,R,53,Cloud,31%,91228
+WA,Washington 7,Democratic,53,McDermott,81%,272302
+WA,Washington 7,R,53,Cassady,19%,65226
+WA,Washington 8,R,53,Reichert,51%,173298
+WA,Washington 8,Democratic,53,Ross,47%,157148
+WA,Washington 8,Libertarian,53,Garrett,2%,6053
+WA,Washington 9,Democratic,53,Smith,63%,162433
+WA,Washington 9,R,53,Lord,35%,88304
+WA,Washington 9,Green,53,Losey,2%,5934
+WI,Wisconsin 1,R,55,Ryan,65%,233372
+WI,Wisconsin 1,Democratic,55,Thomas,33%,116250
+WI,Wisconsin 1,I,55,Aulabaugh,1%,4252
+WI,Wisconsin 1,Libertarian,55,Bernau,1%,2936
+WI,Wisconsin 2,Democratic,55,Baldwin,63%,251637
+WI,Wisconsin 2,R,55,Magnum,37%,145810
+WI,Wisconsin 3,Democratic,55,Kind,56%,204856
+WI,Wisconsin 3,R,55,Schultz,44%,157866
+WI,Wisconsin 4,Democratic,55,Moore,70%,212382
+WI,Wisconsin 4,R,55,Boyle,28%,85928
+WI,Wisconsin 4,I,55,Johnson,1%,3733
+WI,Wisconsin 4,I,55,Raymond,1%,1861
+WI,Wisconsin 4,Constitution,55,Hudson,0%,897
+WI,Wisconsin 5,R,55,Sensenbrenner,66%,271153
+WI,Wisconsin 5,Democratic,55,Kennedy,32%,129384
+WI,Wisconsin 5,Libertarian,55,Peterson,2%,6549
+WI,Wisconsin 6,R,55,Petri,67%,238620
+WI,Wisconsin 6,Democratic,55,Hall,30%,107209
+WI,Wisconsin 6,Green,55,Rittenhouse,3%,10018
+WI,Wisconsin 7,Democratic,55,Obey,86%,252165
+WI,Wisconsin 7,Green,55,Miles,9%,28080
+WI,Wisconsin 7,Constitution,55,Oftedahl,5%,13523
+WI,Wisconsin 8,R,55,Green,70%,248070
+WV,West Virginia 1,Democratic,54,Mollohan,68%,166583
+WV,West Virginia 1,R,54,Parks,32%,79196
+WV,West Virginia 2,R,54,Capito,58%,147676
+WV,West Virginia 2,Democratic,54,Wells,41%,106131
+WV,West Virginia 2,Mountain Party,54,Martin,1%,3218
+WV,West Virginia 3,Democratic,54,Rahall,65%,142682
+WV,West Virginia 3,R,54,Snuffer,35%,76170
+WY,Wyoming 1,R,56,Cubin,55%,132107
+WY,Wyoming 1,Democratic,56,Ladd,42%,99989
+WY,Wyoming 1,Libertarian,56,Stock,3%,6581
