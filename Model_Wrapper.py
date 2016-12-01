@@ -9,11 +9,13 @@ from __future__ import division
 import os
 from scripts.scraper_2016 import scraper_2016
 from scripts.scraper_2012 import scraper_2012
+# from scraper_2008 import scraper_2008
 from scripts.scraper_2004 import scraper_2004
 from scripts.covariates_scraper import scraper_economics
 from scripts.covariates_cleaner import clean_covariates
 from scripts.covariates_cleaner import clean_demographics
 from scripts.covariates_scraper import scraper_economics as scraper_demographics
+from scripts.extras_cleaner import clean_extras
 # from scripts import scraper_unemp
 # from scripts import scraper_demog
 # from scripts import scraper_ind
@@ -47,6 +49,7 @@ class ModelWrapper:
                                   'education':{'title':'Percent with HS Degree or less','column':'pct_hs_less','subset':None,'subset_column':'Party','match_column':'County_FIPS','low_color':"#00fa9a",'high_color':"#ffd700"},
                                   'industry':{'title':'Estabs % Change','column':'oty_qtrly_estabs_pct_chg','subset':10,'subset_column':'industry_code','match_column':'County_FIPS','low_color':"#00fa9a",'high_color':"#ffd700"},
                                   'demographics':{'title':'Percent White','column':'pct_white','subset':None,'subset_column':'Party','match_column':'County_FIPS','low_color':"#00fa9a",'high_color':"#ffd700"},
+                                  'voting_machines':{'title':'Fraction of Voting Methods with Paper Trails','column':'Paper','subset':None,'subset_column':'Party','match_column':'County_FIPS','low_color':"#00fa9a",'high_color':"#ffd700"},
         }
 
         default_merge_options = {'president':{'pivot_column':'Party','pivot_values':['Percentage'],},
@@ -58,6 +61,7 @@ class ModelWrapper:
                                   'education':{'pivot_column':None,'pivot_values':['Percentage','Votes'],},
                                   'industry':{'pivot_column':None,'pivot_values':['Percentage','Votes'],},
                                   'demographics':{'pivot_column':None,'pivot_values':['Percentage','Votes'],},
+                                  'voting_machines':{'pivot_column':None,'pivot_values':['Percentage','Votes'],},
         }
         
         self.opts = kwargs.get('opts')
@@ -120,6 +124,8 @@ class ModelWrapper:
                 self.download_covariate_data(covariate, self.data_path + '/covariates/' + str(covariate) + '/', self.download_opts['replace'])
                 self.clean_covariate_data(covariate, self.data_path + '/covariates/' + str(covariate) + '/', self.download_opts['replace'])
                 self.clean_covariate_data(covariate, self.data_path + '/covariates/' + str(covariate) + '/', self.download_opts['replace'])
+        if self.download_opts['extra_datasets'] == True:
+            self.clean_extras('voting_machines_data', self.data_path + '/extras/', self.download_opts['replace'])
         # if self.download_opts['extra_datasets'] == True:
         #     self.download_extra_data(self.data_path + '/other/')
         if self.graphics_opts['graph_maps'] == True:
@@ -134,8 +140,11 @@ class ModelWrapper:
                         self.graph_maps(input_path = self.data_path + '/election-' + str(year) + '/governor/national_' + str(year) + '.csv', series_name = 'governor', output_path = self.graphics_path, year = year, series_options = self.series_opts)
                     except:
                         pass
-            for covariate in self.download_opts['covariates']:
-                self.graph_maps(input_path = self.data_path + '/covariates/' + str(covariate) + '.csv', series_name = covariate, year = None, output_path = self.graphics_path, series_options = self.series_opts)
+            # for covariate in self.download_opts['covariates']:
+            #     self.graph_maps(input_path = self.data_path + '/covariates/' + str(covariate) + '.csv', series_name = covariate, year = None, output_path = self.graphics_path, series_options = self.series_opts)
+
+            if self.download_opts['extra_datasets'] == True:
+                self.graph_maps(input_path = self.data_path + '/covariates/voting_machines.csv', series_name = 'voting_machines', year = None, output_path = self.graphics_path, series_options = self.series_opts)
 
         if os.path.isfile(self.data_path + '/merged_data.csv'):
             os.remove(self.data_path + '/merged_data.csv')
@@ -145,6 +154,9 @@ class ModelWrapper:
 
         for covariate in self.download_opts['covariates']:
             self.merge_vars(series = self.data_path + '/covariates/' + str(covariate) + '.csv', merge_opts = self.merge_opts.get(covariate), output = self.data_path + '/merged_data.csv', temp = self.data_path + '/tmp/', year = year, merge_var = 'County_FIPS')
+
+        if self.download_opts['extra_datasets'] == True:
+            self.merge_vars(series = self.data_path + '/covariates/voting_machines.csv', merge_opts = self.merge_opts.get('voting_machines'), output = self.data_path + '/merged_data.csv', temp = self.data_path + '/tmp/', year = year, merge_var = 'County_FIPS')
 
     def download_election_data(self, date, output_path, down_ballot_scrape, replace_files):
         if date == '2016':
@@ -169,6 +181,9 @@ class ModelWrapper:
         clean_covariates(series, output_path, replace_files)
         if series == 'demographics':
             clean_demographics(output_path)
+
+    def clean_extras(self, series, output_path, replace_files):
+        clean_extras(series, output_path, replace_files)
 
     # def download_extra_data(output_path):
     #     scraper_extras(output_path)
