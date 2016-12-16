@@ -20,7 +20,7 @@ The easiest way to get all of these modules to work on a PC is to install Anacon
 
 2: Options
 
-At this time, the software can scrape data from 4 different websites for the 2004, 2008, 2012, and 2016 elections, including down-ballot elections. Options are given in the file "Main.py," as follows:
+At this time, the software can scrape data from 4 different websites for the 2004, 2008, 2012, and 2016 elections, including down-ballot elections. Options are given in the file "Main.py," as follows (note, for the time being, the 2004 election doesn't work; we don't use any of this data in our analysis):
 
 download_options = {'years': ['2004','2008','2012','2016'], 'replace': ['2004','2008','2012','2016'],
                     'down_ballot':True, 'covariates': ['income','unemployment','industry','demographics'],
