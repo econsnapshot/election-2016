@@ -6,7 +6,7 @@ Institution: University of California, Santa Barbara
 
 email: griffy@umail.ucsb.edu
 
-website: https://sites.google.com/site/bengriffy/home
+website: www.bengriffy.com
 
 Date: 11/28/2016
 
