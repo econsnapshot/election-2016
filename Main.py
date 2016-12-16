@@ -27,7 +27,8 @@ graphics_path = path + '/graphics/'
 
 ############################################Options#############################################################
 #download_options: check model_wrapper.py for default options.
-#years: select years for download. currently supports 2004, 2008, 2012, 2016.
+#years: select years for download. currently supports 2004, 2008, 2012, 2016. The 2004 scraper isn't working
+#completely, so for the time being, only use 2008-2016.
 #replace: select either individual years to replace, or write True to replace all. False will download files not
 #found
 #down_ballot: download down-ballot (senate, house, local, etc.) at the county-level when available.
@@ -47,7 +48,7 @@ graphics_path = path + '/graphics/'
 #                     'extra_datasets': True, 'merge_datasets': True,
 # }
 
-download_options = {'years': ['2004','2008','2012','2016'], 'replace': False,
+download_options = {'years': ['2008','2012','2016'], 'replace': False,
                     'down_ballot': True, 'covariates': ['income','unemp','demographics','education','industry'],
                     'extra_datasets': False, 'merge_datasets': False,
 }
